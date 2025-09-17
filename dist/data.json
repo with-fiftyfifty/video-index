@@ -1,6 +1,6 @@
 {
-  "generated_at_iso": "2025-09-17T08:09:27.028+09:00",
-  "generated_at_millis": 1758064167028,
+  "generated_at_iso": "2025-09-17T13:09:27.672+09:00",
+  "generated_at_millis": 1758082167672,
   "data": {
     "others": [
       {
@@ -2170,6 +2170,41 @@
       }
     ],
     "weverse": [
+      {
+        "id": "4-209756912",
+        "title": "눈이 왜 이랬는지에 대한…",
+        "uploader": "HANA",
+        "channel_id": "221",
+        "channel_url": "https://weverse.io/fiftyfifty",
+        "duration": 1057,
+        "duration_string": "17:37",
+        "upload_date": "20250916",
+        "timestamp": 1758041607,
+        "release_timestamp": 1758041607,
+        "description": "",
+        "tags": [
+          "HANA"
+        ],
+        "categories": null,
+        "live_status": "was_live",
+        "was_live": true,
+        "is_live": false,
+        "media_type": "video",
+        "webpage_url": "https://weverse.io/fiftyfifty/live/4-209756912",
+        "subtitles": null,
+        "thumbnail": "https://phinf.wevpstatic.net/MjAyNTA5MTdfMjcx/MDAxNzU4MDQxNTg4OTAw.6FN2er1yKf3C1CnKLS1c9vSAs5OVNTBU5aLC2_nST-4g.eHH3tbaFRiAqA5EpW4sP2fTLtjiCwaXTX_5zDSOEgvwg.JPEG/image.jpg",
+        "thumbnails": [
+          {
+            "url": "https://phinf.wevpstatic.net/MjAyNTA5MTdfMjcx/MDAxNzU4MDQxNTg4OTAw.6FN2er1yKf3C1CnKLS1c9vSAs5OVNTBU5aLC2_nST-4g.eHH3tbaFRiAqA5EpW4sP2fTLtjiCwaXTX_5zDSOEgvwg.JPEG/image.jpg",
+            "id": "0"
+          }
+        ],
+        "platform": "Weverse",
+        "series": null,
+        "cast": [
+          "HANA"
+        ]
+      },
       {
         "id": "3-209323234",
         "title": "내 연습생 썰 들어볼사람 드루와",
