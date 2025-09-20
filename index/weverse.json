@@ -1,5 +1,50 @@
 [
 	{
+		"id": "3-209935676",
+		"title": "1ST DEBUT ANNIVERSARY LIVE 💘",
+		"uploader": "FIFTY FIFTY",
+		"channel_id": "221",
+		"channel_url": "https://weverse.io/fiftyfifty",
+		"duration": 2228,
+		"duration_string": "37:08",
+		"upload_date": "20250920",
+		"timestamp": 1758364220,
+		"release_timestamp": 1758364220,
+		"description": "",
+		"tags": [
+			"YEWON",
+			"ATHENA",
+			"CHANELLE MOON",
+			"HANA",
+			"KEENA",
+			"1ST DEBUT ANNIVERSARY",
+			"ANNIVERSARY"
+		],
+		"categories": null,
+		"live_status": "was_live",
+		"was_live": true,
+		"is_live": false,
+		"media_type": "video",
+		"webpage_url": "https://weverse.io/fiftyfifty/live/3-209935676",
+		"subtitles": null,
+		"thumbnail": "https://phinf.wevpstatic.net/MjAyNTA5MTlfMTM4/MDAxNzU4MjYzMTAwMTEx.tSrG0ACtIROxhs6zEU0gCBPxxUPtXAQV3pYiZg7IQkQg.p5Hg6syuDA4d9nVNuMn2-K66BU2BRy4D_NIUESHvm-Qg.JPEG/75844b09-4cc8-4e5a-9460-e1b0e7144b1b.jpeg",
+		"thumbnails": [
+			{
+				"url": "https://phinf.wevpstatic.net/MjAyNTA5MTlfMTM4/MDAxNzU4MjYzMTAwMTEx.tSrG0ACtIROxhs6zEU0gCBPxxUPtXAQV3pYiZg7IQkQg.p5Hg6syuDA4d9nVNuMn2-K66BU2BRy4D_NIUESHvm-Qg.JPEG/75844b09-4cc8-4e5a-9460-e1b0e7144b1b.jpeg",
+				"id": "0"
+			}
+		],
+		"platform": "Weverse",
+		"series": null,
+		"cast": [
+			"YEWON",
+			"ATHENA",
+			"CHANELLE MOON",
+			"HANA",
+			"KEENA"
+		]
+	},
+	{
 		"id": "4-209928515",
 		"title": "수다떨려고 왔옹",
 		"uploader": "HANA",
