@@ -1,5 +1,40 @@
 [
 	{
+		"id": "2-165522826",
+		"title": "일본이댱",
+		"uploader": "HANA",
+		"channel_id": "221",
+		"channel_url": "https://weverse.io/fiftyfifty",
+		"duration": 1233,
+		"duration_string": "20:33",
+		"upload_date": "20251012",
+		"timestamp": 1760230446,
+		"release_timestamp": 1760230446,
+		"description": "",
+		"tags": [
+			"HANA"
+		],
+		"categories": null,
+		"live_status": "was_live",
+		"was_live": true,
+		"is_live": false,
+		"media_type": "video",
+		"webpage_url": "https://weverse.io/fiftyfifty/live/2-165522826",
+		"subtitles": null,
+		"thumbnail": "https://phinf.wevpstatic.net/MjAyNTEwMTJfMjc0/MDAxNzYwMjMxNjkwMzkx.JxEacMNLvk0E6uO10gkQLIZU2fuoqCIBrm9w9or0DO0g.BdzK4ZKR9jZBP_b7BrhLBnP4UYwdgdei8hU9eRIzKnAg.JPEG/thumb.jpg",
+		"thumbnails": [
+			{
+				"url": "https://phinf.wevpstatic.net/MjAyNTEwMTJfMjc0/MDAxNzYwMjMxNjkwMzkx.JxEacMNLvk0E6uO10gkQLIZU2fuoqCIBrm9w9or0DO0g.BdzK4ZKR9jZBP_b7BrhLBnP4UYwdgdei8hU9eRIzKnAg.JPEG/thumb.jpg",
+				"id": "0"
+			}
+		],
+		"platform": "Weverse",
+		"series": null,
+		"cast": [
+			"HANA"
+		]
+	},
+	{
 		"id": "1-165447651",
 		"title": "냠🤍",
 		"uploader": "YEWON",
