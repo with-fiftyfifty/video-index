@@ -1,5 +1,77 @@
 [
 	{
+		"id": "1-166732388",
+		"title": "수험생 트웨니 고생했어",
+		"uploader": "KEENA",
+		"channel_id": "221",
+		"channel_url": "https://weverse.io/fiftyfifty",
+		"duration": 1899,
+		"duration_string": "31:39",
+		"upload_date": "20251113",
+		"timestamp": 1763045344,
+		"release_timestamp": 1763045344,
+		"description": "",
+		"tags": [
+			"KEENA"
+		],
+		"categories": null,
+		"live_status": "was_live",
+		"was_live": true,
+		"is_live": false,
+		"media_type": "video",
+		"webpage_url": "https://weverse.io/fiftyfifty/live/1-166732388",
+		"subtitles": null,
+		"thumbnail": "https://phinf.wevpstatic.net/MjAyNTExMTRfMTA3/MDAxNzYzMDQ3MjYxODM5.ImW750x3L4pAffPC9iqUlF4nH9UysSJk0_JCf9CPOLgg.9NI9d7MQ4Z5JmLVHcBUGMcQnn3h4ofIhcgvl0nC3Pz4g.JPEG/thumb.jpg",
+		"thumbnails": [
+			{
+				"url": "https://phinf.wevpstatic.net/MjAyNTExMTRfMTA3/MDAxNzYzMDQ3MjYxODM5.ImW750x3L4pAffPC9iqUlF4nH9UysSJk0_JCf9CPOLgg.9NI9d7MQ4Z5JmLVHcBUGMcQnn3h4ofIhcgvl0nC3Pz4g.JPEG/thumb.jpg",
+				"id": "0"
+			}
+		],
+		"platform": "Weverse",
+		"series": null,
+		"cast": [
+			"KEENA"
+		]
+	},
+	{
+		"id": "3-213824160",
+		"title": "T1 이겼당",
+		"uploader": "ATHENA",
+		"channel_id": "221",
+		"channel_url": "https://weverse.io/fiftyfifty",
+		"duration": 1244,
+		"duration_string": "20:44",
+		"upload_date": "20251109",
+		"timestamp": 1762690258,
+		"release_timestamp": 1762690258,
+		"description": "",
+		"tags": [
+			"ATHENA",
+			"HANA"
+		],
+		"categories": null,
+		"live_status": "was_live",
+		"was_live": true,
+		"is_live": false,
+		"media_type": "video",
+		"webpage_url": "https://weverse.io/fiftyfifty/live/3-213824160",
+		"subtitles": null,
+		"thumbnail": "https://phinf.wevpstatic.net/MjAyNTExMDlfMTcx/MDAxNzYyNjkxNTQ4NDQ1.BBqeDq2lXGIZcjDcemdv1UfiEN-svArZOwPQgyK8xpwg.9ivBjHqE4JxqVqZFzsezIJ5yeJ7HveezWGJ0z9uNilkg.JPEG/thumb.jpg",
+		"thumbnails": [
+			{
+				"url": "https://phinf.wevpstatic.net/MjAyNTExMDlfMTcx/MDAxNzYyNjkxNTQ4NDQ1.BBqeDq2lXGIZcjDcemdv1UfiEN-svArZOwPQgyK8xpwg.9ivBjHqE4JxqVqZFzsezIJ5yeJ7HveezWGJ0z9uNilkg.JPEG/thumb.jpg",
+				"id": "0"
+			}
+		],
+		"platform": "Weverse",
+		"series": null,
+		"cast": [
+			"ATHENA",
+			"HANA"
+		]
+	},
+	{
 		"id": "3-213469123",
 		"title": "오늘이잖아 트웨니~!!!",
 		"uploader": "HANA",
