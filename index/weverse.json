@@ -1,5 +1,42 @@
 [
 	{
+		"id": "0-167051481",
+		"title": "dont change the chanelle",
+		"uploader": "CHANELLE MOON",
+		"channel_id": "221",
+		"channel_url": "https://weverse.io/fiftyfifty",
+		"duration": 3992,
+		"duration_string": "1:06:32",
+		"upload_date": "20251126",
+		"timestamp": 1764124342,
+		"release_timestamp": 1764124342,
+		"description": "",
+		"tags": [
+			"CHANELLE MOON",
+			"Live Performance",
+			"Cover"
+		],
+		"categories": null,
+		"live_status": "was_live",
+		"was_live": true,
+		"is_live": false,
+		"media_type": "video",
+		"webpage_url": "https://weverse.io/fiftyfifty/live/0-167051481",
+		"subtitles": null,
+		"thumbnail": "https://phinf.wevpstatic.net/MjAyNTExMjZfMjM0/MDAxNzY0MTI0MzI5MDY0.szrfE7SLlGyYr_zJyC0roXoRgwsmbCdE09a2vfkqHUIg.5rFtx5zY2EqrwfG5el07jFgIKOKLa5p5o8ezC2tqPlAg.JPEG/image.jpg",
+		"thumbnails": [
+			{
+				"url": "https://phinf.wevpstatic.net/MjAyNTExMjZfMjM0/MDAxNzY0MTI0MzI5MDY0.szrfE7SLlGyYr_zJyC0roXoRgwsmbCdE09a2vfkqHUIg.5rFtx5zY2EqrwfG5el07jFgIKOKLa5p5o8ezC2tqPlAg.JPEG/image.jpg",
+				"id": "0"
+			}
+		],
+		"platform": "Weverse",
+		"series": null,
+		"cast": [
+			"CHANELLE MOON"
+		]
+	},
+	{
 		"id": "1-166732388",
 		"title": "수험생 트웨니 고생했어",
 		"uploader": "KEENA",
