@@ -1,6 +1,6 @@
 {
-  "generated_at_iso": "2025-12-10T05:24:04.415+09:00",
-  "generated_at_millis": 1765311844415,
+  "generated_at_iso": "2025-12-10T18:10:43.481+09:00",
+  "generated_at_millis": 1765357843481,
   "data": {
     "others": [
       {
@@ -10850,6 +10850,45 @@
       }
     ],
     "weverse": [
+      {
+        "id": "2-167559054",
+        "title": "심심해 나랑 같이 수다떨자🦋",
+        "uploader": "YEWON",
+        "creators": "FIFTY FIFTY",
+        "channel_id": "221",
+        "channel_url": "https://weverse.io/fiftyfifty",
+        "duration": 2789,
+        "duration_string": "46:29",
+        "upload_date": "20251210",
+        "timestamp": 1765353635,
+        "release_timestamp": 1765353635,
+        "description": "",
+        "tags": [
+          "YEWON",
+          "KEENA",
+          "Live Performance"
+        ],
+        "categories": null,
+        "live_status": "was_live",
+        "was_live": true,
+        "is_live": false,
+        "media_type": "video",
+        "webpage_url": "https://weverse.io/fiftyfifty/live/2-167559054",
+        "subtitles": null,
+        "thumbnail": "https://phinf.wevpstatic.net/MjAyNTEyMTBfMjAw/MDAxNzY1MzU2NDM1ODI4.6eOl81bmaEQ_vr69ldl3uSdJa1mYRdzaJBxiIKokxd8g.P_h9X1X4BLJlk1vn-c5O1eTwTjjOlxZ_1E6-DOQ5Bkcg.JPEG/thumb.jpg",
+        "thumbnails": [
+          {
+            "url": "https://phinf.wevpstatic.net/MjAyNTEyMTBfMjAw/MDAxNzY1MzU2NDM1ODI4.6eOl81bmaEQ_vr69ldl3uSdJa1mYRdzaJBxiIKokxd8g.P_h9X1X4BLJlk1vn-c5O1eTwTjjOlxZ_1E6-DOQ5Bkcg.JPEG/thumb.jpg",
+            "id": "0"
+          }
+        ],
+        "platform": "Weverse",
+        "series": null,
+        "cast": [
+          "YEWON",
+          "KEENA"
+        ]
+      },
       {
         "id": "3-215748664",
         "title": "지루해...",
