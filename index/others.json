@@ -1,5 +1,52 @@
 [
 	{
+		"id": "hGybnQYhoGA",
+		"title": "#FIFTYFIFTY #HANA #ATHENA sanと\"Say Something\"🗣️✨ありがとうございました🚀❤️‍🔥",
+		"uploader": "THE JET BOY BANGERZ",
+		"creators": [
+			"THE JET BOY BANGERZ",
+			"FIFTY FIFTY Official"
+		],
+		"channel_id": "UC2EViVbHIAwfUfmfNId-isg",
+		"channel_url": "https://www.youtube.com/channel/UC2EViVbHIAwfUfmfNId-isg",
+		"duration": 24,
+		"duration_string": "24",
+		"upload_date": "20251218",
+		"timestamp": 1766055600,
+		"release_timestamp": null,
+		"description": "@WE_FIFTYFIFTY \n#피프티피프티\n#하나 #아테나\n\n#TJBB #HINATA \n#THEJETBOYBANGERZ",
+		"tags": [
+			"HANA",
+			"ATHENA",
+			"HINATA (THE JET BOY BANGERZ)",
+			"Say Something - The Jet Boy Bangerz"
+		],
+		"categories": [
+			"Challenges"
+		],
+		"live_status": "not_live",
+		"was_live": false,
+		"is_live": false,
+		"media_type": "short",
+		"webpage_url": "https://www.youtube.com/watch?v=hGybnQYhoGA",
+		"subtitles": null,
+		"thumbnail": "https://i.ytimg.com/vi/hGybnQYhoGA/maxresdefault.jpg",
+		"thumbnails": {
+			"default": "https://i.ytimg.com/vi/hGybnQYhoGA/default.jpg",
+			"mqdefault": "https://i.ytimg.com/vi/hGybnQYhoGA/mqdefault.jpg",
+			"hqdefault": "https://i.ytimg.com/vi/hGybnQYhoGA/hqdefault.jpg",
+			"sddefault": "https://i.ytimg.com/vi/hGybnQYhoGA/sddefault.jpg",
+			"maxresdefault": "https://i.ytimg.com/vi/hGybnQYhoGA/maxresdefault.jpg"
+		},
+		"platform": "youtube",
+		"series": "Say Something Challenge",
+		"cast": [
+			"HANA",
+			"ATHENA",
+			"HINATA (THE JET BOY BANGERZ)"
+		]
+	},
+	{
 		"id": "Is4YEE0C8MM",
 		"title": "#Skittlez_Challenge with #YEWON #ATHENA Thank you! #FIFTYFIFTY #피프티피프티 #Skittlez #PSYCHICFEVER",
 		"uploader": "PSYCHIC FEVER from EXILE TRIBE",
@@ -4080,50 +4127,6 @@
 		]
 	},
 	{
-		"id": "aSqXJ45gzpA",
-		"title": "노바디때 태어난 아기가 벌써 데뷔했다니🥹 #피프티피프티 #아테나 #문샤넬 #원더걸스 #유빈",
-		"uploader": "유빈의 스포뚜라이뚜",
-		"channel_id": "UC1LT4qQEzZJxZSkgQyN6IqQ",
-		"channel_url": "https://www.youtube.com/channel/UC1LT4qQEzZJxZSkgQyN6IqQ",
-		"duration": 49,
-		"duration_string": "49",
-		"upload_date": "20251114",
-		"timestamp": 1763110802,
-		"release_timestamp": null,
-		"description": "",
-		"tags": [
-			"KIM YUBIN (WONDER GIRLS)",
-			"Yubin's Spotlight",
-			"ATHENA",
-			"CHANELLE MOON"
-		],
-		"categories": [
-			"Variety",
-			"Clips"
-		],
-		"live_status": "not_live",
-		"was_live": false,
-		"is_live": false,
-		"media_type": "short",
-		"webpage_url": "https://www.youtube.com/watch?v=aSqXJ45gzpA",
-		"subtitles": null,
-		"thumbnail": "https://i.ytimg.com/vi/aSqXJ45gzpA/maxresdefault.jpg",
-		"thumbnails": {
-			"default": "https://i.ytimg.com/vi/aSqXJ45gzpA/default.jpg",
-			"mqdefault": "https://i.ytimg.com/vi/aSqXJ45gzpA/mqdefault.jpg",
-			"hqdefault": "https://i.ytimg.com/vi/aSqXJ45gzpA/hqdefault.jpg",
-			"sddefault": "https://i.ytimg.com/vi/aSqXJ45gzpA/sddefault.jpg",
-			"maxresdefault": "https://i.ytimg.com/vi/aSqXJ45gzpA/maxresdefault.jpg"
-		},
-		"platform": "youtube",
-		"series": "Yubin's Spotlight",
-		"cast": [
-			"ATHENA",
-			"CHANELLE MOON",
-			"KIM YUBIN (WONDER GIRLS)"
-		]
-	},
-	{
 		"id": "ha8rzPRvFeg",
 		"title": "딱 하루만 열리는 발로란트 원데이 클래스 (With FIFTY FIFTY 아테나) | T1 VALORANT",
 		"uploader": "T1 VALORANT",
@@ -4171,6 +4174,50 @@
 			"BuZz",
 			"Carpe",
 			"Athena"
+		]
+	},
+	{
+		"id": "aSqXJ45gzpA",
+		"title": "노바디때 태어난 아기가 벌써 데뷔했다니🥹 #피프티피프티 #아테나 #문샤넬 #원더걸스 #유빈",
+		"uploader": "유빈의 스포뚜라이뚜",
+		"channel_id": "UC1LT4qQEzZJxZSkgQyN6IqQ",
+		"channel_url": "https://www.youtube.com/channel/UC1LT4qQEzZJxZSkgQyN6IqQ",
+		"duration": 49,
+		"duration_string": "49",
+		"upload_date": "20251114",
+		"timestamp": 1763110802,
+		"release_timestamp": null,
+		"description": "",
+		"tags": [
+			"KIM YUBIN (WONDER GIRLS)",
+			"Yubin's Spotlight",
+			"ATHENA",
+			"CHANELLE MOON"
+		],
+		"categories": [
+			"Variety",
+			"Clips"
+		],
+		"live_status": "not_live",
+		"was_live": false,
+		"is_live": false,
+		"media_type": "short",
+		"webpage_url": "https://www.youtube.com/watch?v=aSqXJ45gzpA",
+		"subtitles": null,
+		"thumbnail": "https://i.ytimg.com/vi/aSqXJ45gzpA/maxresdefault.jpg",
+		"thumbnails": {
+			"default": "https://i.ytimg.com/vi/aSqXJ45gzpA/default.jpg",
+			"mqdefault": "https://i.ytimg.com/vi/aSqXJ45gzpA/mqdefault.jpg",
+			"hqdefault": "https://i.ytimg.com/vi/aSqXJ45gzpA/hqdefault.jpg",
+			"sddefault": "https://i.ytimg.com/vi/aSqXJ45gzpA/sddefault.jpg",
+			"maxresdefault": "https://i.ytimg.com/vi/aSqXJ45gzpA/maxresdefault.jpg"
+		},
+		"platform": "youtube",
+		"series": "Yubin's Spotlight",
+		"cast": [
+			"ATHENA",
+			"CHANELLE MOON",
+			"KIM YUBIN (WONDER GIRLS)"
 		]
 	},
 	{
