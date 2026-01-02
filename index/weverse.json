@@ -1,5 +1,41 @@
 [
 	{
+		"id": "1-168375023",
+		"title": "2026 첫 라이브",
+		"uploader": "넬샤",
+		"creators": "FIFTY FIFTY",
+		"channel_id": "221",
+		"channel_url": "https://weverse.io/fiftyfifty",
+		"duration": 2359,
+		"duration_string": "39:19",
+		"upload_date": "20260102",
+		"timestamp": 1767337441,
+		"release_timestamp": 1767337441,
+		"description": "",
+		"tags": [
+			"CHANELLE MOON"
+		],
+		"categories": null,
+		"live_status": "was_live",
+		"was_live": true,
+		"is_live": false,
+		"media_type": "video",
+		"webpage_url": "https://weverse.io/fiftyfifty/live/1-168375023",
+		"subtitles": null,
+		"thumbnail": "https://phinf.wevpstatic.net/MjAyNjAxMDJfMTc3/MDAxNzY3MzM3NDI4MjUy.yuuun3_YTjXZTSufHd--2IgikGhuHklwih593Ht5y6Mg.yQ4fDPZ8wMlwIENEmsbwLfw1cBAifyS64ZaAGzDFvmog.JPEG/image.jpg",
+		"thumbnails": [
+			{
+				"url": "https://phinf.wevpstatic.net/MjAyNjAxMDJfMTc3/MDAxNzY3MzM3NDI4MjUy.yuuun3_YTjXZTSufHd--2IgikGhuHklwih593Ht5y6Mg.yQ4fDPZ8wMlwIENEmsbwLfw1cBAifyS64ZaAGzDFvmog.JPEG/image.jpg",
+				"id": "0"
+			}
+		],
+		"platform": "Weverse",
+		"series": null,
+		"cast": [
+			"CHANELLE MOON"
+		]
+	},
+	{
 		"id": "4-216732840",
 		"title": "약속 지키러 왔엉🎄",
 		"uploader": "KEENA",
