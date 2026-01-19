@@ -1,5 +1,48 @@
 [
 	{
+		"id": "bjUmCHpBiY4",
+		"title": "Artist Portrait: KEENA - 'KawiBawiBo' Live Performance (Original by Yoonmirae)",
+		"uploader": "KITZ 킷츠",
+		"creators": null,
+		"channel_id": "UC5dXelcxL5K6bsy1i5KztZg",
+		"channel_url": "https://www.youtube.com/channel/UC5dXelcxL5K6bsy1i5KztZg",
+		"duration": 203,
+		"duration_string": "3:23",
+		"upload_date": "20260119",
+		"timestamp": 1768813200,
+		"release_timestamp": null,
+		"description": "Watch on KITZ 📲\n▶ iOS : https://apps.apple.com/app/id6749225206\n▶ Android : https://play.google.com/store/apps/details?id=com.takeonecompany.shortform\n\nCapture the artist’s identity in its deepest and most beautiful form\n\nKITZ Original Content [Artist Portrait]\nOnly on KITZ\n\n#KITZ #FIFTYFIFTY #KEENA",
+		"tags": [
+			"KITZ",
+			"KEENA",
+			"Artist Portrait",
+			"KawiBawiBo - Yoonmirae",
+			"Cover"
+		],
+		"categories": [
+			"Live Performance"
+		],
+		"live_status": "not_live",
+		"was_live": false,
+		"is_live": false,
+		"media_type": "video",
+		"webpage_url": "https://www.youtube.com/watch?v=bjUmCHpBiY4",
+		"subtitles": null,
+		"thumbnail": "https://i.ytimg.com/vi/bjUmCHpBiY4/maxresdefault.jpg",
+		"thumbnails": {
+			"default": "https://i.ytimg.com/vi/bjUmCHpBiY4/default.jpg",
+			"mqdefault": "https://i.ytimg.com/vi/bjUmCHpBiY4/mqdefault.jpg",
+			"hqdefault": "https://i.ytimg.com/vi/bjUmCHpBiY4/hqdefault.jpg",
+			"sddefault": "https://i.ytimg.com/vi/bjUmCHpBiY4/sddefault.jpg",
+			"maxresdefault": "https://i.ytimg.com/vi/bjUmCHpBiY4/maxresdefault.jpg"
+		},
+		"platform": "youtube",
+		"series": "KITZ - Artist Potrait",
+		"cast": [
+			"KEENA"
+		]
+	},
+	{
 		"id": "dfsdIJxsPeA",
 		"title": "[LIVE DAN] 하나 (FIFTY FIFTY) - 외롭지 않네 | #러브미 OST",
 		"uploader": "GOGOSING ",
@@ -64,7 +107,7 @@
 			"Clips"
 		],
 		"categories": [
-			"Variety"
+			"Clips"
 		],
 		"live_status": "not_live",
 		"was_live": false,
