@@ -1,5 +1,41 @@
 [
 	{
+		"id": "4-218634332",
+		"title": "오랜만이지?",
+		"uploader": "KEENA",
+		"creators": "FIFTY FIFTY",
+		"channel_id": "221",
+		"channel_url": "https://weverse.io/fiftyfifty",
+		"duration": 2244,
+		"duration_string": "37:24",
+		"upload_date": "20260119",
+		"timestamp": 1768806704,
+		"release_timestamp": 1768806704,
+		"description": "",
+		"tags": [
+			"KEENA"
+		],
+		"categories": null,
+		"live_status": "was_live",
+		"was_live": true,
+		"is_live": false,
+		"media_type": "video",
+		"webpage_url": "https://weverse.io/fiftyfifty/live/4-218634332",
+		"subtitles": null,
+		"thumbnail": "https://phinf.wevpstatic.net/MjAyNjAxMTlfMTIg/MDAxNzY4ODA4OTU3Nzg4.1OCrCgPs1QUHVRjF1Wgph39Sll1lJ4B1flwEMYnPKIog.WoIBo0IL8KwZ6f9rIoxXY-dhq3Ylyg-u-e5wgAyy-sQg.JPEG/thumb.jpg",
+		"thumbnails": [
+			{
+				"url": "https://phinf.wevpstatic.net/MjAyNjAxMTlfMTIg/MDAxNzY4ODA4OTU3Nzg4.1OCrCgPs1QUHVRjF1Wgph39Sll1lJ4B1flwEMYnPKIog.WoIBo0IL8KwZ6f9rIoxXY-dhq3Ylyg-u-e5wgAyy-sQg.JPEG/thumb.jpg",
+				"id": "0"
+			}
+		],
+		"platform": "Weverse",
+		"series": null,
+		"cast": [
+			"KEENA"
+		]
+	},
+	{
 		"id": "1-168577352",
 		"title": "저녁밥 냠냠",
 		"uploader": "HANA",
@@ -1644,7 +1680,9 @@
 		"timestamp": 1756352663,
 		"release_timestamp": 1756352663,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"CHANELLE MOON"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -1677,7 +1715,9 @@
 		"timestamp": 1756216259,
 		"release_timestamp": 1756216259,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"KEENA"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -1710,7 +1750,9 @@
 		"timestamp": 1755574596,
 		"release_timestamp": 1755574596,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"HANA"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -1781,7 +1823,10 @@
 		"timestamp": 1754899239,
 		"release_timestamp": 1754899239,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"HANA",
+			"CHANELLE MOON"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -1815,7 +1860,9 @@
 		"timestamp": 1754899068,
 		"release_timestamp": 1754899068,
 		"description": "하나 왔당☘️",
-		"tags": null,
+		"tags": [
+			"HANA"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -1848,7 +1895,9 @@
 		"timestamp": 1754879053,
 		"release_timestamp": 1754879053,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"KEENA"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -1881,7 +1930,9 @@
 		"timestamp": 1754301756,
 		"release_timestamp": 1754301756,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"CHANELLE MOON"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -1914,7 +1965,9 @@
 		"timestamp": 1753877441,
 		"release_timestamp": 1753877441,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"KEENA"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -1947,7 +2000,9 @@
 		"timestamp": 1753668081,
 		"release_timestamp": 1753668081,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"YEWON"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -1980,7 +2035,13 @@
 		"timestamp": 1752746422,
 		"release_timestamp": 1752746422,
 		"description": "해당 라이브에서 TWENY의 질문을 받아 FIFTY FIFTY 멤버들이 답변해드릴 예정입니다.\nTWENY의 많은 관심과 참여 부탁드립니다.\n\n📝 Q&A form\n🔗 https://forms.gle/DcY8TRbuzhucSYDw7\n\n#FIFTYFIFTY #피프티피프티",
-		"tags": null,
+		"tags": [
+			"CHANELLE MOON",
+			"KEENA",
+			"HANA",
+			"ATHENA",
+			"YEWON"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -2017,7 +2078,9 @@
 		"timestamp": 1752559400,
 		"release_timestamp": 1752559400,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"ATHENA"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -2050,7 +2113,9 @@
 		"timestamp": 1752559318,
 		"release_timestamp": 1752559318,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"ATHENA"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -2083,7 +2148,9 @@
 		"timestamp": 1752415975,
 		"release_timestamp": 1752415975,
 		"description": "같이 저녁묵자 우리 보고싶었어🤍",
-		"tags": null,
+		"tags": [
+			"KEENA"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -2116,7 +2183,12 @@
 		"timestamp": 1752303603,
 		"release_timestamp": 1752303603,
 		"description": "그냥 보고싶어서 ㅎㅎㅎ",
-		"tags": null,
+		"tags": [
+			"ATHENA",
+			"YEWON",
+			"HANA",
+			"CHANELLE MOON"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -2152,7 +2224,12 @@
 		"timestamp": 1746421221,
 		"release_timestamp": 1746421221,
 		"description": "How was your children's day?👼💛\n2025. 05. 05 2PM (KST)\nWeverse Live\n\n#FIFTYFIFTY #피프티피프티\n#FIFTYFIFTY_DayAndNight\n#DayAndNight #Pookie\n#피프티피프티_Pookie",
-		"tags": null,
+		"tags": [
+			"ATHENA",
+			"YEWON",
+			"HANA",
+			"CHANELLE MOON"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -2188,7 +2265,11 @@
 		"timestamp": 1745578908,
 		"release_timestamp": 1745578908,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"YEWON",
+			"HANA",
+			"KEENA"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -2223,7 +2304,10 @@
 		"timestamp": 1745474419,
 		"release_timestamp": 1745474419,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"ATHENA",
+			"HANA"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -2257,7 +2341,10 @@
 		"timestamp": 1745402417,
 		"release_timestamp": 1745402417,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"ATHENA",
+			"CHANELLE MOON"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -2291,7 +2378,9 @@
 		"timestamp": 1745298038,
 		"release_timestamp": 1745298038,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"KEENA"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -2324,7 +2413,10 @@
 		"timestamp": 1745070966,
 		"release_timestamp": 1745070966,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"YEWON",
+			"ATHENA"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -2358,7 +2450,10 @@
 		"timestamp": 1744776376,
 		"release_timestamp": 1744776376,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"YEWON",
+			"ATHENA"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -2392,7 +2487,9 @@
 		"timestamp": 1743830122,
 		"release_timestamp": 1743830122,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"YEWON"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -2425,7 +2522,10 @@
 		"timestamp": 1743674444,
 		"release_timestamp": 1743674444,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"KEENA",
+			"CHANELLE MOON"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -2459,7 +2559,10 @@
 		"timestamp": 1743501662,
 		"release_timestamp": 1743501662,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"ATHENA",
+			"HANA"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -2493,7 +2596,9 @@
 		"timestamp": 1742189863,
 		"release_timestamp": 1742189863,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"YEWON"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -2526,7 +2631,11 @@
 		"timestamp": 1742023194,
 		"release_timestamp": 1742023194,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"YEWON",
+			"ATHENA",
+			"HANA"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -2561,7 +2670,9 @@
 		"timestamp": 1742009443,
 		"release_timestamp": 1742009443,
 		"description": "zzz",
-		"tags": null,
+		"tags": [
+			"ATHENA"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -2594,7 +2705,13 @@
 		"timestamp": 1739345421,
 		"release_timestamp": 1739345421,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"ATHENA",
+			"YEWON",
+			"HANA",
+			"KEENA",
+			"CHANELLE MOON"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -2631,7 +2748,13 @@
 		"timestamp": 1736247659,
 		"release_timestamp": 1736247659,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"ATHENA",
+			"YEWON",
+			"HANA",
+			"KEENA",
+			"CHANELLE MOON"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -2668,7 +2791,13 @@
 		"timestamp": 1732957931,
 		"release_timestamp": 1732957931,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"ATHENA",
+			"YEWON",
+			"HANA",
+			"KEENA",
+			"CHANELLE MOON"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
