@@ -1,6 +1,6 @@
 {
-  "generated_at_iso": "2026-01-21T03:26:13.567+09:00",
-  "generated_at_millis": 1768933573567,
+  "generated_at_iso": "2026-01-21T16:13:43.229+09:00",
+  "generated_at_millis": 1768979623229,
   "data": {
     "others": [
       {
@@ -13923,6 +13923,42 @@
       }
     ],
     "weverse": [
+      {
+        "id": "1-169045493",
+        "title": "심심해 놀쟈",
+        "uploader": "HANA",
+        "creators": "FIFTY FIFTY",
+        "channel_id": "221",
+        "channel_url": "https://weverse.io/fiftyfifty",
+        "duration": 2230,
+        "duration_string": "37:10",
+        "upload_date": "20260121",
+        "timestamp": 1768970684,
+        "release_timestamp": 1768970684,
+        "description": "",
+        "tags": [
+          "HANA"
+        ],
+        "categories": null,
+        "live_status": "was_live",
+        "was_live": true,
+        "is_live": false,
+        "media_type": "video",
+        "webpage_url": "https://weverse.io/fiftyfifty/live/1-169045493",
+        "subtitles": null,
+        "thumbnail": "https://phinf.wevpstatic.net/MjAyNjAxMjFfMjY1/MDAxNzY4OTcyOTIyNDU2.Xhck6CtyvTacO2LzPJaSG6SYERsVV0Za5MfGzOfLB9Yg.7CXSfn_xjIxxvsezTYLei0juzosMqfWvuWtF56BugOog.JPEG/thumb.jpg",
+        "thumbnails": [
+          {
+            "url": "https://phinf.wevpstatic.net/MjAyNjAxMjFfMjY1/MDAxNzY4OTcyOTIyNDU2.Xhck6CtyvTacO2LzPJaSG6SYERsVV0Za5MfGzOfLB9Yg.7CXSfn_xjIxxvsezTYLei0juzosMqfWvuWtF56BugOog.JPEG/thumb.jpg",
+            "id": "0"
+          }
+        ],
+        "platform": "Weverse",
+        "series": null,
+        "cast": [
+          "HANA"
+        ]
+      },
       {
         "id": "4-218634332",
         "title": "오랜만이지?",
