@@ -1,5 +1,77 @@
 [
 	{
+		"id": "3-219573277",
+		"title": "트웨니랑 하나랑",
+		"uploader": "HANA",
+		"creators": "FIFTY FIFTY",
+		"channel_id": "221",
+		"channel_url": "https://weverse.io/fiftyfifty",
+		"duration": 3309,
+		"duration_string": "55:09",
+		"upload_date": "20260202",
+		"timestamp": 1770013447,
+		"release_timestamp": 1770013447,
+		"description": "",
+		"tags": [
+			"HANA"
+		],
+		"categories": null,
+		"live_status": "was_live",
+		"was_live": true,
+		"is_live": false,
+		"media_type": "video",
+		"webpage_url": "https://weverse.io/fiftyfifty/live/3-219573277",
+		"subtitles": null,
+		"thumbnail": "https://phinf.wevpstatic.net/MjAyNjAyMDJfMjE4/MDAxNzcwMDE2NzYzNjQz.VgvEma1aGbx9Wwv4gMs7z1k7e9Nh8FspXgw16iW2xl4g.z01sSSZHP33kym9D1JmP9so5iGvTgd04DVyeDZXbimEg.JPEG/thumb.jpg",
+		"thumbnails": [
+			{
+				"url": "https://phinf.wevpstatic.net/MjAyNjAyMDJfMjE4/MDAxNzcwMDE2NzYzNjQz.VgvEma1aGbx9Wwv4gMs7z1k7e9Nh8FspXgw16iW2xl4g.z01sSSZHP33kym9D1JmP9so5iGvTgd04DVyeDZXbimEg.JPEG/thumb.jpg",
+				"id": "0"
+			}
+		],
+		"platform": "Weverse",
+		"series": null,
+		"cast": [
+			"HANA"
+		]
+	},
+	{
+		"id": "1-169451137",
+		"title": "테나랑 노래연습~",
+		"uploader": "ATHENA",
+		"creators": "FIFTY FIFTY",
+		"channel_id": "221",
+		"channel_url": "https://weverse.io/fiftyfifty",
+		"duration": 4573,
+		"duration_string": "1:16:13",
+		"upload_date": "20260202",
+		"timestamp": 1770007713,
+		"release_timestamp": 1770007713,
+		"description": "",
+		"tags": [
+			"ATHENA"
+		],
+		"categories": null,
+		"live_status": "was_live",
+		"was_live": true,
+		"is_live": false,
+		"media_type": "video",
+		"webpage_url": "https://weverse.io/fiftyfifty/live/1-169451137",
+		"subtitles": null,
+		"thumbnail": "https://phinf.wevpstatic.net/MjAyNDA0MDlfMTcx/MDAxNzEyNjQyMDYwNTY5.kZNwRC9suEwvYXqWuh8GSQNo8BEcOgzvKPZ3R5_fMFwg.riziFHxmDduqpxAyIEG6DNKMmNTFz7scJlPhx_mn4yUg.PNG/voice_p.png",
+		"thumbnails": [
+			{
+				"url": "https://phinf.wevpstatic.net/MjAyNDA0MDlfMTcx/MDAxNzEyNjQyMDYwNTY5.kZNwRC9suEwvYXqWuh8GSQNo8BEcOgzvKPZ3R5_fMFwg.riziFHxmDduqpxAyIEG6DNKMmNTFz7scJlPhx_mn4yUg.PNG/voice_p.png",
+				"id": "0"
+			}
+		],
+		"platform": "Weverse",
+		"series": null,
+		"cast": [
+			"ATHENA"
+		]
+	},
+	{
 		"id": "1-169045493",
 		"title": "심심해 놀쟈",
 		"uploader": "HANA",
