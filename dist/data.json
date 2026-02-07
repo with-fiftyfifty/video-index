@@ -1,8 +1,51 @@
 {
-  "generated_at_iso": "2026-02-04T18:47:26.871+09:00",
-  "generated_at_millis": 1770198446871,
+  "generated_at_iso": "2026-02-05T19:33:14.996+09:00",
+  "generated_at_millis": 1770287594996,
   "data": {
     "others": [
+      {
+        "id": "MlgULBC433A",
+        "title": "[DAN답] 하나의 '요즘 테스트' 결과: 업데이트 진행 중 🌀 | #FIFTYFIFTY #하나",
+        "uploader": "GOGOSING ",
+        "creators": null,
+        "channel_id": "UCcc8hGY5L6S874k6o_J1v7w",
+        "channel_url": "https://www.youtube.com/channel/UCcc8hGY5L6S874k6o_J1v7w",
+        "duration": 109,
+        "duration_string": "1:49",
+        "upload_date": "20260205",
+        "timestamp": 1770285600,
+        "release_timestamp": null,
+        "description": "[DAN답] 하나의 '요즘 테스트' 결과: 업데이트 진행 중 🌀 | #FIFTYFIFTY #하나\n\n본격 반말 인터뷰 『DAN답』\n\n#피프티피프티 #HANA #DAN답\n#외롭지않네 #Heartbreak\n#LIVEDAN #라이브단 #고고씽 #GOGOSING\n\n-----\n📢 Youtube : https://www.youtube.com/@GOGOSING_SLL\n📢 X : https://x.com/GOGOSING_SLL\n📢 Instagram : https://www.instagram.com/gogosing_sll\n📢 TikTok : https://www.tiktok.com/@gogosing_sll\n📢 NAVER TV : https://tv.naver.com/gogosingsll",
+        "tags": [
+          "LIVE DAN",
+          "GOGOSING",
+          "HANA",
+          "Interviews / Q&A / Talk Shows"
+        ],
+        "categories": [
+          "Interviews",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=MlgULBC433A",
+        "subtitles": null,
+        "thumbnail": "https://i.ytimg.com/vi/MlgULBC433A/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/MlgULBC433A/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/MlgULBC433A/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/MlgULBC433A/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/MlgULBC433A/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/MlgULBC433A/maxresdefault.jpg"
+        },
+        "platform": "youtube",
+        "series": "LIVE DAN",
+        "cast": [
+          "HANA"
+        ]
+      },
       {
         "id": "nK74phPf93Y",
         "title": "[야구기인 임찬규] 오늘은 내가 피프티피프티 일일매니저♥  | 5화 예고 | TVING",
@@ -15236,6 +15279,42 @@
     ],
     "weverse": [
       {
+        "id": "0-169513293",
+        "title": "새벽라이브 🥴🤍",
+        "uploader": "HANA",
+        "creators": "FIFTY FIFTY",
+        "channel_id": "221",
+        "channel_url": "https://weverse.io/fiftyfifty",
+        "duration": 977,
+        "duration_string": "16:17",
+        "upload_date": "20260204",
+        "timestamp": 1770217373,
+        "release_timestamp": 1770217373,
+        "description": "",
+        "tags": [
+          "HANA"
+        ],
+        "categories": null,
+        "live_status": "was_live",
+        "was_live": true,
+        "is_live": false,
+        "media_type": "video",
+        "webpage_url": "https://weverse.io/fiftyfifty/live/0-169513293",
+        "subtitles": null,
+        "thumbnail": "https://phinf.wevpstatic.net/MjAyNjAyMDVfMjg5/MDAxNzcwMjE4MzU4MzM2.F0BulyOypjc-iP1fJ_-c3ovduG3t_0DrcXPyEO4bysUg.Y0-M7NeWsZBZPlTE0trrKo2U0DQSAhXeAIyjvsU3pvYg.JPEG/thumb.jpg",
+        "thumbnails": [
+          {
+            "url": "https://phinf.wevpstatic.net/MjAyNjAyMDVfMjg5/MDAxNzcwMjE4MzU4MzM2.F0BulyOypjc-iP1fJ_-c3ovduG3t_0DrcXPyEO4bysUg.Y0-M7NeWsZBZPlTE0trrKo2U0DQSAhXeAIyjvsU3pvYg.JPEG/thumb.jpg",
+            "id": "0"
+          }
+        ],
+        "platform": "Weverse",
+        "series": null,
+        "cast": [
+          "HANA"
+        ]
+      },
+      {
         "id": "3-219573277",
         "title": "트웨니랑 하나랑",
         "uploader": "HANA",
@@ -18168,6 +18247,56 @@
       }
     ],
     "youtube": [
+      {
+        "id": "93NGiGdPmVs",
+        "title": "[FIF TAKE] 승부는 디비디비딥으로 끝나다🤫 | Japan Promotions Behind  | #Spotify #SonyMusic ✈️",
+        "uploader": "FIFTY FIFTY Official",
+        "creators": null,
+        "channel_id": "UCJEER74X9kBenMT_x9iK9Mw",
+        "channel_url": "https://www.youtube.com/channel/UCJEER74X9kBenMT_x9iK9Mw",
+        "duration": 1232,
+        "duration_string": "20:32",
+        "upload_date": "20260205",
+        "timestamp": 1770282784,
+        "release_timestamp": null,
+        "description": "ⓒ 2026 ATTRAKT. All Rights Reserved\n\n📌FIFTY FIFTY OFFICIAL SNS\nFIFTY FIFTY OFFICIAL Instagram : https://www.instagram.com/we_fiftyfifty/\nFIFTY FIFTY OFFICIAL X(Twitter) : https://twitter.com/we_fiftyfifty\nFIFTY FIFTY OFFICIAL TikTok : https://www.tiktok.com/@we_fiftyfifty\nFIFTY FIFTY OFFICIAL YouTube : www.youtube.com/@we_fiftyfifty\nFIFTY FIFTY OFFICIAL Fan Community : https://weverse.io/fiftyfifty\nFIFTY FIFTY OFFICIAL Facebook : https://www.facebook.com/we.fiftyfifty\n\n\n#FIFTYFIFTY #피프티피프티\n#KEENA #키나\n#CHANELLEMOON #문샤넬\n#YEWON #예원\n#HANA #하나\n#ATHENA #아테나",
+        "tags": [
+          "KEENA",
+          "CHANELLE MOON",
+          "YEWON",
+          "HANA",
+          "ATHENA",
+          "Behind The Scenes",
+          "Japan"
+        ],
+        "categories": [
+          "Variety",
+          "Behind the Scenes"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "video",
+        "webpage_url": "https://www.youtube.com/watch?v=93NGiGdPmVs",
+        "subtitles": "en",
+        "thumbnail": "https://i.ytimg.com/vi_webp/93NGiGdPmVs/maxresdefault.webp",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/93NGiGdPmVs/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/93NGiGdPmVs/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/93NGiGdPmVs/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/93NGiGdPmVs/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/93NGiGdPmVs/maxresdefault.jpg"
+        },
+        "platform": "youtube",
+        "series": "FIF TAKE",
+        "cast": [
+          "KEENA",
+          "CHANELLE MOON",
+          "YEWON",
+          "HANA",
+          "ATHENA"
+        ]
+      },
       {
         "id": "-r7tpBVCcQI",
         "title": "🌀🧐🌀#FIFTYFIFTY #피프티피프티#HANA #하나",
@@ -32146,50 +32275,6 @@
         ]
       },
       {
-        "id": "1N2Q9FJ6cmk",
-        "title": "[FIFTY TRIP 2 EP.3] 유난히 생선을 싫어했던 예원이의 생선 먹방😋 #FIFTYFIFTY #피프티피프티 #FIFTYTRIP #피프티트립",
-        "uploader": "FIFTY FIFTY Official",
-        "channel_id": "UCJEER74X9kBenMT_x9iK9Mw",
-        "channel_url": "https://www.youtube.com/channel/UCJEER74X9kBenMT_x9iK9Mw",
-        "duration": 37,
-        "duration_string": "37",
-        "upload_date": "20250919",
-        "timestamp": 1758274800,
-        "release_timestamp": null,
-        "description": "FIFTY FIFTY\n3RD MINI ALBUM [𝓓𝓪𝔂 & 𝓝𝓲𝓰𝓱𝓽]\nis out now💞🌠\n\n🎧 https://5fiftyfifty.lnk.to/DayandNight\n\n#FIFTYFIFTY_DayAndNight\n#DayAndNight #Pookie\n\nⓒ 2025 ATTRAKT. All Rights Reserved\n\n📌FIFTY FIFTY OFFICIAL SNS\nFIFTY FIFTY OFFICIAL Instagram : https://www.instagram.com/we_fiftyfifty/\nFIFTY FIFTY OFFICIAL X(Twitter) : https://twitter.com/we_fiftyfifty\nFIFTY FIFTY OFFICIAL TikTok : https://www.tiktok.com/@we_fiftyfifty\nFIFTY FIFTY OFFICIAL YouTube : www.youtube.com/@we_fiftyfifty\nFIFTY FIFTY OFFICIAL Fan Community : https://weverse.io/fiftyfifty\nFIFTY FIFTY OFFICIAL Facebook : https://www.facebook.com/we.fiftyfifty\n\n\n#FIFTYFIFTY #피프티피프티\n#KEENA #키나\n#CHANELLEMOON #문샤넬\n#YEWON #예원\n#HANA #하나\n#ATHENA #아테나",
-        "tags": [
-          "YEWON",
-          "KEENA",
-          "FIFTY TRIP",
-          "OKINAWA",
-          "JAPAN"
-        ],
-        "categories": [
-          "Variety",
-          "Clips"
-        ],
-        "live_status": "not_live",
-        "was_live": false,
-        "is_live": false,
-        "media_type": "short",
-        "webpage_url": "https://www.youtube.com/watch?v=1N2Q9FJ6cmk",
-        "subtitles": null,
-        "thumbnail": "https://i.ytimg.com/vi/1N2Q9FJ6cmk/hq720_2.jpg",
-        "thumbnails": {
-          "default": "https://i.ytimg.com/vi/1N2Q9FJ6cmk/default.jpg",
-          "mqdefault": "https://i.ytimg.com/vi/1N2Q9FJ6cmk/mqdefault.jpg",
-          "hqdefault": "https://i.ytimg.com/vi/1N2Q9FJ6cmk/hqdefault.jpg",
-          "sddefault": "https://i.ytimg.com/vi/1N2Q9FJ6cmk/sddefault.jpg",
-          "maxresdefault": "https://i.ytimg.com/vi/1N2Q9FJ6cmk/maxresdefault.jpg"
-        },
-        "platform": "youtube",
-        "series": "FIFTY TRIP",
-        "cast": [
-          "KEENA",
-          "YEWON"
-        ]
-      },
-      {
         "id": "UxnOnNL84nw",
         "title": "[FIFTY TRIP 2 EP.3] 힐링하려다 날벼락⚡곤충 헤이터 예원🐞❌🙅‍♀️ #FIFTYFIFTY #피프티피프티 #FIFTYTRIP #피프티트립",
         "uploader": "FIFTY FIFTY Official",
@@ -32225,6 +32310,50 @@
           "hqdefault": "https://i.ytimg.com/vi/UxnOnNL84nw/hqdefault.jpg",
           "sddefault": "https://i.ytimg.com/vi/UxnOnNL84nw/sddefault.jpg",
           "maxresdefault": "https://i.ytimg.com/vi/UxnOnNL84nw/maxresdefault.jpg"
+        },
+        "platform": "youtube",
+        "series": "FIFTY TRIP",
+        "cast": [
+          "KEENA",
+          "YEWON"
+        ]
+      },
+      {
+        "id": "1N2Q9FJ6cmk",
+        "title": "[FIFTY TRIP 2 EP.3] 유난히 생선을 싫어했던 예원이의 생선 먹방😋 #FIFTYFIFTY #피프티피프티 #FIFTYTRIP #피프티트립",
+        "uploader": "FIFTY FIFTY Official",
+        "channel_id": "UCJEER74X9kBenMT_x9iK9Mw",
+        "channel_url": "https://www.youtube.com/channel/UCJEER74X9kBenMT_x9iK9Mw",
+        "duration": 37,
+        "duration_string": "37",
+        "upload_date": "20250919",
+        "timestamp": 1758274800,
+        "release_timestamp": null,
+        "description": "FIFTY FIFTY\n3RD MINI ALBUM [𝓓𝓪𝔂 & 𝓝𝓲𝓰𝓱𝓽]\nis out now💞🌠\n\n🎧 https://5fiftyfifty.lnk.to/DayandNight\n\n#FIFTYFIFTY_DayAndNight\n#DayAndNight #Pookie\n\nⓒ 2025 ATTRAKT. All Rights Reserved\n\n📌FIFTY FIFTY OFFICIAL SNS\nFIFTY FIFTY OFFICIAL Instagram : https://www.instagram.com/we_fiftyfifty/\nFIFTY FIFTY OFFICIAL X(Twitter) : https://twitter.com/we_fiftyfifty\nFIFTY FIFTY OFFICIAL TikTok : https://www.tiktok.com/@we_fiftyfifty\nFIFTY FIFTY OFFICIAL YouTube : www.youtube.com/@we_fiftyfifty\nFIFTY FIFTY OFFICIAL Fan Community : https://weverse.io/fiftyfifty\nFIFTY FIFTY OFFICIAL Facebook : https://www.facebook.com/we.fiftyfifty\n\n\n#FIFTYFIFTY #피프티피프티\n#KEENA #키나\n#CHANELLEMOON #문샤넬\n#YEWON #예원\n#HANA #하나\n#ATHENA #아테나",
+        "tags": [
+          "YEWON",
+          "KEENA",
+          "FIFTY TRIP",
+          "OKINAWA",
+          "JAPAN"
+        ],
+        "categories": [
+          "Variety",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=1N2Q9FJ6cmk",
+        "subtitles": null,
+        "thumbnail": "https://i.ytimg.com/vi/1N2Q9FJ6cmk/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/1N2Q9FJ6cmk/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/1N2Q9FJ6cmk/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/1N2Q9FJ6cmk/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/1N2Q9FJ6cmk/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/1N2Q9FJ6cmk/maxresdefault.jpg"
         },
         "platform": "youtube",
         "series": "FIFTY TRIP",
@@ -32457,6 +32586,49 @@
         ]
       },
       {
+        "id": "u_DSvwLjEbc",
+        "title": "[FIFTY TRIP 2 EP.2] 쇼핑할 때 필요한 것 : 지갑👛 필요 없는 것 : 양심🤭 #FIFTYFIFTY #피프티피프티 #FIFTYTRIP #피프티트립",
+        "uploader": "FIFTY FIFTY Official",
+        "channel_id": "UCJEER74X9kBenMT_x9iK9Mw",
+        "channel_url": "https://www.youtube.com/channel/UCJEER74X9kBenMT_x9iK9Mw",
+        "duration": 43,
+        "duration_string": "43",
+        "upload_date": "20250912",
+        "timestamp": 1757670002,
+        "release_timestamp": null,
+        "description": "FIFTY FIFTY\n3RD MINI ALBUM [𝓓𝓪𝔂 & 𝓝𝓲𝓰𝓱𝓽]\nis out now💞🌠\n\n🎧 https://5fiftyfifty.lnk.to/DayandNight\n\n#FIFTYFIFTY_DayAndNight\n#DayAndNight #Pookie\n\nⓒ 2025 ATTRAKT. All Rights Reserved\n\n📌FIFTY FIFTY OFFICIAL SNS\nFIFTY FIFTY OFFICIAL Instagram : https://www.instagram.com/we_fiftyfifty/\nFIFTY FIFTY OFFICIAL X(Twitter) : https://twitter.com/we_fiftyfifty\nFIFTY FIFTY OFFICIAL TikTok : https://www.tiktok.com/@we_fiftyfifty\nFIFTY FIFTY OFFICIAL YouTube : www.youtube.com/@we_fiftyfifty\nFIFTY FIFTY OFFICIAL Fan Community : https://weverse.io/fiftyfifty\nFIFTY FIFTY OFFICIAL Facebook : https://www.facebook.com/we.fiftyfifty\n\n\n#FIFTYFIFTY #피프티피프티\n#KEENA #키나\n#CHANELLEMOON #문샤넬\n#YEWON #예원\n#HANA #하나\n#ATHENA #아테나\n#FIFTYTRIP #피프티트립\n#Okinawa #오키나와",
+        "tags": [
+          "YEWON",
+          "KEENA",
+          "FIFTY TRIP",
+          "OKINAWA",
+          "JAPAN"
+        ],
+        "categories": [
+          "Variety"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=u_DSvwLjEbc",
+        "subtitles": null,
+        "thumbnail": "https://i.ytimg.com/vi/u_DSvwLjEbc/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/u_DSvwLjEbc/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/u_DSvwLjEbc/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/u_DSvwLjEbc/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/u_DSvwLjEbc/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/u_DSvwLjEbc/maxresdefault.jpg"
+        },
+        "platform": "youtube",
+        "series": "FIFTY FILM",
+        "cast": [
+          "KEENA",
+          "YEWON"
+        ]
+      },
+      {
         "id": "yvaQgrEWwms",
         "title": "[FIFTY TRIP 2 EP.2] 어떻게 안 사요 한정판인데🤷‍♀️ #FIFTYFIFTY #피프티피프티 #FIFTYTRIP #피프티트립",
         "uploader": "FIFTY FIFTY Official",
@@ -32537,49 +32709,6 @@
         },
         "platform": "youtube",
         "series": "FIFTY TRIP",
-        "cast": [
-          "KEENA",
-          "YEWON"
-        ]
-      },
-      {
-        "id": "u_DSvwLjEbc",
-        "title": "[FIFTY TRIP 2 EP.2] 쇼핑할 때 필요한 것 : 지갑👛 필요 없는 것 : 양심🤭 #FIFTYFIFTY #피프티피프티 #FIFTYTRIP #피프티트립",
-        "uploader": "FIFTY FIFTY Official",
-        "channel_id": "UCJEER74X9kBenMT_x9iK9Mw",
-        "channel_url": "https://www.youtube.com/channel/UCJEER74X9kBenMT_x9iK9Mw",
-        "duration": 43,
-        "duration_string": "43",
-        "upload_date": "20250912",
-        "timestamp": 1757670002,
-        "release_timestamp": null,
-        "description": "FIFTY FIFTY\n3RD MINI ALBUM [𝓓𝓪𝔂 & 𝓝𝓲𝓰𝓱𝓽]\nis out now💞🌠\n\n🎧 https://5fiftyfifty.lnk.to/DayandNight\n\n#FIFTYFIFTY_DayAndNight\n#DayAndNight #Pookie\n\nⓒ 2025 ATTRAKT. All Rights Reserved\n\n📌FIFTY FIFTY OFFICIAL SNS\nFIFTY FIFTY OFFICIAL Instagram : https://www.instagram.com/we_fiftyfifty/\nFIFTY FIFTY OFFICIAL X(Twitter) : https://twitter.com/we_fiftyfifty\nFIFTY FIFTY OFFICIAL TikTok : https://www.tiktok.com/@we_fiftyfifty\nFIFTY FIFTY OFFICIAL YouTube : www.youtube.com/@we_fiftyfifty\nFIFTY FIFTY OFFICIAL Fan Community : https://weverse.io/fiftyfifty\nFIFTY FIFTY OFFICIAL Facebook : https://www.facebook.com/we.fiftyfifty\n\n\n#FIFTYFIFTY #피프티피프티\n#KEENA #키나\n#CHANELLEMOON #문샤넬\n#YEWON #예원\n#HANA #하나\n#ATHENA #아테나\n#FIFTYTRIP #피프티트립\n#Okinawa #오키나와",
-        "tags": [
-          "YEWON",
-          "KEENA",
-          "FIFTY TRIP",
-          "OKINAWA",
-          "JAPAN"
-        ],
-        "categories": [
-          "Variety"
-        ],
-        "live_status": "not_live",
-        "was_live": false,
-        "is_live": false,
-        "media_type": "short",
-        "webpage_url": "https://www.youtube.com/watch?v=u_DSvwLjEbc",
-        "subtitles": null,
-        "thumbnail": "https://i.ytimg.com/vi/u_DSvwLjEbc/hq720_2.jpg",
-        "thumbnails": {
-          "default": "https://i.ytimg.com/vi/u_DSvwLjEbc/default.jpg",
-          "mqdefault": "https://i.ytimg.com/vi/u_DSvwLjEbc/mqdefault.jpg",
-          "hqdefault": "https://i.ytimg.com/vi/u_DSvwLjEbc/hqdefault.jpg",
-          "sddefault": "https://i.ytimg.com/vi/u_DSvwLjEbc/sddefault.jpg",
-          "maxresdefault": "https://i.ytimg.com/vi/u_DSvwLjEbc/maxresdefault.jpg"
-        },
-        "platform": "youtube",
-        "series": "FIFTY FILM",
         "cast": [
           "KEENA",
           "YEWON"
@@ -34295,50 +34424,6 @@
         ]
       },
       {
-        "id": "peUbFxt8icY",
-        "title": "[FIFTY TRIP EP.2] 아기 뱁새🐥 날다✨ 테나의 패러글라이딩 도전💛 #FIFTYFIFTY #피프티피프티 #FIFTYTRIP #피프티트립",
-        "uploader": "FIFTY FIFTY Official",
-        "channel_id": "UCJEER74X9kBenMT_x9iK9Mw",
-        "channel_url": "https://www.youtube.com/channel/UCJEER74X9kBenMT_x9iK9Mw",
-        "duration": 42,
-        "duration_string": "42",
-        "upload_date": "20250801",
-        "timestamp": 1754041200,
-        "release_timestamp": null,
-        "description": "FIFTY FIFTY\n3RD MINI ALBUM [𝓓𝓪𝔂 & 𝓝𝓲𝓰𝓱𝓽]\nis out now💞🌠\n\n🎧 https://5fiftyfifty.lnk.to/DayandNight\n\n#FIFTYFIFTY_DayAndNight\n#DayAndNight #Pookie\n#FIFTYTRIP #피프티트립\n\nⓒ 2025 ATTRAKT. All Rights Reserved\n\n📌FIFTY FIFTY OFFICIAL SNS\nFIFTY FIFTY OFFICIAL Instagram : https://www.instagram.com/we_fiftyfifty/\nFIFTY FIFTY OFFICIAL X(Twitter) : https://twitter.com/we_fiftyfifty\nFIFTY FIFTY OFFICIAL TikTok : https://www.tiktok.com/@we_fiftyfifty\nFIFTY FIFTY OFFICIAL YouTube : www.youtube.com/@WE_FIFTYFIFTY\nFIFTY FIFTY OFFICIAL Fan Community : https://weverse.io/fiftyfifty\nFIFTY FIFTY OFFICIAL Facebook : https://www.facebook.com/we.fiftyfifty\n\n\n#FIFTYFIFTY #피프티피프티\n#KEENA #키나\n#CHANELLEMOON #문샤넬\n#YEWON #예원\n#HANA #하나\n#ATHENA #아테나",
-        "tags": [
-          "CHANELLE MOON",
-          "ATHENA",
-          "FIFTY TRIP",
-          "Nha Trang",
-          "Vietnam"
-        ],
-        "categories": [
-          "Clips",
-          "Variety"
-        ],
-        "live_status": "not_live",
-        "was_live": false,
-        "is_live": false,
-        "media_type": "short",
-        "webpage_url": "https://www.youtube.com/watch?v=peUbFxt8icY",
-        "subtitles": null,
-        "thumbnail": "https://i.ytimg.com/vi/peUbFxt8icY/maxresdefault.jpg",
-        "thumbnails": {
-          "default": "https://i.ytimg.com/vi/peUbFxt8icY/default.jpg",
-          "mqdefault": "https://i.ytimg.com/vi/peUbFxt8icY/mqdefault.jpg",
-          "hqdefault": "https://i.ytimg.com/vi/peUbFxt8icY/hqdefault.jpg",
-          "sddefault": "https://i.ytimg.com/vi/peUbFxt8icY/sddefault.jpg",
-          "maxresdefault": "https://i.ytimg.com/vi/peUbFxt8icY/maxresdefault.jpg"
-        },
-        "platform": "youtube",
-        "series": "FIFTY TRIP",
-        "casts": [
-          "CHANELLE MOON",
-          "ATHENA"
-        ]
-      },
-      {
         "id": "Gqtc_lp3S1Q",
         "title": "[FIFTY TRIP EP.2] 크루즈🚢에서 댄스 배틀한 썰 푼다 🪩💃 #FIFTYFIFTY #피프티피프티 #FIFTYTRIP #피프티트립",
         "uploader": "FIFTY FIFTY Official",
@@ -34380,6 +34465,50 @@
         "casts": [
           "ATHENA",
           "CHANELLE MOON"
+        ]
+      },
+      {
+        "id": "peUbFxt8icY",
+        "title": "[FIFTY TRIP EP.2] 아기 뱁새🐥 날다✨ 테나의 패러글라이딩 도전💛 #FIFTYFIFTY #피프티피프티 #FIFTYTRIP #피프티트립",
+        "uploader": "FIFTY FIFTY Official",
+        "channel_id": "UCJEER74X9kBenMT_x9iK9Mw",
+        "channel_url": "https://www.youtube.com/channel/UCJEER74X9kBenMT_x9iK9Mw",
+        "duration": 42,
+        "duration_string": "42",
+        "upload_date": "20250801",
+        "timestamp": 1754041200,
+        "release_timestamp": null,
+        "description": "FIFTY FIFTY\n3RD MINI ALBUM [𝓓𝓪𝔂 & 𝓝𝓲𝓰𝓱𝓽]\nis out now💞🌠\n\n🎧 https://5fiftyfifty.lnk.to/DayandNight\n\n#FIFTYFIFTY_DayAndNight\n#DayAndNight #Pookie\n#FIFTYTRIP #피프티트립\n\nⓒ 2025 ATTRAKT. All Rights Reserved\n\n📌FIFTY FIFTY OFFICIAL SNS\nFIFTY FIFTY OFFICIAL Instagram : https://www.instagram.com/we_fiftyfifty/\nFIFTY FIFTY OFFICIAL X(Twitter) : https://twitter.com/we_fiftyfifty\nFIFTY FIFTY OFFICIAL TikTok : https://www.tiktok.com/@we_fiftyfifty\nFIFTY FIFTY OFFICIAL YouTube : www.youtube.com/@WE_FIFTYFIFTY\nFIFTY FIFTY OFFICIAL Fan Community : https://weverse.io/fiftyfifty\nFIFTY FIFTY OFFICIAL Facebook : https://www.facebook.com/we.fiftyfifty\n\n\n#FIFTYFIFTY #피프티피프티\n#KEENA #키나\n#CHANELLEMOON #문샤넬\n#YEWON #예원\n#HANA #하나\n#ATHENA #아테나",
+        "tags": [
+          "CHANELLE MOON",
+          "ATHENA",
+          "FIFTY TRIP",
+          "Nha Trang",
+          "Vietnam"
+        ],
+        "categories": [
+          "Clips",
+          "Variety"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=peUbFxt8icY",
+        "subtitles": null,
+        "thumbnail": "https://i.ytimg.com/vi/peUbFxt8icY/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/peUbFxt8icY/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/peUbFxt8icY/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/peUbFxt8icY/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/peUbFxt8icY/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/peUbFxt8icY/maxresdefault.jpg"
+        },
+        "platform": "youtube",
+        "series": "FIFTY TRIP",
+        "casts": [
+          "CHANELLE MOON",
+          "ATHENA"
         ]
       },
       {
