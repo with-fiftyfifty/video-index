@@ -1,5 +1,41 @@
 [
 	{
+		"id": "2-169614653",
+		"title": "좋은 주말~",
+		"uploader": "ATHENA",
+		"creators": "FIFTY FIFTY",
+		"channel_id": "221",
+		"channel_url": "https://weverse.io/fiftyfifty",
+		"duration": 4619,
+		"duration_string": "1:16:59",
+		"upload_date": "20260207",
+		"timestamp": 1770439923,
+		"release_timestamp": 1770439923,
+		"description": "",
+		"tags": [
+			"ATHENA"
+		],
+		"categories": null,
+		"live_status": "was_live",
+		"was_live": true,
+		"is_live": false,
+		"media_type": "video",
+		"webpage_url": "https://weverse.io/fiftyfifty/live/2-169614653",
+		"subtitles": null,
+		"thumbnail": "https://phinf.wevpstatic.net/MjAyNjAyMDdfMTAy/MDAxNzcwNDQ0NTUxMjA2.H0f4Ab_HqgOxk86Pe3wVV9X09toZLNaQHJPKOdFrB84g.dF2hqhfChChz7Kruw5--jiYrllHn8Y2dK_SfYZ9kpQQg.JPEG/thumb.jpg",
+		"thumbnails": [
+			{
+				"url": "https://phinf.wevpstatic.net/MjAyNjAyMDdfMTAy/MDAxNzcwNDQ0NTUxMjA2.H0f4Ab_HqgOxk86Pe3wVV9X09toZLNaQHJPKOdFrB84g.dF2hqhfChChz7Kruw5--jiYrllHn8Y2dK_SfYZ9kpQQg.JPEG/thumb.jpg",
+				"id": "0"
+			}
+		],
+		"platform": "Weverse",
+		"series": null,
+		"cast": [
+			"ATHENA"
+		]
+	},
+	{
 		"id": "0-169513293",
 		"title": "새벽라이브 🥴🤍",
 		"uploader": "HANA",
