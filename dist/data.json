@@ -1,6 +1,6 @@
 {
-  "generated_at_iso": "2026-02-20T17:12:10.964+09:00",
-  "generated_at_millis": 1771575130964,
+  "generated_at_iso": "2026-02-21T13:39:51.526+09:00",
+  "generated_at_millis": 1771648791526,
   "data": {
     "others": [
       {
@@ -19871,6 +19871,48 @@
       }
     ],
     "youtube": [
+      {
+        "id": "cjRvCV_wiYM",
+        "title": "😉#FIFTYFIFTY #피프티피프티#YEWON #예원#HANA #하나",
+        "uploader": "FIFTY FIFTY Official",
+        "creators": [],
+        "channel_id": "UCJEER74X9kBenMT_x9iK9Mw",
+        "channel_url": "https://www.youtube.com/channel/UCJEER74X9kBenMT_x9iK9Mw",
+        "duration": 8,
+        "duration_string": "8",
+        "upload_date": "20260221",
+        "timestamp": 1771642934,
+        "description": "",
+        "tags": [
+          "HANA",
+          "YEWON",
+          "All That Matters #jerseyclub - Salako",
+          "All That Matters - Justin Bieber"
+        ],
+        "categories": [
+          "Music"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=cjRvCV_wiYM",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/cjRvCV_wiYM/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/cjRvCV_wiYM/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/cjRvCV_wiYM/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/cjRvCV_wiYM/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/cjRvCV_wiYM/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/cjRvCV_wiYM/maxresdefault.jpg"
+        },
+        "platform": "youtube",
+        "series": [],
+        "cast": [
+          "HANA",
+          "YEWON"
+        ]
+      },
       {
         "id": "QKKeVsDVCbI",
         "title": "😉#FIFTYFIFTY #피프티피프티#HANA #하나",
