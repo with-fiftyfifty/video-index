@@ -7,103 +7,112 @@ Contributors can help improve the dataset by adding or modifying categories, tag
 Each video entry follows this format, sourced from the original platform, extracted via YT-DLP. If you want to submit new content, this format should be used:
 
 ```json
-	{
-		"id": "S4M6tAictVs",
-		"title": "Who's the NEXT #Pookie 🩷 마법에 걸리게 \"꿍실냐옹\" 🪄🐈‍⬛🐾  #아일릿 #윤아 선배님과 함께한 #Pookie_Challenge 💞 @ILLIT_official",
-		"uploader": "FIFTY FIFTY Official",
-		"channel_id": "UCJEER74X9kBenMT_x9iK9Mw",
-		"channel_url": "https://www.youtube.com/channel/UCJEER74X9kBenMT_x9iK9Mw",
-		"duration": 20,
-		"duration_string": "20",
-		"upload_date": "20250824",
-		"timestamp": 1756004424,
-		"view_count": 910,
-		"like_count": 156,
-		"release_timestamp": null,
-		"comment_count": 8,
-		"description": "Who's the NEXT #Pookie 🩷\n마법에 걸리게 \"꿍실냐옹\" 🪄🐈‍⬛🐾 \n#아일릿 #윤아 선배님과 함께한 #Pookie_Challenge 💞\n\n#FIFTYFIFTY #피프티피프티\n#CHANELLEMOON #문샤넬\n#YEWON #예원\n#ILLIT #YUNAH\n#푸키챌린지",
+		{
+		"id": "PvpkTvqVwNY",
+		"title": "[하이라이트] 〈히든싱어〉 사상 최초 1대1 정면승부🔥 역대급 난이도의 김장훈 편 최종 우승자는 누구? 5라운드 〈소나기〉 ♪ | 히든싱어8 | JTBC 260414 방송",
+		"uploader": "JTBC Music",
+		"creators": [],
+		"channel_id": "UCEbRSmzD8xASRlYq2OLmCrg",
+		"channel_url": "https://www.youtube.com/channel/UCEbRSmzD8xASRlYq2OLmCrg",
+		"duration": 203,
+		"duration_string": "3:23",
+		"upload_date": "20260414",
+		"timestamp": 1776175775,
+		"description": "[하이라이트] 〈히든싱어〉 사상 최초 1대1 정면승부🔥 역대급 난이도의 김장훈 편 최종 우승자는 누구? 5라운드 〈소나기〉 ♪\n#히든싱어8하이라이트 #김장훈 #소나기\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/hiddensinger8",
 		"tags": [
-			"ILLIT"
+			"JTBC",
+			"Hidden Singer 8",
+			"CHANELLE MOON",
+			"ATHENA",
+			"YEWON",
+			"Brief appearance"
 		],
 		"categories": [
-			"Music",
-			"Challenges"
+			"Variety",
+			"Clips"
 		],
 		"live_status": "not_live",
 		"was_live": false,
 		"is_live": false,
-		"media_type": "short",
-		"webpage_url": "https://www.youtube.com/watch?v=S4M6tAictVs",
-		"subtitles": null,
-		"thumbnail": "https://i.ytimg.com/vi/S4M6tAictVs/maxresdefault.jpg",
+		"media_type": "video",
+		"webpage_url": "https://www.youtube.com/watch?v=PvpkTvqVwNY",
+		"subtitles": [],
+		"thumbnail": "https://i.ytimg.com/vi/PvpkTvqVwNY/maxresdefault.jpg",
 		"thumbnails": {
-			"default": "https://i.ytimg.com/vi/S4M6tAictVs/default.jpg",
-			"mqdefault": "https://i.ytimg.com/vi/S4M6tAictVs/mqdefault.jpg",
-			"hqdefault": "https://i.ytimg.com/vi/S4M6tAictVs/hqdefault.jpg",
-			"sddefault": "https://i.ytimg.com/vi/S4M6tAictVs/sddefault.jpg",
-			"maxresdefault": "https://i.ytimg.com/vi/S4M6tAictVs/maxresdefault.jpg"
+			"default": "https://i.ytimg.com/vi/PvpkTvqVwNY/default.jpg",
+			"mqdefault": "https://i.ytimg.com/vi/PvpkTvqVwNY/mqdefault.jpg",
+			"hqdefault": "https://i.ytimg.com/vi/PvpkTvqVwNY/hqdefault.jpg",
+			"sddefault": "https://i.ytimg.com/vi/PvpkTvqVwNY/sddefault.jpg",
+			"maxresdefault": "https://i.ytimg.com/vi/PvpkTvqVwNY/maxresdefault.jpg"
 		},
 		"platform": "youtube",
-		"series": "Pookie Challenge",
-		"casts": [
-			"YEWON",
+		"series": [
+			"Hidden Singer 8"
+		],
+		"cast": [
 			"CHANELLE MOON",
-			"YUNAH (ILLIT)"
-		]
-	}
+			"ATHENA",
+			"YEWON"
+		],
+		"status": null
+	},
 ```
 
-**Do not edit** *unless fixing mistakes*:
-* id
-* title
-* uploader
-* channel_id
-* channel_url
-* duration
-* upload_date
-* timestamp
-* webpage_url
-* thumbnail and thumbnails
-* platform
+**Do not edit** _unless fixing mistakes_:
+
+- id
+- title
+- uploader
+- channel_id
+- channel_url
+- duration
+- upload_date
+- timestamp
+- webpage_url
+- thumbnail and thumbnails
+- platform
 
 **Fields you can modify**
-* tags
-* categories
-* series
-* cast
+
+- tags
+- categories
+- series
+- cast
+- status (null, not available, private)
 
 ## Removed Fields
 
 These fields are deprecated. Do not add or update them. They may be removed from the dataset in the future.
 
-* view_count
-* like_count
-* comment_count
+- view_count
+- like_count
+- comment_count
 
 ## Categories
 
 Available categories for filtering:
 
-* Music Video
-* Variety
-* Live Performance
-* Radio
-* Challenges - For branded/promotional/collab challenges
-* Shortfrom Challenges - For general/viral/SNS challenges
-* Clips
-* Interview
-* Behind the Scenes
+- Music Video
+- Variety
+- Live Performance
+- Radio
+- Challenges - For branded/promotional/collab challenges
+- Shortfrom Challenges - For general/viral/SNS challenges
+- Clips
+- Interview
+- Behind the Scenes
 
 ## Suggested Tags
+
 > Tags from original sources are usually filled with SEO-focused keywords that are not desired. These should be removed.
 
 Use these tags to stay consistent:
 
-* Brief appearance
-* Dance
-* Reaction
-* Cover
-* *Name of the challenges, show or cast involved can also be added*
+- Brief appearance - Also applicable for clips (where they are the main guest but not the focus of the specific clips)
+- Dance
+- Reaction
+- Cover
+- _Name of the challenges, show or cast involved can also be added_
 
 Add a new tag only if it can be reused across multiple videos. Tags are more lax, flexible and mainly intended to improve searchability.
 
@@ -113,20 +122,20 @@ Every cast member in the content should be added, except for brief appearances. 
 
 Example:
 
-* "YEWON"
-* "KEENA"
-* "MOON CHANELLE"
-* "HANA"
-* "ATHENA"
-* "MINJU (ILLIT)"
-* "ISA (STAYC)"
+- "YEWON"
+- "KEENA"
+- "MOON CHANELLE"
+- "HANA"
+- "ATHENA"
+- "MINJU (ILLIT)"
+- "ISA (STAYC)"
 
 ## Series
 
 Example:
 
-* Fifty Trip
-* Pookie Challenge
+- Fifty Trip
+- Pookie Challenge
 
 ## Subtitles
 
@@ -146,10 +155,10 @@ Original:
 
 ```json
 {
-  "categories": [],
-  "tags": [],
-  "series": null,
-  "cast": []
+	"categories": [],
+	"tags": [],
+	"series": null,
+	"cast": []
 }
 ```
 
@@ -157,10 +166,10 @@ Contribution:
 
 ```json
 {
-  "categories": ["Variety"],
-  "tags": ["Brief appearance"],
-  "series": "Fifty Trip",
-  "cast": ["KEENA", "YEWON"]
+	"categories": ["Variety"],
+	"tags": ["Brief appearance"],
+	"series": "Fifty Trip",
+	"cast": ["KEENA", "YEWON"]
 }
 ```
 
@@ -170,4 +179,3 @@ Contribution:
 2. Edit only the allowed fields in the JSON files.
 3. Open a pull request with your changes.
 4. Add a short description of what you updated in the pull request.
-
