@@ -1,181 +1,226 @@
-# Video Dataset Contribution Guide
 
-Contributors can help improve the dataset by adding or modifying categories, tags, series, and cast names. Currently, only official or professionally produced content is added. No fan-made or fancam content is currently allowed.
+# Dataset Contribution Guide
 
-## Object Structure
+This dataset is a structured snapshot of video metadata from multiple platforms. Current included platforms are YouTube and Weverse.
 
-Each video entry follows this format, sourced from the original platform, extracted via YT-DLP. If you want to submit new content, this format should be used:
+Only official or professionally produced content is included. Fan made or unofficial uploads are excluded.
 
-```json
-		{
-		"id": "PvpkTvqVwNY",
-		"title": "[하이라이트] 〈히든싱어〉 사상 최초 1대1 정면승부🔥 역대급 난이도의 김장훈 편 최종 우승자는 누구? 5라운드 〈소나기〉 ♪ | 히든싱어8 | JTBC 260414 방송",
-		"uploader": "JTBC Music",
-		"creators": [],
-		"channel_id": "UCEbRSmzD8xASRlYq2OLmCrg",
-		"channel_url": "https://www.youtube.com/channel/UCEbRSmzD8xASRlYq2OLmCrg",
-		"duration": 203,
-		"duration_string": "3:23",
-		"upload_date": "20260414",
-		"timestamp": 1776175775,
-		"description": "[하이라이트] 〈히든싱어〉 사상 최초 1대1 정면승부🔥 역대급 난이도의 김장훈 편 최종 우승자는 누구? 5라운드 〈소나기〉 ♪\n#히든싱어8하이라이트 #김장훈 #소나기\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/hiddensinger8",
-		"tags": [
-			"JTBC",
-			"Hidden Singer 8",
-			"CHANELLE MOON",
-			"ATHENA",
-			"YEWON",
-			"Brief appearance"
-		],
-		"categories": [
-			"Variety",
-			"Clips"
-		],
-		"live_status": "not_live",
-		"was_live": false,
-		"is_live": false,
-		"media_type": "video",
-		"webpage_url": "https://www.youtube.com/watch?v=PvpkTvqVwNY",
-		"subtitles": [],
-		"thumbnail": "https://i.ytimg.com/vi/PvpkTvqVwNY/maxresdefault.jpg",
-		"thumbnails": {
-			"default": "https://i.ytimg.com/vi/PvpkTvqVwNY/default.jpg",
-			"mqdefault": "https://i.ytimg.com/vi/PvpkTvqVwNY/mqdefault.jpg",
-			"hqdefault": "https://i.ytimg.com/vi/PvpkTvqVwNY/hqdefault.jpg",
-			"sddefault": "https://i.ytimg.com/vi/PvpkTvqVwNY/sddefault.jpg",
-			"maxresdefault": "https://i.ytimg.com/vi/PvpkTvqVwNY/maxresdefault.jpg"
-		},
-		"platform": "youtube",
-		"series": [
-			"Hidden Singer 8"
-		],
-		"cast": [
-			"CHANELLE MOON",
-			"ATHENA",
-			"YEWON"
-		],
-		"status": null
-	},
+
+# Snapshot Model
+
+This dataset is a snapshot in time, but not fully static.
+
+* Most fields are treated as frozen at ingestion
+* A small subset of fields may be updated later when new verified data is available
+* Updates must be explicit and controlled, not automatic sync
+
+
+# Data Source Rule
+
+There are two origins of data:
+
+* Source extracted fields from platform or yt dlp
+* Curated enrichment fields maintained by dataset
+
+These must remain clearly separated in intent and handling
+
+Subtitles handling:
+
+* subtitles are initially extracted from the platform when available
+* subtitles may be updated later when new official or verified subtitle data becomes available
+* if platform subtitles are missing or incomplete, curated updates are allowed
+
+
+# Extraction Scope Rule
+
+This dataset is a reduced and curated version of yt dlp and platform metadata. It does not store the full raw response.
+
+
+## What this means
+
+* yt dlp and platform APIs return many additional fields
+* These include things like:
+
+  * view counts and like counts
+  * upload variations and metadata history
+  * automatic captions and subtitle tracks
+  * chapters and timestamps
+  * format and stream information
+  * engagement and recommendation data
+
+
+## Dataset behavior
+
+* Only fields defined in this schema are stored
+* All other yt dlp fields are intentionally excluded
+* Missing fields should not be treated as errors or incomplete extraction
+* Do not reintroduce excluded yt dlp fields unless explicitly added to the schema
+
+
+## Contributor rule
+
+* If a field is not listed in the schema, it is out of scope
+* Do not assume it should exist in the dataset just because it exists in yt dlp
+
+
+# Field Lifecycle Rules
+
+Each field belongs to one of these lifecycle types:
+
+
+## 1. Immutable Identity Fields
+
+Never change after creation.
+
+* id
+* platform
+* channel_id
+* channel_url
+* upload_date
+* timestamp
+* webpage_url
+* title
+* uploader
+* creators
+* duration
+* duration_string
+* description
+* live_status
+* was_live
+* is_live
+* media_type
+* thumbnail
+* thumbnails
+
+Rule:
+
+* Default behavior is no modification
+* Updates require explicit justification
+
+
+## 2. Updatable Enrichment Fields
+
+These are maintained by dataset logic or human curation and may evolve.
+
+* tags
+* categories
+* series
+* cast
+* era
+* status
+* subtitles
+
+Rules:
+
+* These may be updated when new information becomes available
+* Original YouTube tags and categories are generally unreliable for representing content intent, as they are often optimized for reach rather than accuracy
+* Must remain consistent across dataset with no duplicate variants
+* Must reuse existing controlled vocabulary where possible
+* Do not create near duplicates with different spelling or casing
+
+Example:
+- valid: FIF TAKE
+- invalid: FIF Take, fif take, FIFTAKE
+
+
+# Object Structure
+
+Each video entry follows this format:
+
 ```
-
-**Do not edit** _unless fixing mistakes_:
-
-- id
-- title
-- uploader
-- channel_id
-- channel_url
-- duration
-- upload_date
-- timestamp
-- webpage_url
-- thumbnail and thumbnails
-- platform
-
-**Fields you can modify**
-
-- tags
-- categories
-- series
-- cast
-- status (null, not available, private)
-
-## Removed Fields
-
-These fields are deprecated. Do not add or update them. They may be removed from the dataset in the future.
-
-- view_count
-- like_count
-- comment_count
-
-## Categories
-
-Available categories for filtering:
-
-- Music Video
-- Variety
-- Live Performance
-- Radio
-- Challenges - For branded/promotional/collab challenges
-- Shortfrom Challenges - For general/viral/SNS challenges
-- Clips
-- Interview
-- Behind the Scenes
-
-## Suggested Tags
-
-> Tags from original sources are usually filled with SEO-focused keywords that are not desired. These should be removed.
-
-Use these tags to stay consistent:
-
-- Brief appearance - Also applicable for clips (where they are the main guest but not the focus of the specific clips)
-- Dance
-- Reaction
-- Cover
-- _Name of the challenges, show or cast involved can also be added_
-
-Add a new tag only if it can be reused across multiple videos. Tags are more lax, flexible and mainly intended to improve searchability.
-
-## Cast
-
-Every cast member in the content should be added, except for brief appearances. For brief appearances, only FIFTY FIFTY members' names should be added.
-
-Example:
-
-- "YEWON"
-- "KEENA"
-- "MOON CHANELLE"
-- "HANA"
-- "ATHENA"
-- "MINJU (ILLIT)"
-- "ISA (STAYC)"
-
-## Series
-
-Example:
-
-- Fifty Trip
-- Pookie Challenge
-
-## Subtitles
-
-Subtitles might be added later after the data is fetched. These can be added if you notice they are missing.
-
-## Guidelines
-
-1. Keep spelling and casing consistent with existing values.
-2. Do not remove or rename fields.
-3. Only add new categories or tags if they apply across multiple videos.
-4. Use English for categories, series, and tags, except for proper names.
-5. Refer to existing values for consistency, but be mindful of the original data from the source.
-
-## Example Contribution
-
-Original:
-
-```json
 {
-	"categories": [],
-	"tags": [],
-	"series": null,
-	"cast": []
+  "id": "hb7SbobvGhY",
+  "platform": "youtube",
+  "title": "Love this outfit🤍#FIFTYFIFTY #ATHENA #Like_a_Bubble#Imperfect_Iamperfect",
+  "uploader": "FIFTY FIFTY Official",
+  "creators": [],
+  "channel_id": "UCJEER74X9kBenMT_x9iK9Mw",
+  "channel_url": "https://www.youtube.com/channel/UCJEER74X9kBenMT_x9iK9Mw",
+  "duration": 16,
+  "duration_string": "16",
+  "upload_date": "20260613",
+  "timestamp": 1781316580,
+  "description": "",
+  "tags": [
+    "hate that i made you love me - Ariana Grande",
+    "Athena"
+  ],
+  "categories": [
+    "Shortform Challenges"
+  ],
+  "live_status": "not_live",
+  "was_live": false,
+  "is_live": false,
+  "media_type": "short",
+  "webpage_url": "https://www.youtube.com/watch?v=hb7SbobvGhY",
+  "subtitles": [],
+  "thumbnail": "https://i.ytimg.com/vi/hb7SbobvGhY/maxresdefault.jpg",
+  "thumbnails": {
+    "default": "https://i.ytimg.com/vi/hb7SbobvGhY/default.jpg",
+    "mqdefault": "https://i.ytimg.com/vi/hb7SbobvGhY/mqdefault.jpg",
+    "hqdefault": "https://i.ytimg.com/vi/hb7SbobvGhY/hqdefault.jpg",
+    "sddefault": "https://i.ytimg.com/vi/hb7SbobvGhY/sddefault.jpg",
+    "maxresdefault": "https://i.ytimg.com/vi/hb7SbobvGhY/maxresdefault.jpg"
+  },
+  "series": [],
+  "cast": [
+    "Athena"
+  ],
+  "status": null,
+  "era": "Imperfect I'mperfect"
 }
 ```
 
-Contribution:
 
-```json
-{
-	"categories": ["Variety"],
-	"tags": ["Brief appearance"],
-	"series": "Fifty Trip",
-	"cast": ["KEENA", "YEWON"]
-}
-```
+# Field Reference Table
 
-## How to Contribute
+| Field Name | Data Type | Required | Editable | Description & Constraints |
+| :--- | :--- | :---: | :--- | :--- |
+| `id` | string | ✅ | ❌ | YouTube Video ID (11 characters). |
+| `platform` | string | ✅ | ❌ | Source platform. |
+| `title` | string | ✅ | ❌ | Video title |
+| `uploader` | string | ✅ | ❌ | Channel display name (e.g., `"FIFTY FIFTY Official"`). |
+| `creators` | array/null | ✅ | ❌ | List of specific creators if different from uploader, else `[]` or `null`. |
+| `channel_id` | string | ✅ | ❌ | YouTube Channel ID (starts with `UC`). |
+| `channel_url` | string | ✅ | ❌ | Full URL to the channel. |
+| `duration` | integer | ✅ | ❌ | Total video duration in seconds. |
+| `duration_string` | string | ✅ | ❌ | Human-readable duration (e.g., `"3:22"`, `"15"`). |
+| `upload_date` | string | ✅ | ❌ | Upload date in `YYYYMMDD` format. |
+| `timestamp` | integer | ✅ | ❌ | Unix epoch timestamp of the upload time. |
+| `description` | string | ✅ | ❌ | Full video description text. |
+| `tags` | array | ✅ | ✅ | Array of string tags. Use `[]` if none exist. |
+| `categories` | array | ✅ | ✅ | Array of main categories (e.g., `["Music Video"]`, `["Shortform Challenges"]`). |
+| `live_status` | string | ✅ | ❌ | Stream status: `"not_live"`, `"is_live"`, or `"was_live"`. |
+| `was_live` | boolean | ✅ | ❌ | `true` if the video was previously a livestream. |
+| `is_live` | boolean | ✅ | ❌ | `true` if the video is currently a live broadcast. |
+| `media_type` | string | ✅ | ❌ | Content type: `"video"`, `"short"`, or `"livestream"`. |
+| `webpage_url` | string | ✅ | ❌ | Full URL to the specific video page. |
+| `subtitles` | array/null | ✅ | ✅ | Array of available subtitle language codes (e.g., `["en", "ko"]`), or `null`/[] |
+| `thumbnail` | string | ✅ | ❌ | URL to the highest resolution thumbnail available. |
+| `thumbnails` | object | ❌ | ❌ | Object containing URLs for different size of thumbails if applicable on the source platform. `default`, `mqdefault`, `hqdefault`, `sddefault`, `maxresdefault`. |
+| `series` | array | ✅ | ✅ | Playlist or series name if applicable (e.g., `["FIF TAKE", "FIFTY FILM"]`), else `[]`. |
+| `cast` | array | ✅ | ✅ | Array of members/guests featured (e.g., `["Athena", "Keena"]`). |
+| `status` | string/null | ✅ | ✅ | Video availability status. `null` if active, or `"Deleted"`, `"Private"`, etc. |
+| `era` | string | ✅ | ✅ | Promotional era label (e.g., `"Imperfect I'mperfect"`, `"Love Tune"`). |
 
-1. Fork the repository.
-2. Edit only the allowed fields in the JSON files.
-3. Open a pull request with your changes.
-4. Add a short description of what you updated in the pull request.
+
+# Guidelines
+
+1. Keep spelling and casing consistent with existing values
+2. Do not remove or rename fields
+3. Only add new categories or tags if they apply across multiple videos
+4. Use English for categories series and tags except proper names
+5. Prefer existing values before introducing new ones
+
+
+# How to Contribute
+
+1. Fork the repository
+2. You may either add a new video entry to the main dataset array or edit allowed fields
+3. Do not modify non editable fields
+4. Follow exact object structure when adding entries
+5. Ensure all required fields are present
+6. Use existing controlled values where possible
+7. New values allowed only if no suitable existing value exists
+8. Ensure JSON is valid
+9. Open a pull request with a short description of changes
