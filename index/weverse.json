@@ -1,9 +1,54 @@
 [
 	{
+		"id": "4-232863867",
+		"platform": "Weverse",
+		"title": "𝓗𝓐𝓟𝓟𝓨 𝓑𝓘𝓡𝓣𝓗 𝓓𝓐𝓨 𝓒𝓗𝓐𝓝𝓔𝓛𝓛𝓔 𝓜𝓞𝓞𝓝 𝓛𝓘𝓥𝓔🧸🎂",
+		"uploader": "FIFTY FIFTY",
+		"creators": [
+			"FIFTY FIFTY"
+		],
+		"channel_id": "221",
+		"channel_url": "https://weverse.io/fiftyfifty",
+		"duration": 1482,
+		"duration_string": "24:42",
+		"upload_date": "20260614",
+		"timestamp": 1781422018,
+		"release_timestamp": 1781422018,
+		"description": "",
+		"tags": [
+			"Chanelle Moon",
+			"Birthday",
+			"Keena",
+			"Yewon"
+		],
+		"categories": [],
+		"live_status": "was_live",
+		"was_live": true,
+		"is_live": false,
+		"media_type": "video",
+		"webpage_url": "https://weverse.io/fiftyfifty/live/4-232863867",
+		"subtitles": [],
+		"thumbnail": "https://phinf.wevpstatic.net/MjAyNjA2MTRfODYg/MDAxNzgxNDIzNTExNjYx.iZ2_vlzVYN2OODXNmcr7BKTvx73h-NQJ4MNNoP_NrbUg.04NhbLhSN8U9QrKUJ8j4ea5TIkTiXvGLMWgSs1O33E4g.JPEG/thumb.jpg",
+		"thumbnails": [
+			{
+				"url": "https://phinf.wevpstatic.net/MjAyNjA2MTRfODYg/MDAxNzgxNDIzNTExNjYx.iZ2_vlzVYN2OODXNmcr7BKTvx73h-NQJ4MNNoP_NrbUg.04NhbLhSN8U9QrKUJ8j4ea5TIkTiXvGLMWgSs1O33E4g.JPEG/thumb.jpg",
+				"id": "0"
+			}
+		],
+		"series": [],
+		"cast": [
+			"Chanelle Moon",
+			"Keena",
+			"Yewon"
+		],
+		"status": null,
+		"era": "Imperfect I'mperfect"
+	},
+	{
 		"id": "1-175837762",
 		"platform": "Weverse",
 		"title": "아예즈 왔어욤💫🫧",
-		"uploader": "YEWON",
+		"uploader": "Yewon",
 		"creators": [
 			"FIFTY FIFTY"
 		],
@@ -16,8 +61,8 @@
 		"release_timestamp": 1780904099,
 		"description": "",
 		"tags": [
-			"YEWON",
-			"ATHENA"
+			"Yewon",
+			"Athena"
 		],
 		"categories": [],
 		"live_status": "was_live",
@@ -35,8 +80,8 @@
 		],
 		"series": [],
 		"cast": [
-			"YEWON",
-			"ATHENA"
+			"Yewon",
+			"Athena"
 		],
 		"status": null,
 		"era": "Imperfect I'mperfect"
@@ -45,7 +90,7 @@
 		"id": "4-232239355",
 		"platform": "Weverse",
 		"title": "안녕 자기들",
-		"uploader": "KEENA",
+		"uploader": "Keena",
 		"creators": [
 			"FIFTY FIFTY"
 		],
@@ -58,7 +103,7 @@
 		"release_timestamp": 1780820162,
 		"description": "",
 		"tags": [
-			"KEENA"
+			"Keena"
 		],
 		"categories": [],
 		"live_status": "was_live",
@@ -76,7 +121,7 @@
 		],
 		"series": [],
 		"cast": [
-			"KEENA"
+			"Keena"
 		],
 		"status": null,
 		"era": "Imperfect I'mperfect"
@@ -98,10 +143,10 @@
 		"release_timestamp": 1779889789,
 		"description": "",
 		"tags": [
-			"KEENA",
-			"CHANELLE MOON",
-			"YEWON",
-			"ATHENA",
+			"Keena",
+			"Chanelle Moon",
+			"Yewon",
+			"Athena",
 			"Busan"
 		],
 		"categories": [
@@ -122,10 +167,10 @@
 		],
 		"series": [],
 		"cast": [
-			"KEENA",
-			"CHANELLE MOON",
-			"YEWON",
-			"ATHENA"
+			"Keena",
+			"Chanelle Moon",
+			"Yewon",
+			"Athena"
 		],
 		"status": null,
 		"era": "Starstruck"
@@ -134,7 +179,7 @@
 		"id": "2-174335480",
 		"platform": "Weverse",
 		"title": "모해 자기야",
-		"uploader": "KEENA",
+		"uploader": "Keena",
 		"creators": [
 			"FIFTY FIFTY"
 		],
@@ -147,7 +192,7 @@
 		"release_timestamp": 1778340156,
 		"description": "",
 		"tags": [
-			"KEENA"
+			"Keena"
 		],
 		"categories": [],
 		"live_status": "was_live",
@@ -165,7 +210,7 @@
 		],
 		"series": [],
 		"cast": [
-			"KEENA"
+			"Keena"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -174,7 +219,7 @@
 		"id": "3-229289872",
 		"platform": "Weverse",
 		"title": "안자는 트웨니 ??",
-		"uploader": "YEWON",
+		"uploader": "Yewon",
 		"creators": [
 			"FIFTY FIFTY"
 		],
@@ -187,7 +232,7 @@
 		"release_timestamp": 1778252259,
 		"description": "",
 		"tags": [
-			"YEWON"
+			"Yewon"
 		],
 		"categories": [],
 		"live_status": "was_live",
@@ -205,7 +250,7 @@
 		],
 		"series": [],
 		"cast": [
-			"YEWON"
+			"Yewon"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -227,7 +272,7 @@
 		"release_timestamp": 1777611623,
 		"description": "",
 		"tags": [
-			"CHANELLE MOON"
+			"Chanelle Moon"
 		],
 		"categories": [],
 		"live_status": "was_live",
@@ -245,7 +290,7 @@
 		],
 		"series": [],
 		"cast": [
-			"CHANELLE MOON"
+			"Chanelle Moon"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -266,7 +311,7 @@
 		"release_timestamp": 1775707503,
 		"description": "",
 		"tags": [
-			"CHANELLE MOON"
+			"Chanelle Moon"
 		],
 		"categories": [],
 		"live_status": "was_live",
@@ -285,7 +330,7 @@
 		"platform": "Weverse",
 		"series": [],
 		"cast": [
-			"CHANELLE MOON"
+			"Chanelle Moon"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -293,7 +338,7 @@
 	{
 		"id": "4-225834539",
 		"title": "드디어 얼굴...",
-		"uploader": "ATHENA",
+		"uploader": "Athena",
 		"creators": [
 			"FIFTY FIFTY"
 		],
@@ -306,8 +351,8 @@
 		"release_timestamp": 1775473104,
 		"description": "",
 		"tags": [
-			"ATHENA",
-			"KEENA"
+			"Athena",
+			"Keena"
 		],
 		"categories": [],
 		"live_status": "was_live",
@@ -326,8 +371,8 @@
 		"platform": "Weverse",
 		"series": [],
 		"cast": [
-			"ATHENA",
-			"KEENA"
+			"Athena",
+			"Keena"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -335,7 +380,7 @@
 	{
 		"id": "0-171906553",
 		"title": "노 얼굴",
-		"uploader": "ATHENA",
+		"uploader": "Athena",
 		"creators": [
 			"FIFTY FIFTY"
 		],
@@ -348,7 +393,7 @@
 		"release_timestamp": 1774419802,
 		"description": "",
 		"tags": [
-			"ATHENA",
+			"Athena",
 			"Voice Only"
 		],
 		"categories": [
@@ -370,7 +415,7 @@
 		"platform": "Weverse",
 		"series": [],
 		"cast": [
-			"ATHENA"
+			"Athena"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -378,7 +423,7 @@
 	{
 		"id": "3-224347433",
 		"title": "오랜만이야",
-		"uploader": "KEENA",
+		"uploader": "Keena",
 		"creators": [
 			"FIFTY FIFTY"
 		],
@@ -391,7 +436,7 @@
 		"release_timestamp": 1774263213,
 		"description": "",
 		"tags": [
-			"KEENA"
+			"Keena"
 		],
 		"categories": [
 			"Voice Only"
@@ -412,7 +457,7 @@
 		"platform": "Weverse",
 		"series": [],
 		"cast": [
-			"KEENA"
+			"Keena"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -420,7 +465,7 @@
 	{
 		"id": "2-171506018",
 		"title": "테나 놀아줘여",
-		"uploader": "ATHENA",
+		"uploader": "Athena",
 		"creators": [
 			"FIFTY FIFTY"
 		],
@@ -433,7 +478,7 @@
 		"release_timestamp": 1773832472,
 		"description": "",
 		"tags": [
-			"ATHENA",
+			"Athena",
 			"Voice Only"
 		],
 		"categories": null,
@@ -453,7 +498,7 @@
 		"platform": "Weverse",
 		"series": [],
 		"cast": [
-			"ATHENA"
+			"Athena"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -474,7 +519,7 @@
 		"release_timestamp": 1773811518,
 		"description": "",
 		"tags": [
-			"YEWON",
+			"Yewon",
 			"Birthday"
 		],
 		"categories": null,
@@ -496,7 +541,7 @@
 			"Birthday Livestream"
 		],
 		"cast": [
-			"YEWON"
+			"Yewon"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -517,7 +562,7 @@
 		"release_timestamp": 1773553049,
 		"description": "",
 		"tags": [
-			"ATHENA",
+			"Athena",
 			"Birthday"
 		],
 		"categories": null,
@@ -539,7 +584,7 @@
 			"Birthday Livestream"
 		],
 		"cast": [
-			"ATHENA"
+			"Athena"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -560,7 +605,7 @@
 		"release_timestamp": 1773552950,
 		"description": "",
 		"tags": [
-			"ATHENA",
+			"Athena",
 			"Birthday"
 		],
 		"categories": null,
@@ -582,7 +627,7 @@
 			"Birthday Livestream"
 		],
 		"cast": [
-			"ATHENA"
+			"Athena"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -601,7 +646,7 @@
 		"release_timestamp": 1770873087,
 		"description": "",
 		"tags": [
-			"CHANELLE MOON"
+			"Chanelle Moon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -620,7 +665,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"CHANELLE MOON"
+			"Chanelle Moon"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -628,7 +673,7 @@
 	{
 		"id": "2-169614653",
 		"title": "좋은 주말~",
-		"uploader": "ATHENA",
+		"uploader": "Athena",
 		"creators": "FIFTY FIFTY",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
@@ -639,7 +684,7 @@
 		"release_timestamp": 1770439923,
 		"description": "",
 		"tags": [
-			"ATHENA"
+			"Athena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -658,7 +703,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"ATHENA"
+			"Athena"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -666,7 +711,7 @@
 	{
 		"id": "0-169513293",
 		"title": "새벽라이브 🥴🤍",
-		"uploader": "HANA",
+		"uploader": "Hana",
 		"creators": "FIFTY FIFTY",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
@@ -677,7 +722,7 @@
 		"release_timestamp": 1770217373,
 		"description": "",
 		"tags": [
-			"HANA"
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -696,7 +741,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"HANA"
+			"Hana"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -704,7 +749,7 @@
 	{
 		"id": "3-219573277",
 		"title": "트웨니랑 하나랑",
-		"uploader": "HANA",
+		"uploader": "Hana",
 		"creators": "FIFTY FIFTY",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
@@ -715,7 +760,7 @@
 		"release_timestamp": 1770013447,
 		"description": "",
 		"tags": [
-			"HANA"
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -734,7 +779,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"HANA"
+			"Hana"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -742,7 +787,7 @@
 	{
 		"id": "1-169451137",
 		"title": "테나랑 노래연습~",
-		"uploader": "ATHENA",
+		"uploader": "Athena",
 		"creators": "FIFTY FIFTY",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
@@ -753,7 +798,7 @@
 		"release_timestamp": 1770007713,
 		"description": "",
 		"tags": [
-			"ATHENA"
+			"Athena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -772,7 +817,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"ATHENA"
+			"Athena"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -780,7 +825,7 @@
 	{
 		"id": "1-169045493",
 		"title": "심심해 놀쟈",
-		"uploader": "HANA",
+		"uploader": "Hana",
 		"creators": "FIFTY FIFTY",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
@@ -791,7 +836,7 @@
 		"release_timestamp": 1768970684,
 		"description": "",
 		"tags": [
-			"HANA"
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -810,7 +855,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"HANA"
+			"Hana"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -818,7 +863,7 @@
 	{
 		"id": "4-218634332",
 		"title": "오랜만이지?",
-		"uploader": "KEENA",
+		"uploader": "Keena",
 		"creators": "FIFTY FIFTY",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
@@ -829,7 +874,7 @@
 		"release_timestamp": 1768806704,
 		"description": "",
 		"tags": [
-			"KEENA"
+			"Keena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -848,7 +893,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"KEENA"
+			"Keena"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -856,7 +901,7 @@
 	{
 		"id": "1-168577352",
 		"title": "저녁밥 냠냠",
-		"uploader": "HANA",
+		"uploader": "Hana",
 		"creators": "FIFTY FIFTY",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
@@ -867,7 +912,7 @@
 		"release_timestamp": 1767775433,
 		"description": "",
 		"tags": [
-			"HANA"
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -886,7 +931,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"HANA"
+			"Hana"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -905,7 +950,7 @@
 		"release_timestamp": 1767337441,
 		"description": "",
 		"tags": [
-			"CHANELLE MOON"
+			"Chanelle Moon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -924,7 +969,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"CHANELLE MOON"
+			"Chanelle Moon"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -932,7 +977,7 @@
 	{
 		"id": "4-216732840",
 		"title": "약속 지키러 왔엉🎄",
-		"uploader": "KEENA",
+		"uploader": "Keena",
 		"creators": "FIFTY FIFTY",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
@@ -943,7 +988,7 @@
 		"release_timestamp": 1766657745,
 		"description": "",
 		"tags": [
-			"KEENA"
+			"Keena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -962,7 +1007,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"KEENA"
+			"Keena"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -970,7 +1015,7 @@
 	{
 		"id": "4-216211478",
 		"title": "오랜만이양 트웨니🥹🫶",
-		"uploader": "HANA",
+		"uploader": "Hana",
 		"creators": "FIFTY FIFTY",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
@@ -981,7 +1026,7 @@
 		"release_timestamp": 1765948475,
 		"description": "",
 		"tags": [
-			"HANA",
+			"Hana",
 			"Live Performance"
 		],
 		"categories": null,
@@ -1001,7 +1046,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"HANA"
+			"Hana"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -1009,7 +1054,7 @@
 	{
 		"id": "4-216169631",
 		"title": "서프라이즈",
-		"uploader": "ATHENA",
+		"uploader": "Athena",
 		"creators": "FIFTY FIFTY",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
@@ -1020,7 +1065,7 @@
 		"release_timestamp": 1765875660,
 		"description": "",
 		"tags": [
-			"ATHENA",
+			"Athena",
 			"Live Performance"
 		],
 		"categories": null,
@@ -1040,7 +1085,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"ATHENA"
+			"Athena"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -1048,7 +1093,7 @@
 	{
 		"id": "2-167559054",
 		"title": "심심해 나랑 같이 수다떨자🦋",
-		"uploader": "YEWON",
+		"uploader": "Yewon",
 		"creators": "FIFTY FIFTY",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
@@ -1059,8 +1104,8 @@
 		"release_timestamp": 1765353635,
 		"description": "",
 		"tags": [
-			"YEWON",
-			"KEENA",
+			"Yewon",
+			"Keena",
 			"Live Performance"
 		],
 		"categories": null,
@@ -1080,8 +1125,8 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"YEWON",
-			"KEENA"
+			"Yewon",
+			"Keena"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -1089,7 +1134,7 @@
 	{
 		"id": "3-215748664",
 		"title": "지루해...",
-		"uploader": "ATHENA",
+		"uploader": "Athena",
 		"creators": "FIFTY FIFTY",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
@@ -1100,7 +1145,7 @@
 		"release_timestamp": 1765280036,
 		"description": "",
 		"tags": [
-			"ATHENA"
+			"Athena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -1119,7 +1164,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"ATHENA"
+			"Athena"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -1127,7 +1172,7 @@
 	{
 		"id": "0-167051481",
 		"title": "dont change the chanelle",
-		"uploader": "CHANELLE MOON",
+		"uploader": "Chanelle Moon",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 3992,
@@ -1137,7 +1182,7 @@
 		"release_timestamp": 1764124342,
 		"description": "",
 		"tags": [
-			"CHANELLE MOON",
+			"Chanelle Moon",
 			"Live Performance",
 			"Cover"
 		],
@@ -1158,7 +1203,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"CHANELLE MOON"
+			"Chanelle Moon"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -1166,7 +1211,7 @@
 	{
 		"id": "1-166732388",
 		"title": "수험생 트웨니 고생했어",
-		"uploader": "KEENA",
+		"uploader": "Keena",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 1899,
@@ -1176,7 +1221,7 @@
 		"release_timestamp": 1763045344,
 		"description": "",
 		"tags": [
-			"KEENA"
+			"Keena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -1195,7 +1240,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"KEENA"
+			"Keena"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -1203,7 +1248,7 @@
 	{
 		"id": "3-213824160",
 		"title": "T1 이겼당",
-		"uploader": "ATHENA",
+		"uploader": "Athena",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 1244,
@@ -1213,8 +1258,8 @@
 		"release_timestamp": 1762690258,
 		"description": "",
 		"tags": [
-			"ATHENA",
-			"HANA"
+			"Athena",
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -1233,8 +1278,8 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"ATHENA",
-			"HANA"
+			"Athena",
+			"Hana"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -1242,7 +1287,7 @@
 	{
 		"id": "3-213469123",
 		"title": "오늘이잖아 트웨니~!!!",
-		"uploader": "HANA",
+		"uploader": "Hana",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 2405,
@@ -1252,7 +1297,7 @@
 		"release_timestamp": 1762233402,
 		"description": "",
 		"tags": [
-			"HANA"
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -1271,7 +1316,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"HANA"
+			"Hana"
 		],
 		"status": null,
 		"era": "Too Much Part 1"
@@ -1279,7 +1324,7 @@
 	{
 		"id": "3-213375674",
 		"title": "오늘 하루 마무리🤍",
-		"uploader": "HANA",
+		"uploader": "Hana",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 1837,
@@ -1289,7 +1334,7 @@
 		"release_timestamp": 1762091360,
 		"description": "",
 		"tags": [
-			"HANA"
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -1308,7 +1353,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"HANA"
+			"Hana"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -1316,7 +1361,7 @@
 	{
 		"id": "2-166275143",
 		"title": "잠깐 이야",
-		"uploader": "KEENA",
+		"uploader": "Keena",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 2240,
@@ -1326,7 +1371,7 @@
 		"release_timestamp": 1761903022,
 		"description": "",
 		"tags": [
-			"KEENA"
+			"Keena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -1345,7 +1390,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"KEENA"
+			"Keena"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -1353,7 +1398,7 @@
 	{
 		"id": "4-213155905",
 		"title": "뭐하지...?",
-		"uploader": "ATHENA",
+		"uploader": "Athena",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 3540,
@@ -1363,7 +1408,7 @@
 		"release_timestamp": 1761813049,
 		"description": "",
 		"tags": [
-			"ATHENA",
+			"Athena",
 			"Live Performance",
 			"Cover"
 		],
@@ -1384,7 +1429,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"ATHENA"
+			"Athena"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -1392,7 +1437,7 @@
 	{
 		"id": "4-212625580",
 		"title": "다들 일하거나 공부하려나?",
-		"uploader": "KEENA",
+		"uploader": "Keena",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 2946,
@@ -1402,7 +1447,7 @@
 		"release_timestamp": 1761119470,
 		"description": "",
 		"tags": [
-			"KEENA"
+			"Keena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -1421,7 +1466,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"KEENA"
+			"Keena"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -1429,7 +1474,7 @@
 	{
 		"id": "1-165857598",
 		"title": "고고",
-		"uploader": "ATHENA",
+		"uploader": "Athena",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 4609,
@@ -1439,7 +1484,7 @@
 		"release_timestamp": 1760855433,
 		"description": "",
 		"tags": [
-			"ATHENA"
+			"Athena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -1458,7 +1503,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"ATHENA"
+			"Athena"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -1466,7 +1511,7 @@
 	{
 		"id": "3-212381343",
 		"title": "안농🫶",
-		"uploader": "HANA",
+		"uploader": "Hana",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 2739,
@@ -1476,9 +1521,9 @@
 		"release_timestamp": 1760852119,
 		"description": "",
 		"tags": [
-			"HANA",
-			"YEWON",
-			"ATHENA"
+			"Hana",
+			"Yewon",
+			"Athena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -1497,9 +1542,9 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"HANA",
-			"YEWON",
-			"ATHENA"
+			"Hana",
+			"Yewon",
+			"Athena"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -1507,7 +1552,7 @@
 	{
 		"id": "4-212234397",
 		"title": "하이... 어게인",
-		"uploader": "CHANELLE MOON",
+		"uploader": "Chanelle Moon",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 3900,
@@ -1517,7 +1562,7 @@
 		"release_timestamp": 1760701197,
 		"description": "",
 		"tags": [
-			"CHANELLE MOON"
+			"Chanelle Moon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -1536,7 +1581,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"CHANELLE MOON"
+			"Chanelle Moon"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -1544,7 +1589,7 @@
 	{
 		"id": "4-212233834",
 		"title": "하이~",
-		"uploader": "CHANELLE MOON",
+		"uploader": "Chanelle Moon",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 46,
@@ -1554,7 +1599,7 @@
 		"release_timestamp": 1760701041,
 		"description": "",
 		"tags": [
-			"CHANELLE MOON"
+			"Chanelle Moon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -1573,7 +1618,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"CHANELLE MOON"
+			"Chanelle Moon"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -1581,7 +1626,7 @@
 	{
 		"id": "2-165522826",
 		"title": "일본이댱",
-		"uploader": "HANA",
+		"uploader": "Hana",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 1233,
@@ -1591,7 +1636,7 @@
 		"release_timestamp": 1760230446,
 		"description": "",
 		"tags": [
-			"HANA"
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -1610,7 +1655,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"HANA"
+			"Hana"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -1618,7 +1663,7 @@
 	{
 		"id": "1-165447651",
 		"title": "냠🤍",
-		"uploader": "YEWON",
+		"uploader": "Yewon",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 1445,
@@ -1628,7 +1673,7 @@
 		"release_timestamp": 1760067111,
 		"description": "",
 		"tags": [
-			"YEWON"
+			"Yewon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -1647,7 +1692,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"YEWON"
+			"Yewon"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -1655,7 +1700,7 @@
 	{
 		"id": "0-165427571",
 		"title": "잠깐만 같이 놀자 트웨니",
-		"uploader": "HANA",
+		"uploader": "Hana",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 965,
@@ -1665,7 +1710,7 @@
 		"release_timestamp": 1760062644,
 		"description": "",
 		"tags": [
-			"HANA"
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -1684,7 +1729,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"HANA"
+			"Hana"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -1692,7 +1737,7 @@
 	{
 		"id": "3-210841786",
 		"title": "다시.. 노래방 렛츠고고",
-		"uploader": "HANA",
+		"uploader": "Hana",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 3503,
@@ -1702,7 +1747,7 @@
 		"release_timestamp": 1759304070,
 		"description": "",
 		"tags": [
-			"HANA"
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -1721,7 +1766,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"HANA"
+			"Hana"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -1729,7 +1774,7 @@
 	{
 		"id": "0-165066137",
 		"title": "10월 1일!! 노래방 렛츠고😙",
-		"uploader": "HANA",
+		"uploader": "Hana",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 165,
@@ -1739,7 +1784,7 @@
 		"release_timestamp": 1759303828,
 		"description": "",
 		"tags": [
-			"HANA"
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -1758,7 +1803,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"HANA"
+			"Hana"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -1766,7 +1811,7 @@
 	{
 		"id": "3-210764523",
 		"title": "라방 3번타자 레츠고",
-		"uploader": "HANA",
+		"uploader": "Hana",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 3344,
@@ -1776,7 +1821,7 @@
 		"release_timestamp": 1759224559,
 		"description": "",
 		"tags": [
-			"HANA"
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -1795,7 +1840,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"HANA"
+			"Hana"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -1803,7 +1848,7 @@
 	{
 		"id": "3-210754523",
 		"title": "아야어여오요우유으이",
-		"uploader": "ATHENA",
+		"uploader": "Athena",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 3658,
@@ -1813,8 +1858,8 @@
 		"release_timestamp": 1759211121,
 		"description": "",
 		"tags": [
-			"ATHENA",
-			"HANA"
+			"Athena",
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -1833,8 +1878,8 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"ATHENA",
-			"HANA"
+			"Athena",
+			"Hana"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -1842,7 +1887,7 @@
 	{
 		"id": "3-210751323",
 		"title": "다시 켰어 🥹",
-		"uploader": "YEWON",
+		"uploader": "Yewon",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 1803,
@@ -1852,8 +1897,8 @@
 		"release_timestamp": 1759205218,
 		"description": "",
 		"tags": [
-			"YEWON",
-			"CHANELLE MOON"
+			"Yewon",
+			"Chanelle Moon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -1872,8 +1917,8 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"YEWON",
-			"CHANELLE MOON"
+			"Yewon",
+			"Chanelle Moon"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -1881,7 +1926,7 @@
 	{
 		"id": "3-210751098",
 		"title": "심심한 트웨니? 뛰어,,,",
-		"uploader": "YEWON",
+		"uploader": "Yewon",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 187,
@@ -1891,7 +1936,7 @@
 		"release_timestamp": 1759204857,
 		"description": "",
 		"tags": [
-			"YEWON"
+			"Yewon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -1910,7 +1955,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"YEWON"
+			"Yewon"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -1918,7 +1963,7 @@
 	{
 		"id": "4-210703435",
 		"title": "im back",
-		"uploader": "CHANELLE MOON",
+		"uploader": "Chanelle Moon",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 1273,
@@ -1928,8 +1973,8 @@
 		"release_timestamp": 1759148652,
 		"description": "",
 		"tags": [
-			"CHANELLE MOON",
-			"HANA"
+			"Chanelle Moon",
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -1948,8 +1993,8 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"CHANELLE MOON",
-			"HANA"
+			"Chanelle Moon",
+			"Hana"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -1957,7 +2002,7 @@
 	{
 		"id": "3-210701094",
 		"title": "talking to the moon 🌕",
-		"uploader": "CHANELLE MOON",
+		"uploader": "Chanelle Moon",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 2154,
@@ -1967,7 +2012,7 @@
 		"release_timestamp": 1759146389,
 		"description": "",
 		"tags": [
-			"CHANELLE MOON"
+			"Chanelle Moon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -1986,7 +2031,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"CHANELLE MOON"
+			"Chanelle Moon"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -1994,7 +2039,7 @@
 	{
 		"id": "3-210616644",
 		"title": "다시..ㅎㅎ",
-		"uploader": "HANA",
+		"uploader": "Hana",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 250,
@@ -2004,7 +2049,7 @@
 		"release_timestamp": 1759064329,
 		"description": "",
 		"tags": [
-			"HANA"
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -2023,7 +2068,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"HANA"
+			"Hana"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -2031,7 +2076,7 @@
 	{
 		"id": "3-210614113",
 		"title": "좋은 밤이야 트웨니~!~!",
-		"uploader": "HANA",
+		"uploader": "Hana",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 2334,
@@ -2041,7 +2086,7 @@
 		"release_timestamp": 1759061907,
 		"description": "",
 		"tags": [
-			"HANA"
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -2060,7 +2105,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"HANA"
+			"Hana"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -2068,7 +2113,7 @@
 	{
 		"id": "2-164962666",
 		"title": "짧게 라도 왔어",
-		"uploader": "KEENA",
+		"uploader": "Keena",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 1379,
@@ -2078,7 +2123,7 @@
 		"release_timestamp": 1759051756,
 		"description": "",
 		"tags": [
-			"KEENA"
+			"Keena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -2097,7 +2142,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"KEENA"
+			"Keena"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -2105,7 +2150,7 @@
 	{
 		"id": "4-210514453",
 		"title": "드루와",
-		"uploader": "KEENA",
+		"uploader": "Keena",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 2205,
@@ -2115,7 +2160,7 @@
 		"release_timestamp": 1758975782,
 		"description": "",
 		"tags": [
-			"KEENA"
+			"Keena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -2134,7 +2179,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"KEENA"
+			"Keena"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -2152,11 +2197,11 @@
 		"release_timestamp": 1758364220,
 		"description": "",
 		"tags": [
-			"YEWON",
-			"ATHENA",
-			"CHANELLE MOON",
-			"HANA",
-			"KEENA",
+			"Yewon",
+			"Athena",
+			"Chanelle Moon",
+			"Hana",
+			"Keena",
 			"1ST DEBUT ANNIVERSARY",
 			"ANNIVERSARY"
 		],
@@ -2177,11 +2222,11 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"YEWON",
-			"ATHENA",
-			"CHANELLE MOON",
-			"HANA",
-			"KEENA"
+			"Yewon",
+			"Athena",
+			"Chanelle Moon",
+			"Hana",
+			"Keena"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -2189,7 +2234,7 @@
 	{
 		"id": "4-209928515",
 		"title": "수다떨려고 왔옹",
-		"uploader": "HANA",
+		"uploader": "Hana",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 1192,
@@ -2199,7 +2244,7 @@
 		"release_timestamp": 1758253607,
 		"description": "",
 		"tags": [
-			"HANA"
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -2218,7 +2263,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"HANA"
+			"Hana"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -2226,7 +2271,7 @@
 	{
 		"id": "4-209756912",
 		"title": "눈이 왜 이랬는지에 대한…",
-		"uploader": "HANA",
+		"uploader": "Hana",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 1057,
@@ -2236,7 +2281,7 @@
 		"release_timestamp": 1758041607,
 		"description": "",
 		"tags": [
-			"HANA"
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -2255,7 +2300,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"HANA"
+			"Hana"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -2263,7 +2308,7 @@
 	{
 		"id": "3-209323234",
 		"title": "내 연습생 썰 들어볼사람 드루와",
-		"uploader": "KEENA",
+		"uploader": "Keena",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 1279,
@@ -2273,10 +2318,10 @@
 		"release_timestamp": 1757677307,
 		"description": "",
 		"tags": [
-			"KEENA",
+			"Keena",
 			"Cover",
 			"Live Performance",
-			"YEWON"
+			"Yewon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -2295,8 +2340,8 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"KEENA",
-			"YEWON"
+			"Keena",
+			"Yewon"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -2304,7 +2349,7 @@
 	{
 		"id": "2-164316506",
 		"title": "파티타임",
-		"uploader": "CHANELLE MOON",
+		"uploader": "Chanelle Moon",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 3892,
@@ -2314,9 +2359,9 @@
 		"release_timestamp": 1757670556,
 		"description": "",
 		"tags": [
-			"CHANELLE MOON",
-			"KEENA",
-			"HANA",
+			"Chanelle Moon",
+			"Keena",
+			"Hana",
 			"Cover",
 			"Live Performance"
 		],
@@ -2337,9 +2382,9 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"CHANELLE MOON",
-			"HANA",
-			"KEENA"
+			"Chanelle Moon",
+			"Hana",
+			"Keena"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -2347,7 +2392,7 @@
 	{
 		"id": "0-164086534",
 		"title": "트웨니! 궁금한거 다 물어봐😎",
-		"uploader": "HANA",
+		"uploader": "Hana",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 5074,
@@ -2357,7 +2402,7 @@
 		"release_timestamp": 1757303500,
 		"description": "",
 		"tags": [
-			"HANA",
+			"Hana",
 			"Cover",
 			"Live Performance"
 		],
@@ -2378,7 +2423,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"HANA"
+			"Hana"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -2386,7 +2431,7 @@
 	{
 		"id": "3-208595190",
 		"title": "생카 갔다가 이동중에 잠깐.!!",
-		"uploader": "HANA",
+		"uploader": "Hana",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 1330,
@@ -2396,7 +2441,7 @@
 		"release_timestamp": 1757052051,
 		"description": "",
 		"tags": [
-			"HANA"
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -2415,7 +2460,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"HANA"
+			"Hana"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -2423,7 +2468,7 @@
 	{
 		"id": "3-208441370",
 		"title": "테나랑 놀자ㅏㅏ",
-		"uploader": "ATHENA",
+		"uploader": "Athena",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 3430,
@@ -2433,7 +2478,7 @@
 		"release_timestamp": 1756883565,
 		"description": "",
 		"tags": [
-			"ATHENA"
+			"Athena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -2452,7 +2497,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"ATHENA"
+			"Athena"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -2460,7 +2505,7 @@
 	{
 		"id": "4-208431667",
 		"title": "수다 타임🫧",
-		"uploader": "YEWON",
+		"uploader": "Yewon",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 2818,
@@ -2470,7 +2515,7 @@
 		"release_timestamp": 1756872066,
 		"description": "",
 		"tags": [
-			"YEWON"
+			"Yewon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -2489,7 +2534,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"YEWON"
+			"Yewon"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -2497,7 +2542,7 @@
 	{
 		"id": "2-163547293",
 		"title": "크앙",
-		"uploader": "HANA",
+		"uploader": "Hana",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 1858,
@@ -2507,8 +2552,8 @@
 		"release_timestamp": 1756464160,
 		"description": "",
 		"tags": [
-			"HANA",
-			"CHANELLE MOON",
+			"Hana",
+			"Chanelle Moon",
 			"Cover",
 			"Live Performance"
 		],
@@ -2529,8 +2574,8 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"HANA",
-			"CHANELLE MOON"
+			"Hana",
+			"Chanelle Moon"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -2538,7 +2583,7 @@
 	{
 		"id": "3-207647941",
 		"title": "🤫 pt2",
-		"uploader": "CHANELLE MOON",
+		"uploader": "Chanelle Moon",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 2416,
@@ -2548,8 +2593,8 @@
 		"release_timestamp": 1756352781,
 		"description": "",
 		"tags": [
-			"HANA",
-			"CHANELLE MOON",
+			"Hana",
+			"Chanelle Moon",
 			"Cover",
 			"Live Performance"
 		],
@@ -2570,8 +2615,8 @@
 		"platform": "weverse",
 		"series": null,
 		"cast": [
-			"CHANELLE MOON",
-			"HANA"
+			"Chanelle Moon",
+			"Hana"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -2579,7 +2624,7 @@
 	{
 		"id": "0-163470576",
 		"title": "🤫",
-		"uploader": "CHANELLE MOON",
+		"uploader": "Chanelle Moon",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 73,
@@ -2589,7 +2634,7 @@
 		"release_timestamp": 1756352663,
 		"description": "",
 		"tags": [
-			"CHANELLE MOON"
+			"Chanelle Moon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -2608,7 +2653,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"cast": [
-			"CHANELLE MOON"
+			"Chanelle Moon"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -2616,7 +2661,7 @@
 	{
 		"id": "1-163407194",
 		"title": "안녕",
-		"uploader": "KEENA",
+		"uploader": "Keena",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 3001,
@@ -2626,7 +2671,7 @@
 		"release_timestamp": 1756216259,
 		"description": "",
 		"tags": [
-			"KEENA"
+			"Keena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -2645,7 +2690,7 @@
 		"platform": "Weverse",
 		"series": null,
 		"casts": [
-			"KEENA"
+			"Keena"
 		],
 		"status": null,
 		"era": "Day & Night"
@@ -2653,7 +2698,7 @@
 	{
 		"id": "2-163107997",
 		"title": "점심시간 짤막하게",
-		"uploader": "HANA",
+		"uploader": "Hana",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 1479,
@@ -2663,7 +2708,7 @@
 		"release_timestamp": 1755574596,
 		"description": "",
 		"tags": [
-			"HANA"
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -2680,7 +2725,7 @@
 			}
 		],
 		"casts": [
-			"HANA"
+			"Hana"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -2700,8 +2745,8 @@
 		"release_timestamp": 1755425503,
 		"description": "",
 		"tags": [
-			"KEENA",
-			"ATHENA",
+			"Keena",
+			"Athena",
 			"Mukbang"
 		],
 		"categories": null,
@@ -2719,8 +2764,8 @@
 			}
 		],
 		"casts": [
-			"KEENA",
-			"ATHENA"
+			"Keena",
+			"Athena"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -2730,7 +2775,7 @@
 	{
 		"id": "2-162812531",
 		"title": "다시 왔오☘️⭐️",
-		"uploader": "HANA",
+		"uploader": "Hana",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 4079,
@@ -2740,8 +2785,8 @@
 		"release_timestamp": 1754899239,
 		"description": "",
 		"tags": [
-			"HANA",
-			"CHANELLE MOON"
+			"Hana",
+			"Chanelle Moon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -2758,8 +2803,8 @@
 			}
 		],
 		"casts": [
-			"HANA",
-			"CHANELLE MOON"
+			"Hana",
+			"Chanelle Moon"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -2769,7 +2814,7 @@
 	{
 		"id": "4-206297374",
 		"title": "트웨니가 보고 싶어서~!!~!",
-		"uploader": "HANA",
+		"uploader": "Hana",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 124,
@@ -2779,7 +2824,7 @@
 		"release_timestamp": 1754899068,
 		"description": "하나 왔당☘️",
 		"tags": [
-			"HANA"
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -2796,7 +2841,7 @@
 			}
 		],
 		"casts": [
-			"HANA"
+			"Hana"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -2806,7 +2851,7 @@
 	{
 		"id": "4-206274288",
 		"title": "잠깐 틈나서 라방",
-		"uploader": "KEENA",
+		"uploader": "Keena",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 814,
@@ -2816,7 +2861,7 @@
 		"release_timestamp": 1754879053,
 		"description": "",
 		"tags": [
-			"KEENA"
+			"Keena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -2833,7 +2878,7 @@
 			}
 		],
 		"casts": [
-			"KEENA"
+			"Keena"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -2843,7 +2888,7 @@
 	{
 		"id": "1-162511133",
 		"title": "✨dont change the channel✨",
-		"uploader": "CHANELLE MOON",
+		"uploader": "Chanelle Moon",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 4319,
@@ -2853,7 +2898,7 @@
 		"release_timestamp": 1754301756,
 		"description": "",
 		"tags": [
-			"CHANELLE MOON"
+			"Chanelle Moon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -2870,7 +2915,7 @@
 			}
 		],
 		"casts": [
-			"CHANELLE MOON"
+			"Chanelle Moon"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -2890,7 +2935,7 @@
 		"release_timestamp": 1753877441,
 		"description": "",
 		"tags": [
-			"KEENA"
+			"Keena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -2907,7 +2952,7 @@
 			}
 		],
 		"casts": [
-			"KEENA"
+			"Keena"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -2927,7 +2972,7 @@
 		"release_timestamp": 1753668081,
 		"description": "",
 		"tags": [
-			"YEWON"
+			"Yewon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -2944,7 +2989,7 @@
 			}
 		],
 		"casts": [
-			"YEWON"
+			"Yewon"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -2964,11 +3009,11 @@
 		"release_timestamp": 1752746422,
 		"description": "해당 라이브에서 TWENY의 질문을 받아 FIFTY FIFTY 멤버들이 답변해드릴 예정입니다.\nTWENY의 많은 관심과 참여 부탁드립니다.\n\n📝 Q&A form\n🔗 https://forms.gle/DcY8TRbuzhucSYDw7\n\n#FIFTYFIFTY #피프티피프티",
 		"tags": [
-			"CHANELLE MOON",
-			"KEENA",
-			"HANA",
-			"ATHENA",
-			"YEWON"
+			"Chanelle Moon",
+			"Keena",
+			"Hana",
+			"Athena",
+			"Yewon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -2985,11 +3030,11 @@
 			}
 		],
 		"casts": [
-			"CHANELLE MOON",
-			"KEENA",
-			"HANA",
-			"ATHENA",
-			"YEWON"
+			"Chanelle Moon",
+			"Keena",
+			"Hana",
+			"Athena",
+			"Yewon"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -2999,7 +3044,7 @@
 	{
 		"id": "4-204170937",
 		"title": "보고싶어여",
-		"uploader": "ATHENA",
+		"uploader": "Athena",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 3511,
@@ -3009,7 +3054,7 @@
 		"release_timestamp": 1752559400,
 		"description": "",
 		"tags": [
-			"ATHENA"
+			"Athena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -3026,7 +3071,7 @@
 			}
 		],
 		"casts": [
-			"ATHENA"
+			"Athena"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -3036,7 +3081,7 @@
 	{
 		"id": "3-204176389",
 		"title": "보고싶어여",
-		"uploader": "ATHENA",
+		"uploader": "Athena",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 46,
@@ -3046,7 +3091,7 @@
 		"release_timestamp": 1752559318,
 		"description": "",
 		"tags": [
-			"ATHENA"
+			"Athena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -3063,7 +3108,7 @@
 			}
 		],
 		"casts": [
-			"ATHENA"
+			"Athena"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -3073,7 +3118,7 @@
 	{
 		"id": "4-204046842",
 		"title": "같이 저녁먹자 트웨니",
-		"uploader": "KEENA",
+		"uploader": "Keena",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 3995,
@@ -3083,7 +3128,7 @@
 		"release_timestamp": 1752415975,
 		"description": "같이 저녁묵자 우리 보고싶었어🤍",
 		"tags": [
-			"KEENA"
+			"Keena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -3100,7 +3145,7 @@
 			}
 		],
 		"casts": [
-			"KEENA"
+			"Keena"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -3110,7 +3155,7 @@
 	{
 		"id": "2-161629226",
 		"title": "대만 룸메즈",
-		"uploader": "ATHENA",
+		"uploader": "Athena",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 4054,
@@ -3120,10 +3165,10 @@
 		"release_timestamp": 1752303603,
 		"description": "그냥 보고싶어서 ㅎㅎㅎ",
 		"tags": [
-			"ATHENA",
-			"YEWON",
-			"HANA",
-			"CHANELLE MOON"
+			"Athena",
+			"Yewon",
+			"Hana",
+			"Chanelle Moon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -3140,10 +3185,10 @@
 			}
 		],
 		"casts": [
-			"ATHENA",
-			"YEWON",
-			"HANA",
-			"CHANELLE MOON"
+			"Athena",
+			"Yewon",
+			"Hana",
+			"Chanelle Moon"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -3163,10 +3208,10 @@
 		"release_timestamp": 1746421221,
 		"description": "How was your children's day?👼💛\n2025. 05. 05 2PM (KST)\nWeverse Live\n\n#FIFTYFIFTY #피프티피프티\n#FIFTYFIFTY_DayAndNight\n#DayAndNight #Pookie\n#피프티피프티_Pookie",
 		"tags": [
-			"ATHENA",
-			"YEWON",
-			"HANA",
-			"CHANELLE MOON"
+			"Athena",
+			"Yewon",
+			"Hana",
+			"Chanelle Moon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -3183,10 +3228,10 @@
 			}
 		],
 		"casts": [
-			"ATHENA",
-			"YEWON",
-			"HANA",
-			"CHANELLE MOON"
+			"Athena",
+			"Yewon",
+			"Hana",
+			"Chanelle Moon"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -3206,9 +3251,9 @@
 		"release_timestamp": 1745578908,
 		"description": "",
 		"tags": [
-			"YEWON",
-			"HANA",
-			"KEENA"
+			"Yewon",
+			"Hana",
+			"Keena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -3225,9 +3270,9 @@
 			}
 		],
 		"casts": [
-			"YEWON",
-			"HANA",
-			"KEENA"
+			"Yewon",
+			"Hana",
+			"Keena"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -3247,8 +3292,8 @@
 		"release_timestamp": 1745474419,
 		"description": "",
 		"tags": [
-			"ATHENA",
-			"HANA"
+			"Athena",
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -3265,8 +3310,8 @@
 			}
 		],
 		"casts": [
-			"ATHENA",
-			"HANA"
+			"Athena",
+			"Hana"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -3286,8 +3331,8 @@
 		"release_timestamp": 1745402417,
 		"description": "",
 		"tags": [
-			"ATHENA",
-			"CHANELLE MOON"
+			"Athena",
+			"Chanelle Moon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -3304,8 +3349,8 @@
 			}
 		],
 		"casts": [
-			"ATHENA",
-			"CHANELLE MOON"
+			"Athena",
+			"Chanelle Moon"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -3325,7 +3370,7 @@
 		"release_timestamp": 1745298038,
 		"description": "",
 		"tags": [
-			"KEENA"
+			"Keena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -3342,7 +3387,7 @@
 			}
 		],
 		"casts": [
-			"KEENA"
+			"Keena"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -3362,8 +3407,8 @@
 		"release_timestamp": 1745070966,
 		"description": "",
 		"tags": [
-			"YEWON",
-			"ATHENA"
+			"Yewon",
+			"Athena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -3380,8 +3425,8 @@
 			}
 		],
 		"casts": [
-			"YEWON",
-			"ATHENA"
+			"Yewon",
+			"Athena"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -3401,8 +3446,8 @@
 		"release_timestamp": 1744776376,
 		"description": "",
 		"tags": [
-			"YEWON",
-			"ATHENA"
+			"Yewon",
+			"Athena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -3419,8 +3464,8 @@
 			}
 		],
 		"casts": [
-			"YEWON",
-			"ATHENA"
+			"Yewon",
+			"Athena"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -3440,7 +3485,7 @@
 		"release_timestamp": 1743830122,
 		"description": "",
 		"tags": [
-			"YEWON"
+			"Yewon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -3457,7 +3502,7 @@
 			}
 		],
 		"casts": [
-			"YEWON"
+			"Yewon"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -3477,8 +3522,8 @@
 		"release_timestamp": 1743674444,
 		"description": "",
 		"tags": [
-			"KEENA",
-			"CHANELLE MOON"
+			"Keena",
+			"Chanelle Moon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -3495,8 +3540,8 @@
 			}
 		],
 		"casts": [
-			"KEENA",
-			"CHANELLE MOON"
+			"Keena",
+			"Chanelle Moon"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -3516,8 +3561,8 @@
 		"release_timestamp": 1743501662,
 		"description": "",
 		"tags": [
-			"ATHENA",
-			"HANA"
+			"Athena",
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -3534,8 +3579,8 @@
 			}
 		],
 		"casts": [
-			"ATHENA",
-			"HANA"
+			"Athena",
+			"Hana"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -3545,7 +3590,7 @@
 	{
 		"id": "3-194826564",
 		"title": "트웨니 모해요",
-		"uploader": "YEWON",
+		"uploader": "Yewon",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 1131,
@@ -3555,7 +3600,7 @@
 		"release_timestamp": 1742189863,
 		"description": "",
 		"tags": [
-			"YEWON"
+			"Yewon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -3572,7 +3617,7 @@
 			}
 		],
 		"casts": [
-			"YEWON"
+			"Yewon"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -3582,7 +3627,7 @@
 	{
 		"id": "0-156983049",
 		"title": "방청소 할게요....",
-		"uploader": "ATHENA",
+		"uploader": "Athena",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 1342,
@@ -3592,9 +3637,9 @@
 		"release_timestamp": 1742023194,
 		"description": "",
 		"tags": [
-			"YEWON",
-			"ATHENA",
-			"HANA"
+			"Yewon",
+			"Athena",
+			"Hana"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -3611,9 +3656,9 @@
 			}
 		],
 		"casts": [
-			"YEWON",
-			"ATHENA",
-			"HANA"
+			"Yewon",
+			"Athena",
+			"Hana"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -3623,7 +3668,7 @@
 	{
 		"id": "2-156990731",
 		"title": "까꿍! 잠깐 생일이니까 ㅎㅎ",
-		"uploader": "ATHENA",
+		"uploader": "Athena",
 		"channel_id": "221",
 		"channel_url": "https://weverse.io/fiftyfifty",
 		"duration": 1053,
@@ -3633,7 +3678,7 @@
 		"release_timestamp": 1742009443,
 		"description": "zzz",
 		"tags": [
-			"ATHENA"
+			"Athena"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -3650,7 +3695,7 @@
 			}
 		],
 		"casts": [
-			"ATHENA"
+			"Athena"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -3670,11 +3715,11 @@
 		"release_timestamp": 1739345421,
 		"description": "",
 		"tags": [
-			"ATHENA",
-			"YEWON",
-			"HANA",
-			"KEENA",
-			"CHANELLE MOON"
+			"Athena",
+			"Yewon",
+			"Hana",
+			"Keena",
+			"Chanelle Moon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -3691,11 +3736,11 @@
 			}
 		],
 		"casts": [
-			"ATHENA",
-			"YEWON",
-			"HANA",
-			"KEENA",
-			"CHANELLE MOON"
+			"Athena",
+			"Yewon",
+			"Hana",
+			"Keena",
+			"Chanelle Moon"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -3715,11 +3760,11 @@
 		"release_timestamp": 1736247659,
 		"description": "",
 		"tags": [
-			"ATHENA",
-			"YEWON",
-			"HANA",
-			"KEENA",
-			"CHANELLE MOON"
+			"Athena",
+			"Yewon",
+			"Hana",
+			"Keena",
+			"Chanelle Moon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -3736,11 +3781,11 @@
 			}
 		],
 		"casts": [
-			"ATHENA",
-			"YEWON",
-			"HANA",
-			"KEENA",
-			"CHANELLE MOON"
+			"Athena",
+			"Yewon",
+			"Hana",
+			"Keena",
+			"Chanelle Moon"
 		],
 		"platform": "weverse",
 		"series": null,
@@ -3760,11 +3805,11 @@
 		"release_timestamp": 1732957931,
 		"description": "",
 		"tags": [
-			"ATHENA",
-			"YEWON",
-			"HANA",
-			"KEENA",
-			"CHANELLE MOON"
+			"Athena",
+			"Yewon",
+			"Hana",
+			"Keena",
+			"Chanelle Moon"
 		],
 		"categories": null,
 		"live_status": "was_live",
@@ -3781,11 +3826,11 @@
 			}
 		],
 		"casts": [
-			"ATHENA",
-			"YEWON",
-			"HANA",
-			"KEENA",
-			"CHANELLE MOON"
+			"Athena",
+			"Yewon",
+			"Hana",
+			"Keena",
+			"Chanelle Moon"
 		],
 		"platform": "weverse",
 		"series": null,
