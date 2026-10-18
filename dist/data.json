@@ -1,8 +1,2397 @@
 {
-  "generated_at_iso": "2026-07-29T03:27:05.335+09:00",
-  "generated_at_millis": 1785263225335,
+  "generated_at_iso": "2026-07-31T01:46:30.114+09:00",
+  "generated_at_millis": 1785429990114,
   "data": {
     "others": [
+      {
+        "id": "3BogGdlbP6M",
+        "platform": "youtube",
+        "title": "𝙅𝙪𝙨𝙩 𝙖 𝙡𝙞𝙩𝙩𝙡𝙚 🕷️ with FIFTY FIFTY #ATHENA #아테나 (#shorts)",
+        "uploader": " 8TURN",
+        "creators": [],
+        "channel_id": "UCZzpLKZPTSNNycp-qQc2kLw",
+        "channel_url": "https://www.youtube.com/channel/UCZzpLKZPTSNNycp-qQc2kLw",
+        "duration": 17,
+        "duration_string": "17",
+        "upload_date": "20260730",
+        "timestamp": 1785412834,
+        "description": "@WE_FIFTYFIFTY \n#FIFTYFIFTY #피프티피프티\n#8TURN #에잇턴 #エイトターン\n#Stagefright #8TURN_Stagefright",
+        "tags": [
+          "Myungho (8TURN)",
+          "Stagefright - 8TURN",
+          "Athena"
+        ],
+        "categories": [
+          "Challenges"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=3BogGdlbP6M",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/3BogGdlbP6M/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/3BogGdlbP6M/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/3BogGdlbP6M/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/3BogGdlbP6M/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/3BogGdlbP6M/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/3BogGdlbP6M/maxresdefault.jpg"
+        },
+        "series": [],
+        "cast": [
+          "Myungho (8TURN)",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "K0Bz4r9Sczo",
+        "platform": "youtube",
+        "title": "게임할 때 혼자 노는 친구 특 [성수기] #shorts",
+        "uploader": "MUSINSA TV",
+        "creators": [],
+        "channel_id": "UCtfyAiqf095_0_ux8ruwGfA",
+        "channel_url": "https://www.youtube.com/channel/UCtfyAiqf095_0_ux8ruwGfA",
+        "duration": 41,
+        "duration_string": "41",
+        "upload_date": "20260730",
+        "timestamp": 1785412807,
+        "description": "더운 여름을 더욱 시원하게 보내기 좋은 게임, 배틀그라운드 모바일🕹️\n\n#무신사 #무신사TV #성수기 #FIFTYFIFTY #피프티피프티#KEENA #키나 #CHANELLEMOON #문샤넬 #YEWON #예원 #ATHENA #아테나 #배틀그라운드모바일 #아이돌 #걸그룹\n\n* 무신사TV의 모든 콘텐츠는 무신사 스토어에서 판매하는 상품의 광고와 판매 지원을 위해 제작되었습니다.\n* 타인을 비방하거나 욕설, 비속어, 차별적 내용, 신체적 비하 등의 불쾌감을 줄 수 있는 댓글은 무통보 삭제될 수 있습니다.\n* 특정 브랜드에 대한 단순 비난, 허위 사실 유포, 브랜드의 판매 정책에 대한 비난 등의 댓글은 무통보 삭제될 수 있습니다. \n* 유튜브 채널 운영의 방해 또는 정상적인 운영을 저해하는 댓글은 무통보 삭제될 수 있습니다.\n* 상업적인 의도(광고, 홍보 등) 목적의 댓글은 무통보 삭제될 수 있습니다.\n* 스토어 관련 CS 문의는 고객센터를 이용해 주시기 바랍니다.",
+        "tags": [
+          "Peak Season",
+          "PUBG Mobile",
+          "Musinsa TV",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=K0Bz4r9Sczo",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/K0Bz4r9Sczo/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/K0Bz4r9Sczo/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/K0Bz4r9Sczo/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/K0Bz4r9Sczo/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/K0Bz4r9Sczo/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/K0Bz4r9Sczo/maxresdefault.jpg"
+        },
+        "series": [
+          "Peak Season (Musinsa TV)"
+        ],
+        "cast": [
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "PVSALhxNlmY",
+        "platform": "youtube",
+        "title": "예원이 완벽주의에서 벗어나게 된 과정 #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 18,
+        "duration_string": "18",
+        "upload_date": "20260730",
+        "timestamp": 1785407469,
+        "description": "예원이 완벽주의에서 벗어나게 된 과정\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #아이돌 #가수",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=PVSALhxNlmY",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/PVSALhxNlmY/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/PVSALhxNlmY/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/PVSALhxNlmY/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/PVSALhxNlmY/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/PVSALhxNlmY/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/PVSALhxNlmY/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "qXMU-wZDvKY",
+        "platform": "youtube",
+        "title": "FIFTY FIFTY가 [Genie Magic]을 좋아하는 이유 #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 26,
+        "duration_string": "26",
+        "upload_date": "20260730",
+        "timestamp": 1785407465,
+        "description": "FIFTY FIFTY가 [Genie Magic]을 좋아하는 이유\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #아이돌 #가수",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=qXMU-wZDvKY",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/qXMU-wZDvKY/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/qXMU-wZDvKY/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/qXMU-wZDvKY/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/qXMU-wZDvKY/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/qXMU-wZDvKY/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/qXMU-wZDvKY/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "RzZtS4iMlLk",
+        "platform": "youtube",
+        "title": "음악 방송 후속 활동까지 진행했던 FIFTY FIFTY #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 39,
+        "duration_string": "39",
+        "upload_date": "20260730",
+        "timestamp": 1785407463,
+        "description": "음악 방송 후속 활동까지 진행했던 FIFTY FIFTY\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #아이돌 #가수",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=RzZtS4iMlLk",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/RzZtS4iMlLk/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/RzZtS4iMlLk/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/RzZtS4iMlLk/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/RzZtS4iMlLk/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/RzZtS4iMlLk/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/RzZtS4iMlLk/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "v5LG0lkxTHY",
+        "platform": "youtube",
+        "title": "예원이 수면 시간을 꼭 지키는 이유 #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 23,
+        "duration_string": "23",
+        "upload_date": "20260730",
+        "timestamp": 1785407460,
+        "description": "예원이 수면 시간을 꼭 지키는 이유\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #아이돌 #가수",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=v5LG0lkxTHY",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/v5LG0lkxTHY/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/v5LG0lkxTHY/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/v5LG0lkxTHY/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/v5LG0lkxTHY/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/v5LG0lkxTHY/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/v5LG0lkxTHY/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "Uctw7sN-TIQ",
+        "platform": "youtube",
+        "title": "아테나가 잠을 많이 안 자는 이유ㅋㅋ #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 33,
+        "duration_string": "33",
+        "upload_date": "20260730",
+        "timestamp": 1785407458,
+        "description": "아테나가 잠을 많이 안 자는 이유ㅋㅋ\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #아이돌 #가수",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=Uctw7sN-TIQ",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/Uctw7sN-TIQ/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/Uctw7sN-TIQ/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/Uctw7sN-TIQ/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/Uctw7sN-TIQ/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/Uctw7sN-TIQ/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/Uctw7sN-TIQ/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "Mm0IxProQ7g",
+        "platform": "youtube",
+        "title": "문샤넬의 평상시 수면 시간 루틴 #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 39,
+        "duration_string": "39",
+        "upload_date": "20260730",
+        "timestamp": 1785407456,
+        "description": "문샤넬의 평상시 수면 시간 루틴\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #아이돌 #가수",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=Mm0IxProQ7g",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/Mm0IxProQ7g/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/Mm0IxProQ7g/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/Mm0IxProQ7g/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/Mm0IxProQ7g/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/Mm0IxProQ7g/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/Mm0IxProQ7g/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "0-ZXwFiEzQ0",
+        "platform": "youtube",
+        "title": "3-4시간만 자고 생활하는 키나 #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 19,
+        "duration_string": "19",
+        "upload_date": "20260730",
+        "timestamp": 1785407454,
+        "description": "3-4시간만 자고 생활하는 키나\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #아이돌 #가수",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=0-ZXwFiEzQ0",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/0-ZXwFiEzQ0/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/0-ZXwFiEzQ0/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/0-ZXwFiEzQ0/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/0-ZXwFiEzQ0/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/0-ZXwFiEzQ0/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/0-ZXwFiEzQ0/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "SyKIZurQxRs",
+        "platform": "youtube",
+        "title": "예원을 깨우지 않기 위한 문샤넬의 조치ㅋㅋ #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 55,
+        "duration_string": "55",
+        "upload_date": "20260730",
+        "timestamp": 1785407453,
+        "description": "예원을 깨우지 않기 위한 문샤넬의 조치ㅋㅋ\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #아이돌 #가수",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=SyKIZurQxRs",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/SyKIZurQxRs/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/SyKIZurQxRs/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/SyKIZurQxRs/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/SyKIZurQxRs/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/SyKIZurQxRs/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/SyKIZurQxRs/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "Qo1vjh3F-vo",
+        "platform": "youtube",
+        "title": "첫 아시아 팬 콘서트를 앞둔 FIFTY FIFTY의 심경 #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 41,
+        "duration_string": "41",
+        "upload_date": "20260730",
+        "timestamp": 1785407450,
+        "description": "첫 아시아 팬 콘서트를 앞둔 FIFTY FIFTY의 심경\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #아이돌 #가수",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=Qo1vjh3F-vo",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/Qo1vjh3F-vo/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/Qo1vjh3F-vo/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/Qo1vjh3F-vo/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/Qo1vjh3F-vo/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/Qo1vjh3F-vo/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/Qo1vjh3F-vo/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "QviM5IDYQqU",
+        "platform": "youtube",
+        "title": "♬ Genie Magic 역주행 공약 #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 68,
+        "duration_string": "1:08",
+        "upload_date": "20260730",
+        "timestamp": 1785407448,
+        "description": "♬ Genie Magic 역주행 공약\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #아이돌 #가수",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=QviM5IDYQqU",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/QviM5IDYQqU/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/QviM5IDYQqU/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/QviM5IDYQqU/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/QviM5IDYQqU/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/QviM5IDYQqU/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/QviM5IDYQqU/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "kIZ7QNYyn9Q",
+        "platform": "youtube",
+        "title": "의견도 50:50으로 갈리는 FIFTY FIFTY 멤버들 #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 24,
+        "duration_string": "24",
+        "upload_date": "20260730",
+        "timestamp": 1785407446,
+        "description": "의견도 50:50으로 갈리는 FIFTY FIFTY 멤버들\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #아이돌 #가수",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=kIZ7QNYyn9Q",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/kIZ7QNYyn9Q/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/kIZ7QNYyn9Q/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/kIZ7QNYyn9Q/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/kIZ7QNYyn9Q/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/kIZ7QNYyn9Q/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/kIZ7QNYyn9Q/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "bMTf1BvFb94",
+        "platform": "youtube",
+        "title": "FIFTY FIFTY 멤버들의 [Like a Bubble] 최애 파트 #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 46,
+        "duration_string": "46",
+        "upload_date": "20260730",
+        "timestamp": 1785407443,
+        "description": "FIFTY FIFTY 멤버들의 [Like a Bubble] 최애 파트\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #아이돌 #가수",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=bMTf1BvFb94",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/bMTf1BvFb94/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/bMTf1BvFb94/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/bMTf1BvFb94/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/bMTf1BvFb94/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/bMTf1BvFb94/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/bMTf1BvFb94/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "mzxB31mBknw",
+        "platform": "youtube",
+        "title": "FIFTY FIFTY가 도전해 보고 싶은 콘셉트 #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 35,
+        "duration_string": "35",
+        "upload_date": "20260730",
+        "timestamp": 1785407441,
+        "description": "FIFTY FIFTY가 도전해 보고 싶은 콘셉트\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #아이돌 #가수",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=mzxB31mBknw",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/mzxB31mBknw/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/mzxB31mBknw/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/mzxB31mBknw/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/mzxB31mBknw/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/mzxB31mBknw/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/mzxB31mBknw/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "dmleWAQdMls",
+        "platform": "youtube",
+        "title": "FIFTY FIFTY의 첫 연기 도전 후기 #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 56,
+        "duration_string": "56",
+        "upload_date": "20260730",
+        "timestamp": 1785407437,
+        "description": "FIFTY FIFTY의 첫 연기 도전 후기\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #아이돌 #가수",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=dmleWAQdMls",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/dmleWAQdMls/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/dmleWAQdMls/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/dmleWAQdMls/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/dmleWAQdMls/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/dmleWAQdMls/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/dmleWAQdMls/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "InZbukoej_g",
+        "platform": "youtube",
+        "title": "예원이 귀신보다 더 무서워하는 것 #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 27,
+        "duration_string": "27",
+        "upload_date": "20260730",
+        "timestamp": 1785407435,
+        "description": "예원이 귀신보다 더 무서워하는 것\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #아이돌 #가수",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=InZbukoej_g",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/InZbukoej_g/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/InZbukoej_g/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/InZbukoej_g/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/InZbukoej_g/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/InZbukoej_g/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/InZbukoej_g/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "cTd4UtaMDWY",
+        "platform": "youtube",
+        "title": "예원이 진심으로 도전하고 싶은 연기 장르 #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 52,
+        "duration_string": "52",
+        "upload_date": "20260730",
+        "timestamp": 1785407434,
+        "description": "예원이 진심으로 도전하고 싶은 연기 장르\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #아이돌 #가수",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=cTd4UtaMDWY",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/cTd4UtaMDWY/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/cTd4UtaMDWY/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/cTd4UtaMDWY/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/cTd4UtaMDWY/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/cTd4UtaMDWY/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/cTd4UtaMDWY/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "FBnQLCaBRH4",
+        "platform": "youtube",
+        "title": "액션 연기에 도전하고 싶은 아테나 #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 31,
+        "duration_string": "31",
+        "upload_date": "20260730",
+        "timestamp": 1785407432,
+        "description": "액션 연기에 도전하고 싶은 아테나\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #아이돌 #가수",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=FBnQLCaBRH4",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/FBnQLCaBRH4/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/FBnQLCaBRH4/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/FBnQLCaBRH4/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/FBnQLCaBRH4/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/FBnQLCaBRH4/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/FBnQLCaBRH4/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "CsFCCRwPaZQ",
+        "platform": "youtube",
+        "title": "다양한 장르의 연기에 도전하고 싶은 문샤넬 #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 39,
+        "duration_string": "39",
+        "upload_date": "20260730",
+        "timestamp": 1785407430,
+        "description": "다양한 장르의 연기에 도전하고 싶은 문샤넬\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #아이돌 #가수",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=CsFCCRwPaZQ",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/CsFCCRwPaZQ/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/CsFCCRwPaZQ/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/CsFCCRwPaZQ/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/CsFCCRwPaZQ/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/CsFCCRwPaZQ/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/CsFCCRwPaZQ/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "hZfhI061CUA",
+        "platform": "youtube",
+        "title": "4년째 액션 연기를 연마 중인 키나 #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 29,
+        "duration_string": "29",
+        "upload_date": "20260730",
+        "timestamp": 1785407428,
+        "description": "4년째 액션 연기를 연마 중인 키나\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #아이돌 #가수",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=hZfhI061CUA",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/hZfhI061CUA/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/hZfhI061CUA/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/hZfhI061CUA/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/hZfhI061CUA/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/hZfhI061CUA/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/hZfhI061CUA/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "6xOFowucIaM",
+        "platform": "youtube",
+        "title": "아테나는 귀신을 무서워하나요? #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 26,
+        "duration_string": "26",
+        "upload_date": "20260730",
+        "timestamp": 1785407426,
+        "description": "아테나는 귀신을 무서워하나요?\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #아이돌 #가수",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=6xOFowucIaM",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/6xOFowucIaM/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/6xOFowucIaM/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/6xOFowucIaM/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/6xOFowucIaM/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/6xOFowucIaM/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/6xOFowucIaM/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "tSh3fT1G0W4",
+        "platform": "youtube",
+        "title": "문샤넬의 신개념 귀신 퇴치법ㅋㅋ #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 33,
+        "duration_string": "33",
+        "upload_date": "20260730",
+        "timestamp": 1785407425,
+        "description": "문샤넬의 신개념 귀신 퇴치법ㅋㅋ\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #아이돌 #가수",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=tSh3fT1G0W4",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/tSh3fT1G0W4/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/tSh3fT1G0W4/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/tSh3fT1G0W4/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/tSh3fT1G0W4/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/tSh3fT1G0W4/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/tSh3fT1G0W4/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "lslUfNMnw6g",
+        "platform": "youtube",
+        "title": "#DOWN_WITH_IT👇 with #ATHENA 선배님 #FIFTYFIFTY @WE_FIFTYFIFTY #DAILYDIRECTION #DD",
+        "uploader": "DAILY:DIRECTION",
+        "creators": [],
+        "channel_id": "UCHU0lDQyK9y17-HoROj9gWw",
+        "channel_url": "https://www.youtube.com/channel/UCHU0lDQyK9y17-HoROj9gWw",
+        "duration": 19,
+        "duration_string": "19",
+        "upload_date": "20260730",
+        "timestamp": 1785405640,
+        "description": "",
+        "tags": [
+          "Down With It - Daily Direction",
+          "E-VAN (Jang Yu Bin) (Daily Direction)",
+          "Athena"
+        ],
+        "categories": [
+          "Challenges"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=lslUfNMnw6g",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/lslUfNMnw6g/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/lslUfNMnw6g/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/lslUfNMnw6g/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/lslUfNMnw6g/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/lslUfNMnw6g/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/lslUfNMnw6g/maxresdefault.jpg"
+        },
+        "series": [],
+        "cast": [
+          "E-VAN (Jang Yu Bin) (Daily Direction)",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "HBEhZV4nIJw",
+        "platform": "youtube",
+        "title": "[하이라이트] 라이브 자신감 넘치는 실력파 아이돌 'FIFTY FIFTY' 등장!📻 | #MBCRADIO #굿모닝FM태이입니다 #FIFTYFIFTY | MBC 260730 방송",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 1565,
+        "duration_string": "26:05",
+        "upload_date": "20260730",
+        "timestamp": 1785402036,
+        "description": "라이브 자신감 넘치는 실력파 아이돌 'FIFTY FIFTY' 등장!📻\n\n🎥타임코드\n\n00:00 FIFTY FIFTY 키나, 문샤넬, 예원, 아테나 등장!\n00:51 문샤넬의 과거 라디오 출연 후기\n01:28 멤버들의 최근 수면 시간\n03:39 예원의 숙면을 위해 문샤넬이 생각해 낸 조치\n04:44 첫 아시아 팬 콘서트 투어 소식!\n05:11 콘서트를 앞둔 기분\n05:29 모든 노래를 라이브로 진행하는지?\n05:47 미니앨범 [Imperfect-I'mperfect] 발매 소식\n06:10 완벽주의에서 벗어난 예원\n06:31 [♬LIVE] FIFTY FIFTY - Genie Magic\n09:41 라이브 들은 팬들의 뜨거운 반응\n10:09 수록곡 [Genie Magic] 소개\n10:40 [Genie Magic] 곡을 좋아하는 이유\n11:07 음악 방송 후속 활동도 진행했던 FIFTY FIFTY\n11:53 곡 역주행 하면 어떤 공약을 하고 싶은지?\n13:05 타이틀곡 [Like a Bubble] 소개\n13:45 타이틀곡 정할 때 서로 의견이 잘 맞는지?\n14:14 도입부를 문샤넬이 맡은 이유\n15:09 멤버들이 생각하는 가장 매력적인 파트\n15:56 선공개 곡 [STARSTRUCK] 소개\n17:13 다음에 도전하고 싶은 콘셉트가 있는지?\n17:49 영화 [방과후 퇴마클럽: 소녀들의 밤] 소개\n18:32 연기 첫 도전 후기\n19:31 귀신을 무서워하는지?\n21:19 연기로 도전하고 싶은 장르\n23:38 4년째 액션 연기를 배우고 있는 키나\n24:04 멤버들이 알려주는 [Like a Bubble] 남돌 Ver. 챌린지\n24:57 끝인사\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #아이돌 #가수",
+        "tags": [
+          "Genie Magic",
+          "MBC Radio",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Live Performance",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "video",
+        "webpage_url": "https://www.youtube.com/watch?v=HBEhZV4nIJw",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi_webp/HBEhZV4nIJw/maxresdefault.webp",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/HBEhZV4nIJw/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/HBEhZV4nIJw/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/HBEhZV4nIJw/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/HBEhZV4nIJw/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/HBEhZV4nIJw/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "RlJ3utjZUlE",
+        "platform": "youtube",
+        "title": "먹고수 키나의 꿀조합 레시피ㅣ들어봐! 유리의 숲 EP. 03",
+        "uploader": "들어봐! 유리의 숲",
+        "creators": [],
+        "channel_id": "UCz2Ck-Rz3zKqcVpMXe2h1hQ",
+        "channel_url": "https://www.youtube.com/channel/UCz2Ck-Rz3zKqcVpMXe2h1hQ",
+        "duration": 56,
+        "duration_string": "56",
+        "upload_date": "20260730",
+        "timestamp": 1785402012,
+        "description": "풀버전은 유리의 숲2 3화에서💚\n\n#유리의숲 #최유리 #피프티피프티\n#키나 #샤넬",
+        "tags": [
+          "Forest of Glass / Glass Forest / Yuree's Forest",
+          "Choi Yu-ree",
+          "Keena",
+          "Chanelle Moon"
+        ],
+        "categories": [
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=RlJ3utjZUlE",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/RlJ3utjZUlE/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/RlJ3utjZUlE/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/RlJ3utjZUlE/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/RlJ3utjZUlE/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/RlJ3utjZUlE/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/RlJ3utjZUlE/maxresdefault.jpg"
+        },
+        "series": [
+          "Forest of Glass / Glass Forest / Yuree's Forest"
+        ],
+        "cast": [
+          "Choi Yu-ree",
+          "Keena",
+          "Chanelle Moon"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "lB8Ovh0DPFo",
+        "platform": "youtube",
+        "title": "[CHANELLE MOON 문샤넬] FIFTY FIFTY(피프티피프티) vertical cam 🎵Genie Magic #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 155,
+        "duration_string": "2:35",
+        "upload_date": "20260730",
+        "timestamp": 1785393370,
+        "description": "[CHANELLE MOON 문샤넬] FIFTY FIFTY(피프티피프티) vertical cam 🎵Genie Magic\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #라이브 #무대 #GenieMagic #지니매직",
+        "tags": [
+          "Genie Magic",
+          "MBC Radio",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Live Performance",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=lB8Ovh0DPFo",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/lB8Ovh0DPFo/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/lB8Ovh0DPFo/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/lB8Ovh0DPFo/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/lB8Ovh0DPFo/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/lB8Ovh0DPFo/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/lB8Ovh0DPFo/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "DlsLIjI-bIA",
+        "platform": "youtube",
+        "title": "[ATHENA 아테나] FIFTY FIFTY(피프티피프티) vertical cam 🎵Genie Magic #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 151,
+        "duration_string": "2:31",
+        "upload_date": "20260730",
+        "timestamp": 1785393351,
+        "description": "[ATHENA 아테나] FIFTY FIFTY(피프티피프티) vertical cam 🎵Genie Magic\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #라이브 #무대 #GenieMagic #지니매직",
+        "tags": [
+          "Genie Magic",
+          "MBC Radio",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Live Performance",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=DlsLIjI-bIA",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/DlsLIjI-bIA/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/DlsLIjI-bIA/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/DlsLIjI-bIA/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/DlsLIjI-bIA/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/DlsLIjI-bIA/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/DlsLIjI-bIA/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "jPAki8ZxKKA",
+        "platform": "youtube",
+        "title": "[YEWON 예원] FIFTY FIFTY(피프티피프티) vertical cam 🎵Genie Magic #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 162,
+        "duration_string": "2:42",
+        "upload_date": "20260730",
+        "timestamp": 1785393348,
+        "description": "[YEWON 예원] FIFTY FIFTY(피프티피프티) vertical cam 🎵Genie Magic\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #라이브 #무대 #GenieMagic #지니매직",
+        "tags": [
+          "Genie Magic",
+          "MBC Radio",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Live Performance",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=jPAki8ZxKKA",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/jPAki8ZxKKA/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/jPAki8ZxKKA/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/jPAki8ZxKKA/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/jPAki8ZxKKA/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/jPAki8ZxKKA/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/jPAki8ZxKKA/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "IFk7Dj1LJiI",
+        "platform": "youtube",
+        "title": "[KEENA 키나] FIFTY FIFTY(피프티피프티) vertical cam 🎵Genie Magic #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY #피프티피프티",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 178,
+        "duration_string": "2:58",
+        "upload_date": "20260730",
+        "timestamp": 1785393345,
+        "description": "[KEENA 키나] FIFTY FIFTY(피프티피프티) vertical cam 🎵Genie Magic\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #라이브 #무대 #GenieMagic #지니매직",
+        "tags": [
+          "Genie Magic",
+          "MBC Radio",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Live Performance",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=IFk7Dj1LJiI",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/IFk7Dj1LJiI/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/IFk7Dj1LJiI/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/IFk7Dj1LJiI/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/IFk7Dj1LJiI/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/IFk7Dj1LJiI/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/IFk7Dj1LJiI/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "REgZjBAznMQ",
+        "platform": "youtube",
+        "title": "📞예원이의 연애 해결책💘 | 여보세요? EP.9 예원",
+        "uploader": "Muniverse 뮤니버스",
+        "creators": [],
+        "channel_id": "UCue-teI3C_cR8JOXdkw9VLQ",
+        "channel_url": "https://www.youtube.com/channel/UCue-teI3C_cR8JOXdkw9VLQ",
+        "duration": 44,
+        "duration_string": "44",
+        "upload_date": "20260730",
+        "timestamp": 1785391227,
+        "description": "전화로 아티스트가 전하는 1:1 미니 콘서트 🎙️\n뮤니버스 오리지널 시리즈 〈여보세요?〉\n\n오직 Muniverse에서 만나보세요.\n👉 m.site.naver.com/1W4xd\n\n✔ EN / JP / 中文(繁體・简体) 자막 지원\n✔ WEB / iOS / Android 시청 가능\n\n본 콘텐츠는 '아톡비즈' ARS 이벤트 솔루션과 함께합니다.\n🔗 https://biz.atalk.co.kr/service/ars/ARS_event.html\n\n-\n\nA 1:1 mini concert delivered by the artist over the phone 🎙️\nMuniverse Original Series 〈Hello?〉\n\nWatch it now, only on Muniverse.\n👉 m.site.naver.com/1W4xd\n\n✔ Subtitles available in EN / JP / Traditional & Simplified Chinese\n✔ Available on WEB / iOS / Android\n\nThis content is presented in partnership with 'atalkbiz' ARS Event Solution.\n🔗 https://biz.atalk.co.kr/service/ars/ARS_event.html\n\n#여보세요 #Hello #MBC #KPOP #ItsLive #Muniverse #뮤니버스\n#FIFTYFIFTY #피프티피프티 #YEWON #예원",
+        "tags": [
+          "Muniverse - Hello?",
+          "Muniverse",
+          "Yewon"
+        ],
+        "categories": [
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=REgZjBAznMQ",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/REgZjBAznMQ/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/REgZjBAznMQ/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/REgZjBAznMQ/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/REgZjBAznMQ/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/REgZjBAznMQ/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/REgZjBAznMQ/maxresdefault.jpg"
+        },
+        "series": [
+          "Muniverse - Hello?"
+        ],
+        "cast": [
+          "Yewon"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "IyV9FlS37Ew",
+        "platform": "youtube",
+        "title": "Oh my gosh, 발소리👣",
+        "uploader": "배틀그라운드 모바일 - PUBG MOBILE",
+        "creators": [],
+        "channel_id": "UCXVVG5ZM3SJJCh94xatR8Dg",
+        "channel_url": "https://www.youtube.com/channel/UCXVVG5ZM3SJJCh94xatR8Dg",
+        "duration": 7,
+        "duration_string": "7",
+        "upload_date": "20260730",
+        "timestamp": 1785376878,
+        "description": "지금 모배에서 피프티피프티 문샤넬 보이스카드를 획득하세요! \n\n#배틀그라운드모바일 #모배 #PUBGM\n#FIFTYFIFTY #피프티피프티\n#CHANELLEMOON #문샤넬",
+        "tags": [
+          "PUBG Mobile",
+          "Musinsa TV",
+          "Chanelle Moon"
+        ],
+        "categories": [
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=IyV9FlS37Ew",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/IyV9FlS37Ew/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/IyV9FlS37Ew/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/IyV9FlS37Ew/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/IyV9FlS37Ew/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/IyV9FlS37Ew/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/IyV9FlS37Ew/maxresdefault.jpg"
+        },
+        "series": [
+          "PUBG Mobile Collaboration"
+        ],
+        "cast": [
+          "Chanelle Moon"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "HTFbTGcrDGA",
+        "platform": "youtube",
+        "title": "치킨 ~~~ 야르 ~~ 🍗🍗",
+        "uploader": "배틀그라운드 모바일 - PUBG MOBILE",
+        "creators": [],
+        "channel_id": "UCXVVG5ZM3SJJCh94xatR8Dg",
+        "channel_url": "https://www.youtube.com/channel/UCXVVG5ZM3SJJCh94xatR8Dg",
+        "duration": 7,
+        "duration_string": "7",
+        "upload_date": "20260730",
+        "timestamp": 1785376860,
+        "description": "지금 모배에서 피프티피프티 예원 보이스카드를 획득하세요! \n\n#배틀그라운드모바일 #모배 #PUBGM\n#FIFTYFIFTY #피프티피프티\n#YEWON #예원",
+        "tags": [
+          "PUBG Mobile",
+          "Musinsa TV",
+          "Yewon"
+        ],
+        "categories": [
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=HTFbTGcrDGA",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/HTFbTGcrDGA/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/HTFbTGcrDGA/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/HTFbTGcrDGA/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/HTFbTGcrDGA/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/HTFbTGcrDGA/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/HTFbTGcrDGA/maxresdefault.jpg"
+        },
+        "series": [
+          "PUBG Mobile Collaboration"
+        ],
+        "cast": [
+          "Yewon"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "QkNJCZcrahY",
+        "platform": "youtube",
+        "title": "빨리 자기장 안으로 들어와!💫",
+        "uploader": "배틀그라운드 모바일 - PUBG MOBILE",
+        "creators": [],
+        "channel_id": "UCXVVG5ZM3SJJCh94xatR8Dg",
+        "channel_url": "https://www.youtube.com/channel/UCXVVG5ZM3SJJCh94xatR8Dg",
+        "duration": 7,
+        "duration_string": "7",
+        "upload_date": "20260730",
+        "timestamp": 1785376818,
+        "description": "지금 모배에서 피프티피프티 키나 보이스카드를 획득하세요! \n\n#배틀그라운드모바일 #모배 #PUBGM\n#FIFTYFIFTY #피프티피프티\n#KEENA #키나",
+        "tags": [
+          "PUBG Mobile",
+          "Musinsa TV",
+          "Keena"
+        ],
+        "categories": [
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=QkNJCZcrahY",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/QkNJCZcrahY/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/QkNJCZcrahY/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/QkNJCZcrahY/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/QkNJCZcrahY/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/QkNJCZcrahY/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/QkNJCZcrahY/maxresdefault.jpg"
+        },
+        "series": [
+          "PUBG Mobile Collaboration"
+        ],
+        "cast": [
+          "Keena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "cIaZ5OeZ6DM",
+        "platform": "youtube",
+        "title": "치킨 먹고 갈래?🩵",
+        "uploader": "배틀그라운드 모바일 - PUBG MOBILE",
+        "creators": [],
+        "channel_id": "UCXVVG5ZM3SJJCh94xatR8Dg",
+        "channel_url": "https://www.youtube.com/channel/UCXVVG5ZM3SJJCh94xatR8Dg",
+        "duration": 7,
+        "duration_string": "7",
+        "upload_date": "20260730",
+        "timestamp": 1785376741,
+        "description": "지금 모배에서 피프티피프티 아테나 보이스카드를 획득하세요! \n\n#배틀그라운드모바일 #모배 #PUBGM\n#FIFTYFIFTY #피프티피프티\n#ATHENA #아테나",
+        "tags": [
+          "PUBG Mobile",
+          "Musinsa TV",
+          "Athena"
+        ],
+        "categories": [
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=cIaZ5OeZ6DM",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/cIaZ5OeZ6DM/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/cIaZ5OeZ6DM/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/cIaZ5OeZ6DM/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/cIaZ5OeZ6DM/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/cIaZ5OeZ6DM/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/cIaZ5OeZ6DM/maxresdefault.jpg"
+        },
+        "series": [
+          "PUBG Mobile Collaboration"
+        ],
+        "cast": [
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "5xbj6V_MMYQ",
+        "platform": "youtube",
+        "title": "[ALLIVE] FIFTY FIFTY(피프티피프티) - Genie Magic | #MBCRADIO #굿모닝FM테이입니다 #FIFTYFIFTY | MBC 260730 방송",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "duration": 194,
+        "duration_string": "3:14",
+        "upload_date": "20260730",
+        "timestamp": 1785376644,
+        "description": "FIFTY FIFTY(피프티피프티) - Genie Magic\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #라이브 #무대 #GenieMagic #지니매직",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Live Performance"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "video",
+        "webpage_url": "https://www.youtube.com/watch?v=5xbj6V_MMYQ",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi_webp/5xbj6V_MMYQ/maxresdefault.webp",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/5xbj6V_MMYQ/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/5xbj6V_MMYQ/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/5xbj6V_MMYQ/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/5xbj6V_MMYQ/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/5xbj6V_MMYQ/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "QH0w9GWkZW4",
+        "platform": "youtube",
+        "title": "[FULL] 아침에 깨워서 미안하지만.. 피프티피프티는 봐야지🔥테이와 함께하는 굿FM 라이브 | 굿모닝FM테이입니다 | MBC 260730 방송",
+        "uploader": "아이돌 라디오 유니버스 IDOL RADIO UNIVERSE",
+        "creators": [],
+        "channel_id": "UCSG0f3bvUvbSle58ETp9z2w",
+        "channel_url": "https://www.youtube.com/channel/UCSG0f3bvUvbSle58ETp9z2w",
+        "duration": 3558,
+        "duration_string": "59:18",
+        "upload_date": "20260730",
+        "timestamp": 1785369638,
+        "release_timestamp": 1785365923,
+        "description": "🎥2026.07.30\n\n\n🎈 MBC 라디오 SNS\n- X @radiombc\n- Instagram @radiombc \n\n\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #아테나\n#굿모닝FM테이입니다 #테이\n#MBCRADIO #아이돌라디오유니버스",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Live Performance"
+        ],
+        "live_status": "post_live",
+        "was_live": true,
+        "is_live": false,
+        "media_type": "livestream",
+        "webpage_url": "https://www.youtube.com/watch?v=QH0w9GWkZW4",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/QH0w9GWkZW4/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/QH0w9GWkZW4/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/QH0w9GWkZW4/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/QH0w9GWkZW4/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/QH0w9GWkZW4/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/QH0w9GWkZW4/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "XuUlo_pc-ok",
+        "platform": "youtube",
+        "title": "리어카에 소원 빌었더니 피프티피프티 등장💚",
+        "uploader": "For:Rest LIVE",
+        "creators": [],
+        "channel_id": "UCEDGYiAk2qmg63pamdGMHSQ",
+        "channel_url": "https://www.youtube.com/channel/UCEDGYiAk2qmg63pamdGMHSQ",
+        "duration": 60,
+        "duration_string": "1:00",
+        "upload_date": "20260729",
+        "timestamp": 1785319811,
+        "description": "",
+        "tags": [
+          "Two Wheels Live",
+          "For:Rest LIVE",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena",
+          "Live Performance",
+          "Genie Magic"
+        ],
+        "categories": [
+          "Live Performance",
+          "Variety",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=XuUlo_pc-ok",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/XuUlo_pc-ok/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/XuUlo_pc-ok/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/XuUlo_pc-ok/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/XuUlo_pc-ok/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/XuUlo_pc-ok/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/XuUlo_pc-ok/maxresdefault.jpg"
+        },
+        "series": [
+          "Two Wheels Live (For:Rest LIVE)"
+        ],
+        "cast": [
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "aJdZHR-zAeQ",
+        "platform": "youtube",
+        "title": "아이돌 맞아? 🔥게임하다가 눈빛 돌아버린 피프티피프티🔥 [성수기 스핀오프 EP.4]",
+        "uploader": "MUSINSA TV",
+        "creators": [],
+        "channel_id": "UCtfyAiqf095_0_ux8ruwGfA",
+        "channel_url": "https://www.youtube.com/channel/UCtfyAiqf095_0_ux8ruwGfA",
+        "duration": 1263,
+        "duration_string": "21:03",
+        "upload_date": "20260729",
+        "timestamp": 1785319234,
+        "description": "더운 여름을 더욱 시원하게 보내기 좋은 게임, 배틀그라운드 모바일🕹️\n\n아이돌 승부욕 하면 떠오르는 그룹,\n'피프티피프티'가 성수기를 다시 찾아왔습니다!!\n\n농촌체험에 이어 이번엔 서바이벌을 직접 체험하러 온 그녀들🔫\n서바이벌에 앞서 필요한 아이템 획득을 위한 미니게임이 시작됐는데요,\n\n승부에 집착한 나머지 눈빛부터 달라진 멤버들👀🔥\n갈수록 무서워지는 승부욕에, 아이돌이라면 참았어야 할 그 말까지..🫢\n\n피 튀기는 승부욕 현장, 지금 바로 시청하세요!!\n\n✚ 그리고 영상 속 멤버들의 그 한 마디, 벌써 놓치셨나요?\n이번에 터진 명언(?)들을 보이스카드로 획득할 수 있으니 얼른 가서 확인해보세요!\n\n✚ 지금 핖둥이들이 입고 있는 의상, 궁금하지 않나요?\n모바일과 무신사에서 999휴머니티 협업 인게임 스킨 & 실물 의류를 모두 만날 수 있어요!\n\n🎁 모배 룰렛 이벤트 바로가기 : https://battlegroundsmobile.go.link/jDVHq\n🎁 무신사 드롭 바로가기 : https://www.musinsa.com/content/1522134242709490399\n\n얼른얼른 득템해 가세요~~!\n\n#피프티피프티 #FIFTYFIFTY #배틀그라운드모바일 #모배  #아이돌예능 #서바이벌 #승부욕 #미니게임 #여름콘텐츠 #성수기\n\n* 무신사TV의 모든 콘텐츠는 무신사 스토어에서 판매하는 상품의 광고와 판매 지원을 위해 제작되었습니다.\n* 타인을 비방하거나 욕설, 비속어, 차별적 내용, 신체적 비하 등의 불쾌감을 줄 수 있는 댓글은 무통보 삭제될 수 있습니다.\n* 특정 브랜드에 대한 단순 비난, 허위 사실 유포, 브랜드의 판매 정책에 대한 비난 등의 댓글은 무통보 삭제될 수 있습니다. \n* 유튜브 채널 운영의 방해 또는 정상적인 운영을 저해하는 댓글은 무통보 삭제될 수 있습니다.\n* 상업적인 의도(광고, 홍보 등) 목적의 댓글은 무통보 삭제될 수 있습니다.\n* 스토어 관련 CS 문의는 고객센터를 이용해 주시기 바랍니다.",
+        "tags": [
+          "PUBG Mobile",
+          "Peak Season",
+          "Musinsa TV",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Variety"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "video",
+        "webpage_url": "https://www.youtube.com/watch?v=aJdZHR-zAeQ",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/aJdZHR-zAeQ/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/aJdZHR-zAeQ/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/aJdZHR-zAeQ/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/aJdZHR-zAeQ/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/aJdZHR-zAeQ/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/aJdZHR-zAeQ/maxresdefault.jpg"
+        },
+        "series": [
+          "Peak Season (Musinsa TV)"
+        ],
+        "cast": [
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "i_dnCDoXZz4",
+        "platform": "youtube",
+        "title": "세계관 파괴자(?)의 등장ㅣ들어봐! 유리의 숲 EP. 03",
+        "uploader": "들어봐! 유리의 숲",
+        "creators": [],
+        "channel_id": "UCz2Ck-Rz3zKqcVpMXe2h1hQ",
+        "channel_url": "https://www.youtube.com/channel/UCz2Ck-Rz3zKqcVpMXe2h1hQ",
+        "duration": 49,
+        "duration_string": "49",
+        "upload_date": "20260729",
+        "timestamp": 1785319208,
+        "description": "풀버전은 유리의 숲2 3화에서💚\n\n#유리의숲 #최유리 #피프티피프티\n#키나 #샤넬",
+        "tags": [
+          "Choi Yu-ree",
+          "Keena",
+          "Chanelle Moon",
+          "Variety",
+          "Forest of Glass / Glass Forest / Yuree's Forest"
+        ],
+        "categories": [
+          "Variety",
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=i_dnCDoXZz4",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/i_dnCDoXZz4/hq720_2.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/i_dnCDoXZz4/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/i_dnCDoXZz4/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/i_dnCDoXZz4/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/i_dnCDoXZz4/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/i_dnCDoXZz4/maxresdefault.jpg"
+        },
+        "series": [
+          "Forest of Glass / Glass Forest / Yuree's Forest"
+        ],
+        "cast": [
+          "Choi Yu-ree",
+          "Keena",
+          "Chanelle Moon"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "QusSB0_krgw",
+        "platform": "youtube",
+        "title": "소원 빌었더니 피프티피프티가 리어카 타고 나타남💚 | FIFTY FIFTY (피프티피프티) - Genie Magic | 두바퀴 라이브 (Two Wheels LIVE)",
+        "uploader": "For:Rest LIVE",
+        "creators": [],
+        "channel_id": "UCEDGYiAk2qmg63pamdGMHSQ",
+        "channel_url": "https://www.youtube.com/channel/UCEDGYiAk2qmg63pamdGMHSQ",
+        "duration": 428,
+        "duration_string": "7:08",
+        "upload_date": "20260729",
+        "timestamp": 1785319201,
+        "description": "두바퀴 라이브 최초 여자 아이돌이 리어카를 탔습니다 🛒✨\n\n피프티피프티가 Genie Magic 들고 리어카에 탑승하니까\n무채색이던 거리가 오색 빛으로 물들었어요\nOne wish 이미 이루어졌습니다💚\n\n두바퀴 라이브 예순 번째 손님, FIFTY FIFTY\n지금, 거리에서 만나보세요🌿\n\n———\n\n🎧 Setlist\n00:00 Intro\n00:53 Genie Magic\n04:57 Behind\n\n———\n\n🌿 이 무대는 함께한 브랜드와 마음들이 모여 완성되었습니다.\n– Sound crafted by TechDataPS, AKG, JBL\n– Cinematic Support by Cinemall, GODOX, PMI, SmokeNinjaPro\n– Energy powered by goodnewsenergy\n\n———\n\n🎁 시네몰 숲세권 구독자 전용 혜택\n쿠폰번호 PMI5FORRESTLIVE 입력 시\nCinemall 전체 PMI 제품 5% 추가 할인\n👉 https://bit.ly/47P1rKN\n\n———\n\n#피프티피프티 #FIFTYFIFTY #Genie_Magic #두바퀴라이브 #ForRestLIVE",
+        "tags": [
+          "For:Rest LIVE",
+          "Two Wheels Live",
+          "Genie Magic",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Variety",
+          "Live Performance"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "video",
+        "webpage_url": "https://www.youtube.com/watch?v=QusSB0_krgw",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi_webp/QusSB0_krgw/maxresdefault.webp",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/QusSB0_krgw/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/QusSB0_krgw/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/QusSB0_krgw/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/QusSB0_krgw/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/QusSB0_krgw/maxresdefault.jpg"
+        },
+        "series": [
+          "Two Wheels Live (For:Rest LIVE)"
+        ],
+        "cast": [
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "W0IPCvKQLE0",
+        "platform": "youtube",
+        "title": "📞FIFTY FIFTY 예원 – Genie Magic | 여보세요? EP.9",
+        "uploader": "Muniverse 뮤니버스",
+        "creators": [],
+        "channel_id": "UCue-teI3C_cR8JOXdkw9VLQ",
+        "channel_url": "https://www.youtube.com/channel/UCue-teI3C_cR8JOXdkw9VLQ",
+        "duration": 124,
+        "duration_string": "2:04",
+        "upload_date": "20260729",
+        "timestamp": 1785315628,
+        "description": "예원의 1:1 미니 콘서트 〈여보세요?〉\n\n🎵 Setlist\n1. Genie Magic – FIFTY FIFTY\n2. 하루 끝 – 아이유 (IU)\n3. FaceTime – LNGSHOT\n\n전체 이야기는 Muniverse에서 만나보세요.\n👉 m.site.naver.com/1W4xd\n\n✔ EN / JP / 中文(繁體・简体) 자막 지원\n✔ WEB / iOS / Android 시청 가능\n\n본 콘텐츠는 '아톡비즈' ARS 이벤트 솔루션과 함께합니다.\n🔗 https://biz.atalk.co.kr/service/ars/ARS_event.html\n\n-\n\nYEWON’s 1:1 mini concert, 〈Hello?〉\n\n🎵 Setlist\n1. Genie Magic – FIFTY FIFTY\n2. 하루 끝 – 아이유 (IU)\n3. FaceTime – LNGSHOT\n\nWatch the full story now on Muniverse.\n👉 m.site.naver.com/1W4xd\n\n✔ Subtitles available in EN / JP / Traditional & Simplified Chinese\n✔ Available on WEB / iOS / Android\n\nThis content is presented in partnership with 'atalkbiz' ARS Event Solution.\n🔗 https://biz.atalk.co.kr/service/ars/ARS_event.html\n\n#여보세요 #Hello #MBC #KPOP #ItsLive #Muniverse #뮤니버스\n#FIFTYFIFTY #피프티피프티 #YEWON #예원",
+        "tags": [
+          "Muniverse - Hello?",
+          "Yewon",
+          "Genie Magic",
+          "Live Performance"
+        ],
+        "categories": [
+          "Variety",
+          "Live Performance"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "video",
+        "webpage_url": "https://www.youtube.com/watch?v=W0IPCvKQLE0",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/W0IPCvKQLE0/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/W0IPCvKQLE0/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/W0IPCvKQLE0/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/W0IPCvKQLE0/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/W0IPCvKQLE0/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/W0IPCvKQLE0/maxresdefault.jpg"
+        },
+        "series": [
+          "Muniverse - Hello?"
+        ],
+        "cast": [
+          "Yewon"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "b1O_mC3vheY",
+        "platform": "youtube",
+        "title": "[내일도 출근! OST] FIFTY FIFTY - Hopping",
+        "uploader": "TOON STUDIO",
+        "creators": [],
+        "channel_id": "UCve0b6qhfxTpKeqzZ4u0MjQ",
+        "channel_url": "https://www.youtube.com/channel/UCve0b6qhfxTpKeqzZ4u0MjQ",
+        "duration": 201,
+        "duration_string": "3:21",
+        "upload_date": "20260729",
+        "timestamp": 1785315616,
+        "description": "[내일도 출근! OST] FIFTY FIFTY - Hopping\n\n#내일도출근 #피프티피프티 #fiftyfifty #Hopping",
+        "tags": [
+          "TOON STUDIO",
+          "Hopping",
+          "See You at Work Tomorrow! (2026)",
+          "OST",
+          "Music Video"
+        ],
+        "categories": [
+          "Music Video"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "video",
+        "webpage_url": "https://www.youtube.com/watch?v=b1O_mC3vheY",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/b1O_mC3vheY/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/b1O_mC3vheY/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/b1O_mC3vheY/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/b1O_mC3vheY/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/b1O_mC3vheY/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/b1O_mC3vheY/maxresdefault.jpg"
+        },
+        "series": [
+          "See You at Work Tomorrow! (2026)"
+        ],
+        "cast": [],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "jqhGyfU-1QY",
+        "platform": "youtube",
+        "title": "[엄지훈] (ENG) 여자 알바만 구합니다",
+        "uploader": "엄지렐라 Umjirella",
+        "creators": [],
+        "channel_id": "UCLXafJ8yYXeUN_eHai-6Pgw",
+        "channel_url": "https://www.youtube.com/channel/UCLXafJ8yYXeUN_eHai-6Pgw",
+        "duration": 790,
+        "duration_string": "13:10",
+        "upload_date": "20260729",
+        "timestamp": 1785315613,
+        "description": "안녕하세요 엄지훈입니다\n카페 차렸습니다 여자 알바생만 뽑습니다 참고 부탁드려요🙏\n\n#FIFTYFIFTY #피프티피프티 #Genie_Magic",
+        "tags": [
+          "Umjirella",
+          "Um Ji-hoon (Um Ji-yoon)",
+          "Um Ji-yoon",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Variety"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "video",
+        "webpage_url": "https://www.youtube.com/watch?v=jqhGyfU-1QY",
+        "subtitles": [
+          "en-US"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/jqhGyfU-1QY/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/jqhGyfU-1QY/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/jqhGyfU-1QY/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/jqhGyfU-1QY/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/jqhGyfU-1QY/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/jqhGyfU-1QY/maxresdefault.jpg"
+        },
+        "series": [
+          "Umjirella"
+        ],
+        "cast": [
+          "Um Ji-hoon (Um Ji-yoon)",
+          "Um Ji-yoon",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "glNbZa_J0NY",
+        "platform": "youtube",
+        "title": "📞FIFTY FIFTY 예원 – 하루 끝 (원곡: 아이유) | 여보세요? EP.9",
+        "uploader": "Muniverse 뮤니버스",
+        "creators": [],
+        "channel_id": "UCue-teI3C_cR8JOXdkw9VLQ",
+        "channel_url": "https://www.youtube.com/channel/UCue-teI3C_cR8JOXdkw9VLQ",
+        "duration": 154,
+        "duration_string": "2:34",
+        "upload_date": "20260729",
+        "timestamp": 1785315612,
+        "description": "예원의 1:1 미니 콘서트 〈여보세요?〉\n\n🎵 Setlist\n1. Genie Magic – FIFTY FIFTY\n2. 하루 끝 – 아이유 (IU)\n3. FaceTime – LNGSHOT\n\n전체 이야기는 Muniverse에서 만나보세요.\n👉 m.site.naver.com/1W4xd\n\n✔ EN / JP / 中文(繁體・简体) 자막 지원\n✔ WEB / iOS / Android 시청 가능\n\n본 콘텐츠는 '아톡비즈' ARS 이벤트 솔루션과 함께합니다.\n🔗 https://biz.atalk.co.kr/service/ars/ARS_event.html\n\n-\n\nYEWON’s 1:1 mini concert, 〈Hello?〉\n\n🎵 Setlist\n1. Genie Magic – FIFTY FIFTY\n2. 하루 끝 – 아이유 (IU)\n3. FaceTime – LNGSHOT\n\nWatch the full story now on Muniverse.\n👉 m.site.naver.com/1W4xd\n\n✔ Subtitles available in EN / JP / Traditional & Simplified Chinese\n✔ Available on WEB / iOS / Android\n\nThis content is presented in partnership with 'atalkbiz' ARS Event Solution.\n🔗 https://biz.atalk.co.kr/service/ars/ARS_event.html\n\n#여보세요 #Hello #MBC #KPOP #ItsLive #Muniverse #뮤니버스\n#FIFTYFIFTY #피프티피프티 #YEWON #예원",
+        "tags": [
+          "Muniverse - Hello?",
+          "Muniverse",
+          "Yewon",
+          "Genie Magic",
+          "Facetime - LNGSHOT",
+          "Every End of Day - IU",
+          "Live Performance"
+        ],
+        "categories": [
+          "Variety",
+          "Live Performance"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "video",
+        "webpage_url": "https://www.youtube.com/watch?v=glNbZa_J0NY",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/glNbZa_J0NY/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/glNbZa_J0NY/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/glNbZa_J0NY/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/glNbZa_J0NY/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/glNbZa_J0NY/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/glNbZa_J0NY/maxresdefault.jpg"
+        },
+        "series": [
+          "Muniverse - Hello?"
+        ],
+        "cast": [
+          "Yewon"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "bHF5vSZjooA",
+        "platform": "youtube",
+        "title": "📞FIFTY FIFTY 예원 – Genie Magic | 여보세요? EP.9",
+        "uploader": "it's Live",
+        "creators": [],
+        "channel_id": "UCB9e3pof1o83aa0kkaoeJGA",
+        "channel_url": "https://www.youtube.com/channel/UCB9e3pof1o83aa0kkaoeJGA",
+        "duration": 124,
+        "duration_string": "2:04",
+        "upload_date": "20260729",
+        "timestamp": 1785315606,
+        "description": "예원의 1:1 미니 콘서트 〈여보세요?〉\n\n🎵 Setlist\n1. Genie Magic – FIFTY FIFTY\n2. 하루 끝 – 아이유 (IU)\n3. FaceTime – LNGSHOT\n\n전체 이야기는 Muniverse에서 만나보세요.\n👉 m.site.naver.com/1W4xd\n\n✔ EN / JP / 中文(繁體・简体) 자막 지원\n✔ WEB / iOS / Android 시청 가능\n\n-\n\nYEWON’s 1:1 mini concert, 〈Hello?〉\n\n🎵 Setlist\n1. Genie Magic – FIFTY FIFTY\n2. 하루 끝 – 아이유 (IU)\n3. FaceTime – LNGSHOT\n\nWatch the full story now on Muniverse.\n👉 m.site.naver.com/1W4xd\n\n✔ Subtitles available in EN / JP / Traditional & Simplified Chinese\n✔ Available on WEB / iOS / Android\n\n#여보세요 #Hello #MBC #KPOP #ItsLive #Muniverse #뮤니버스\n#FIFTYFIFTY #피프티피프티 #YEWON #예원",
+        "tags": [
+          "Muniverse - Hello?",
+          "Muniverse",
+          "Yewon",
+          "Genie Magic",
+          "Live Performance",
+          "It's Live"
+        ],
+        "categories": [
+          "Clips",
+          "Live Performance"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "video",
+        "webpage_url": "https://www.youtube.com/watch?v=bHF5vSZjooA",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/bHF5vSZjooA/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/bHF5vSZjooA/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/bHF5vSZjooA/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/bHF5vSZjooA/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/bHF5vSZjooA/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/bHF5vSZjooA/maxresdefault.jpg"
+        },
+        "series": [
+          "Muniverse - Hello?"
+        ],
+        "cast": [
+          "Yewon"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "BT4pNlQwUzQ",
+        "platform": "youtube",
+        "title": "If you can't exorcise it, you'll be cursed for life! | After-School Exorcism Club | FIFTY FIFTY",
+        "uploader": "KITZ 킷츠",
+        "creators": [],
+        "channel_id": "UC5dXelcxL5K6bsy1i5KztZg",
+        "channel_url": "https://www.youtube.com/channel/UC5dXelcxL5K6bsy1i5KztZg",
+        "duration": 39,
+        "duration_string": "39",
+        "upload_date": "20260729",
+        "timestamp": 1785294021,
+        "description": "Watch more episodes on KITZ 📲\n\n[After-School Exorcism Club] streaming now on KITZ\n\n#AfterSchoolExorcismClub #KITZ #FIFTYFIFTY",
+        "tags": [
+          "KITZ",
+          "After-School Exorcism Club",
+          "Keena",
+          "Chanelle Moon",
+          "Hana",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=BT4pNlQwUzQ",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/BT4pNlQwUzQ/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/BT4pNlQwUzQ/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/BT4pNlQwUzQ/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/BT4pNlQwUzQ/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/BT4pNlQwUzQ/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/BT4pNlQwUzQ/maxresdefault.jpg"
+        },
+        "series": [
+          "After-School Exorcism Club"
+        ],
+        "cast": [
+          "Keena",
+          "Chanelle Moon",
+          "Hana",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
       {
         "id": "On9djMSEOpg",
         "platform": "youtube",
@@ -21,7 +2410,8 @@
           "Keena",
           "Chanelle Moon",
           "Variety",
-          "Live Performance"
+          "Live Performance",
+          "Forest of Glass / Glass Forest / Yuree's Forest"
         ],
         "categories": [
           "Variety",
@@ -42,7 +2432,7 @@
           "maxresdefault": "https://i.ytimg.com/vi/On9djMSEOpg/maxresdefault.jpg"
         },
         "series": [
-          "Forest of Glass"
+          "Forest of Glass / Glass Forest / Yuree's Forest"
         ],
         "cast": [
           "Choi Yu-ree",
@@ -123,7 +2513,8 @@
           "Chanelle Moon",
           "Variety",
           "Live Performance",
-          "Circle - Choi Yu-ree"
+          "Circle - Choi Yu-ree",
+          "Forest of Glass / Glass Forest / Yuree's Forest"
         ],
         "categories": [
           "Variety",
@@ -144,7 +2535,7 @@
           "maxresdefault": "https://i.ytimg.com/vi/OND0Y203ggw/maxresdefault.jpg"
         },
         "series": [
-          "Forest of Glass"
+          "Forest of Glass / Glass Forest / Yuree's Forest"
         ],
         "cast": [
           "Choi Yu-ree",
@@ -173,7 +2564,8 @@
           "Chanelle Moon",
           "Variety",
           "Live Performance",
-          "Circle - Choi Yu-ree"
+          "Circle - Choi Yu-ree",
+          "Forest of Glass / Glass Forest / Yuree's Forest"
         ],
         "categories": [
           "Variety",
@@ -194,7 +2586,7 @@
           "maxresdefault": "https://i.ytimg.com/vi/BIVscwv8IJ0/maxresdefault.jpg"
         },
         "series": [
-          "Forest of Glass"
+          "Forest of Glass / Glass Forest / Yuree's Forest"
         ],
         "cast": [
           "Choi Yu-ree",
@@ -224,7 +2616,8 @@
           "Variety",
           "Live Performance",
           "Circle - Choi Yu-ree",
-          "Genie Magic"
+          "Genie Magic",
+          "Forest of Glass / Glass Forest / Yuree's Forest"
         ],
         "categories": [
           "Variety",
@@ -245,7 +2638,7 @@
           "maxresdefault": "https://i.ytimg.com/vi/8yxaOl3te6s/maxresdefault.jpg"
         },
         "series": [
-          "Forest of Glass"
+          "Forest of Glass / Glass Forest / Yuree's Forest"
         ],
         "cast": [
           "Choi Yu-ree",
@@ -362,7 +2755,8 @@
           "Chanelle Moon",
           "Variety",
           "Live Performance",
-          "Genie Magic"
+          "Genie Magic",
+          "Forest of Glass / Glass Forest / Yuree's Forest"
         ],
         "categories": [
           "Variety",
@@ -383,7 +2777,7 @@
           "maxresdefault": "https://i.ytimg.com/vi/CWXBltmKNgY/maxresdefault.jpg"
         },
         "series": [
-          "Forest of Glass"
+          "Forest of Glass / Glass Forest / Yuree's Forest"
         ],
         "cast": [
           "Choi Yu-ree",
@@ -412,7 +2806,8 @@
           "Chanelle Moon",
           "Variety",
           "Live Performance",
-          "Genie Magic"
+          "Genie Magic",
+          "Forest of Glass / Glass Forest / Yuree's Forest"
         ],
         "categories": [
           "Variety",
@@ -434,7 +2829,7 @@
           "maxresdefault": "https://i.ytimg.com/vi/vD2bztWtGCs/maxresdefault.jpg"
         },
         "series": [
-          "Forest of Glass"
+          "Forest of Glass / Glass Forest / Yuree's Forest"
         ],
         "cast": [
           "Choi Yu-ree",
@@ -515,7 +2910,8 @@
           "Chanelle Moon",
           "Variety",
           "Live Performance",
-          "Genie Magic"
+          "Genie Magic",
+          "Forest of Glass / Glass Forest / Yuree's Forest"
         ],
         "categories": [
           "Variety",
@@ -537,7 +2933,7 @@
           "maxresdefault": "https://i.ytimg.com/vi/-jvpJ_9UBNw/maxresdefault.jpg"
         },
         "series": [
-          "Forest of Glass"
+          "Forest of Glass / Glass Forest / Yuree's Forest"
         ],
         "cast": [
           "Choi Yu-ree",
@@ -836,6 +3232,60 @@
         ],
         "cast": [
           "Yewon"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "9k7wzFIJLRA",
+        "platform": "youtube",
+        "title": "[🔴LIVE] 아침에 깨워서 미안하지만.. 피프티피프티는 봐야지🔥테이와 함께하는 굿FM 라이브 | #MBCRADIO #굿모닝FM테이입니다 | MBC 260730 방송",
+        "uploader": "MBC Radio",
+        "creators": [],
+        "channel_id": "UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "channel_url": "https://www.youtube.com/channel/UCKNZsAeQXpvI-Mpoc0ZKhsA",
+        "upload_date": "20260723",
+        "timestamp": 1784809564,
+        "release_timestamp": 1785365831,
+        "description": "아침에 깨워서 미안하지만.. 피프티피프티(FIFTY FIFTY)는 봐야지🔥테이와 함께하는 굿FM 라이브\n\n-\n\n📌Instagram: @radiombc\n\n#MBC #MBCRADIO #Mhz #므흐즈 #굿모닝FM테이입니다 #테이\n#FIFTYFIFTY #피프티피프티 #키나 #문샤넬 #예원 #하나 #아테나 #KPOP #라이브 #스트리밍",
+        "tags": [
+          "MBC Radio",
+          "TEI (Kim Hok-young)",
+          "Good Morning FM (MBC Radio FM4U)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Radio",
+          "Live Performance"
+        ],
+        "live_status": "is_live",
+        "was_live": false,
+        "is_live": true,
+        "media_type": "livestream",
+        "webpage_url": "https://www.youtube.com/watch?v=9k7wzFIJLRA",
+        "subtitles": [
+          "live_chat"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/9k7wzFIJLRA/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/9k7wzFIJLRA/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/9k7wzFIJLRA/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/9k7wzFIJLRA/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/9k7wzFIJLRA/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/9k7wzFIJLRA/maxresdefault.jpg"
+        },
+        "series": [
+          "Good Morning FM (MBC Radio FM4U)"
+        ],
+        "cast": [
+          "TEI (Kim Hok-young)",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
         ],
         "status": null,
         "era": "Imperfect-I'mperfect"
@@ -2701,9 +5151,18 @@
         "upload_date": "20260702",
         "timestamp": 1782986439,
         "description": "☀️성수기 여름방학🌴\n\n#무신사 #무신사TV #성수기 #FIFTYFIFTY #피프티피프티#KEENA #키나 #CHANELLEMOON #문샤넬 #YEWON #예원 #ATHENA #아테나 #촌캉스 #아이돌 #걸그룹\n\n* 무신사TV의 모든 콘텐츠는 무신사 스토어에서 판매하는 상품의 광고와 판매 지원을 위해 제작되었습니다.\n* 타인을 비방하거나 욕설, 비속어, 차별적 내용, 신체적 비하 등의 불쾌감을 줄 수 있는 댓글은 무통보 삭제될 수 있습니다.\n* 특정 브랜드에 대한 단순 비난, 허위 사실 유포, 브랜드의 판매 정책에 대한 비난 등의 댓글은 무통보 삭제될 수 있습니다. \n* 유튜브 채널 운영의 방해 또는 정상적인 운영을 저해하는 댓글은 무통보 삭제될 수 있습니다.\n* 상업적인 의도 (광고, 홍보 등) 목적의 댓글은 무통보 삭제될 수 있습니다.\n* 스토어 관련 CS 문의는 고객센터를 이용해 주시기 바랍니다.",
-        "tags": [],
+        "tags": [
+          "Peak Season",
+          "おつかれSUMMER - Halcali",
+          "Musinsa TV",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
         "categories": [
-          "Entertainment"
+          "Variety",
+          "Clips"
         ],
         "live_status": "not_live",
         "was_live": false,
@@ -2719,8 +5178,15 @@
           "sddefault": "https://i.ytimg.com/vi/mNPv0Qxe3Q0/sddefault.jpg",
           "maxresdefault": "https://i.ytimg.com/vi/mNPv0Qxe3Q0/maxresdefault.jpg"
         },
-        "series": [],
-        "cast": [],
+        "series": [
+          "Peak Season (Musinsa TV)"
+        ],
+        "cast": [
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
         "status": null,
         "era": "Imperfect-I'mperfect"
       },
@@ -2738,13 +5204,14 @@
         "timestamp": 1782967073,
         "description": "#하남시 #이현재 #민선9기 #박서진 #피프티피프티 #박다현 #최홍림\n\n하남시 민선9기 출범 기념 시민 축제 하이라이트",
         "tags": [
-          "하남시청",
-          "하남",
-          "방울이",
-          "하남이"
+          "Ambassador / Model / Muse / Face",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
         ],
         "categories": [
-          "Nonprofits & Activism"
+          "Variety"
         ],
         "live_status": "not_live",
         "was_live": false,
@@ -2761,7 +5228,12 @@
           "maxresdefault": "https://i.ytimg.com/vi/acLoW6tYSts/maxresdefault.jpg"
         },
         "series": [],
-        "cast": [],
+        "cast": [
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
         "status": null,
         "era": "Imperfect-I'mperfect"
       },
@@ -4364,16 +6836,17 @@
         "timestamp": 1782192378,
         "description": "",
         "tags": [
-          "하남문화예술회관",
-          "하남역사박물관",
-          "하남",
-          "공연",
-          "문화",
-          "예술",
-          "음악"
+          "2026 Music - The Hanam",
+          "Performance",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena",
+          "highlights",
+          "Brief appearance"
         ],
         "categories": [
-          "Entertainment"
+          "Performance"
         ],
         "live_status": "not_live",
         "was_live": false,
@@ -4390,7 +6863,12 @@
           "maxresdefault": "https://i.ytimg.com/vi/SDoYqjHhPJo/maxresdefault.jpg"
         },
         "series": [],
-        "cast": [],
+        "cast": [
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
         "status": null,
         "era": "Imperfect-I'mperfect"
       },
@@ -5378,7 +7856,7 @@
           "maxresdefault": "https://i.ytimg.com/vi/kmpcjknzh54/maxresdefault.jpg"
         },
         "series": [
-          "Mnet M Countdown"
+          "MNET M Countdown"
         ],
         "cast": [
           "Keena",
@@ -8251,15 +10729,19 @@
         "timestamp": 1781319616,
         "description": "[쇼! 음악중심] 눈 감고 들어도 피프트피프티 노래 #피프티피프티 #FIFTYFIFTY #shorts\n\nⓒ MBC&iMBC 무단 전재, 재배포 및 이용(AI학습 포함)금지",
         "tags": [
-          "쇼음악중심",
-          "음악중심",
-          "음중",
-          "쇼!음악중심",
-          "쇼! 음악중심",
-          "쇼음중"
+          "Like a Bubble",
+          "Show! Music Core",
+          "Music Show",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena",
+          "Performance"
         ],
         "categories": [
-          "Music"
+          "Music Show",
+          "Performance",
+          "Clips"
         ],
         "live_status": "not_live",
         "was_live": false,
@@ -8275,8 +10757,15 @@
           "sddefault": "https://i.ytimg.com/vi/GyBmG2GU4Nk/sddefault.jpg",
           "maxresdefault": "https://i.ytimg.com/vi/GyBmG2GU4Nk/maxresdefault.jpg"
         },
-        "series": [],
-        "cast": [],
+        "series": [
+          "MBC Show! Music Core"
+        ],
+        "cast": [
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
         "status": null,
         "era": "Imperfect-I'mperfect"
       },
@@ -8965,7 +11454,7 @@
           "maxresdefault": "https://i.ytimg.com/vi/PZ0arBnXBLw/maxresdefault.jpg"
         },
         "series": [
-          "Mnet M Countdown",
+          "MNET M Countdown",
           "Imperfect-I'mperfect"
         ],
         "cast": [
@@ -9018,7 +11507,7 @@
           "maxresdefault": "https://i.ytimg.com/vi/qQv4epKN7f4/maxresdefault.jpg"
         },
         "series": [
-          "Mnet M Countdown",
+          "MNET M Countdown",
           "Imperfect-I'mperfect"
         ],
         "cast": [
@@ -9115,7 +11604,7 @@
           "maxresdefault": "https://i.ytimg.com/vi/TtPav2UjQao/maxresdefault.jpg"
         },
         "series": [
-          "Mnet M Countdown",
+          "MNET M Countdown",
           "Imperfect-I'mperfect"
         ],
         "cast": [
@@ -15322,7 +17811,10 @@
         "is_live": false,
         "media_type": "video",
         "webpage_url": "https://www.youtube.com/watch?v=6Bw3xCzY9OQ",
-        "subtitles": [],
+        "subtitles": [
+          "en",
+          "ko"
+        ],
         "thumbnail": "https://i.ytimg.com/vi_webp/6Bw3xCzY9OQ/maxresdefault.webp",
         "thumbnails": {
           "default": "https://i.ytimg.com/vi/6Bw3xCzY9OQ/default.jpg",
@@ -33459,8 +35951,13 @@
           "sddefault": "https://i.ytimg.com/vi/UfxSGO3SVKo/sddefault.jpg",
           "maxresdefault": "https://i.ytimg.com/vi/UfxSGO3SVKo/maxresdefault.jpg"
         },
-        "series": [],
-        "cast": [],
+        "series": [
+          "KBS My Daytrip"
+        ],
+        "cast": [
+          "Chanelle Moon",
+          "Athena"
+        ],
         "status": null,
         "era": "Love Tune"
       },
@@ -33478,22 +35975,16 @@
         "timestamp": 1732189654,
         "description": "#아테나 #문샤넬 #피프티피프티\n#MyDaytrip #fiftyfifty #피프티피프티 #문샤넬 #아테나 #샤테나 #starrynight #경주 #Gyeongju  #마이데이트립\n➕ Music Bank\n2024 : https://youtube.com/playlist?list=PLMf7VY8La5RGepGK9YqHisey6H6KLQYPC\n2023 : https://youtube.com/playlist?list=PLMf7VY8La5RHGe90QRg_fH__B1NrbOcOb\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5REOohUTNebLTtU4Je5V4vft\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5RExE1YkVdBCHpaLsay2SnNa\nwith Lyrics : https://youtube.com/playlist?list=PLMf7VY8La5RF4H4lWe9tWNSSPH8Fhm1SD\n\n➕ Song Festival\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5RHbkr3Re0fXA38MVoyNI0R9\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5REQ1HJ1KqjWsZ9tTDKM1fgI\n2020 : https://youtube.com/playlist?list=PLMf7VY8La5RGym7CKoCfDFz_qb_WxU8Ry\n\n➕ Never Stop! Online Compilation Concert\nSeason #2 : https://youtube.com/playlist?list=PLMf7VY8La5RHtUcGjsT8qmRhfJG1ICQDo\nSeason #1 : https://youtube.com/playlist?list=PLMf7VY8La5RFFgnKp0iiXwKX39EGzhsDF\n\n➕ Exclusive\nBTS Stage : https://youtube.com/playlist?list=PLMf7VY8La5RFAM6Sgg4M9SkyGIusuhnac\nEditor's Pick! : https://youtube.com/playlist?list=PLMf7VY8La5RG9xT3U4l0GAPuA4CdeIi3R\n➕ LEGEND Video : \nhttps://youtube.com/playlist?list=PLMf7VY8La5RFS0XWTWFycvquksqgPeQ80\n\n➕ Subscribe KBS WORLD TV Official Pages\nYoutube Subscribe：https://www.youtube.com/kbsworld\nHomepage : http://www.kbsworld.co.kr \nFacebook : http://www.facebook.com/kbsworld\nTwitter : http://twitter.com/kbsworldtv \nInstagram : https://www.instagram.com/kbsworldtv/\nLine : https://goo.gl/g5iRQV\nAndroid Download : https://bit.ly/3Io5sri\nIOS Download : https://apple.co/3yQ0n7Z",
         "tags": [
-          "kbs",
-          "kbsworld",
-          "kbs world",
-          "KBSWorld",
           "KBS",
-          "kbsworldTV",
-          "kbs월드",
-          "월드TV",
-          "kbs 월드",
-          "world tv",
           "KBS WORLD TV",
-          "뮤직뱅크",
-          "musicbank"
+          "My Daytrip",
+          "Chanelle Moon",
+          "Athena",
+          "Teaser"
         ],
         "categories": [
-          "Entertainment"
+          "Variety",
+          "Teaser"
         ],
         "live_status": "not_live",
         "was_live": false,
@@ -33509,8 +36000,13 @@
           "sddefault": "https://i.ytimg.com/vi/jBx9_fw32HE/sddefault.jpg",
           "maxresdefault": "https://i.ytimg.com/vi/jBx9_fw32HE/maxresdefault.jpg"
         },
-        "series": [],
-        "cast": [],
+        "series": [
+          "KBS My Daytrip"
+        ],
+        "cast": [
+          "Chanelle Moon",
+          "Athena"
+        ],
         "status": null,
         "era": "Love Tune"
       },
@@ -33528,22 +36024,16 @@
         "timestamp": 1732188627,
         "description": "#아테나 #문샤넬 #피프티피프티\n#MyDaytrip #fiftyfifty #피프티피프티 #문샤넬 #아테나 #샤테나 #starrynight #경주 #Gyeongju  #마이데이트립\n➕ Music Bank\n2024 : https://youtube.com/playlist?list=PLMf7VY8La5RGepGK9YqHisey6H6KLQYPC\n2023 : https://youtube.com/playlist?list=PLMf7VY8La5RHGe90QRg_fH__B1NrbOcOb\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5REOohUTNebLTtU4Je5V4vft\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5RExE1YkVdBCHpaLsay2SnNa\nwith Lyrics : https://youtube.com/playlist?list=PLMf7VY8La5RF4H4lWe9tWNSSPH8Fhm1SD\n\n➕ Song Festival\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5RHbkr3Re0fXA38MVoyNI0R9\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5REQ1HJ1KqjWsZ9tTDKM1fgI\n2020 : https://youtube.com/playlist?list=PLMf7VY8La5RGym7CKoCfDFz_qb_WxU8Ry\n\n➕ Never Stop! Online Compilation Concert\nSeason #2 : https://youtube.com/playlist?list=PLMf7VY8La5RHtUcGjsT8qmRhfJG1ICQDo\nSeason #1 : https://youtube.com/playlist?list=PLMf7VY8La5RFFgnKp0iiXwKX39EGzhsDF\n\n➕ Exclusive\nBTS Stage : https://youtube.com/playlist?list=PLMf7VY8La5RFAM6Sgg4M9SkyGIusuhnac\nEditor's Pick! : https://youtube.com/playlist?list=PLMf7VY8La5RG9xT3U4l0GAPuA4CdeIi3R\n➕ LEGEND Video : \nhttps://youtube.com/playlist?list=PLMf7VY8La5RFS0XWTWFycvquksqgPeQ80\n\n➕ Subscribe KBS WORLD TV Official Pages\nYoutube Subscribe：https://www.youtube.com/kbsworld\nHomepage : http://www.kbsworld.co.kr \nFacebook : http://www.facebook.com/kbsworld\nTwitter : http://twitter.com/kbsworldtv \nInstagram : https://www.instagram.com/kbsworldtv/\nLine : https://goo.gl/g5iRQV\nAndroid Download : https://bit.ly/3Io5sri\nIOS Download : https://apple.co/3yQ0n7Z",
         "tags": [
-          "kbs",
-          "kbsworld",
-          "kbs world",
-          "KBSWorld",
           "KBS",
-          "kbsworldTV",
-          "kbs월드",
-          "월드TV",
-          "kbs 월드",
-          "world tv",
           "KBS WORLD TV",
-          "뮤직뱅크",
-          "musicbank"
+          "My Daytrip",
+          "Chanelle Moon",
+          "Athena",
+          "Teaser"
         ],
         "categories": [
-          "Entertainment"
+          "Variety",
+          "Teaser"
         ],
         "live_status": "not_live",
         "was_live": false,
@@ -33559,8 +36049,13 @@
           "sddefault": "https://i.ytimg.com/vi/svOU7KCzP4k/sddefault.jpg",
           "maxresdefault": "https://i.ytimg.com/vi/svOU7KCzP4k/maxresdefault.jpg"
         },
-        "series": [],
-        "cast": [],
+        "series": [
+          "KBS My Daytrip"
+        ],
+        "cast": [
+          "Chanelle Moon",
+          "Athena"
+        ],
         "status": null,
         "era": "Love Tune"
       },
@@ -33578,22 +36073,15 @@
         "timestamp": 1731976246,
         "description": "➕ Music Bank\n2024 : https://youtube.com/playlist?list=PLMf7VY8La5RGepGK9YqHisey6H6KLQYPC\n2023 : https://youtube.com/playlist?list=PLMf7VY8La5RHGe90QRg_fH__B1NrbOcOb\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5REOohUTNebLTtU4Je5V4vft\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5RExE1YkVdBCHpaLsay2SnNa\nwith Lyrics : https://youtube.com/playlist?list=PLMf7VY8La5RF4H4lWe9tWNSSPH8Fhm1SD\n\n➕ Song Festival\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5RHbkr3Re0fXA38MVoyNI0R9\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5REQ1HJ1KqjWsZ9tTDKM1fgI\n2020 : https://youtube.com/playlist?list=PLMf7VY8La5RGym7CKoCfDFz_qb_WxU8Ry\n\n➕ Never Stop! Online Compilation Concert\nSeason #2 : https://youtube.com/playlist?list=PLMf7VY8La5RHtUcGjsT8qmRhfJG1ICQDo\nSeason #1 : https://youtube.com/playlist?list=PLMf7VY8La5RFFgnKp0iiXwKX39EGzhsDF\n\n➕ Exclusive\nBTS Stage : https://youtube.com/playlist?list=PLMf7VY8La5RFAM6Sgg4M9SkyGIusuhnac\nEditor's Pick! : https://youtube.com/playlist?list=PLMf7VY8La5RG9xT3U4l0GAPuA4CdeIi3R\n➕ LEGEND Video : \nhttps://youtube.com/playlist?list=PLMf7VY8La5RFS0XWTWFycvquksqgPeQ80\n\n➕ Subscribe KBS WORLD TV Official Pages\nYoutube Subscribe：https://www.youtube.com/kbsworld\nHomepage : http://www.kbsworld.co.kr \nFacebook : http://www.facebook.com/kbsworld\nTwitter : http://twitter.com/kbsworldtv \nInstagram : https://www.instagram.com/kbsworldtv/\nLine : https://goo.gl/g5iRQV\nAndroid Download : https://bit.ly/3Io5sri\nIOS Download : https://apple.co/3yQ0n7Z",
         "tags": [
-          "kbs",
-          "kbsworld",
-          "kbs world",
-          "KBSWorld",
           "KBS",
-          "kbsworldTV",
-          "kbs월드",
-          "월드TV",
-          "kbs 월드",
-          "world tv",
           "KBS WORLD TV",
-          "뮤직뱅크",
-          "musicbank"
+          "My Daytrip",
+          "Chanelle Moon",
+          "Athena"
         ],
         "categories": [
-          "Entertainment"
+          "Variety",
+          "Clips"
         ],
         "live_status": "not_live",
         "was_live": false,
@@ -33609,8 +36097,13 @@
           "sddefault": "https://i.ytimg.com/vi/phXvqOhYs6M/sddefault.jpg",
           "maxresdefault": "https://i.ytimg.com/vi/phXvqOhYs6M/maxresdefault.jpg"
         },
-        "series": [],
-        "cast": [],
+        "series": [
+          "KBS My Daytrip"
+        ],
+        "cast": [
+          "Chanelle Moon",
+          "Athena"
+        ],
         "status": null,
         "era": "Love Tune"
       },
@@ -33628,31 +36121,16 @@
         "timestamp": 1731920437,
         "description": "#MyDaytrip #fiftyfifty #피프티피프티 #문샤넬 #아테나 #gravity #경주 #Gyeongju  #마이데이트립\n\n➕ Music Bank\n2024 : https://youtube.com/playlist?list=PLMf7VY8La5RGepGK9YqHisey6H6KLQYPC\n2023 : https://youtube.com/playlist?list=PLMf7VY8La5RHGe90QRg_fH__B1NrbOcOb\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5REOohUTNebLTtU4Je5V4vft\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5RExE1YkVdBCHpaLsay2SnNa\nwith Lyrics : https://youtube.com/playlist?list=PLMf7VY8La5RF4H4lWe9tWNSSPH8Fhm1SD\n\n➕ Song Festival\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5RHbkr3Re0fXA38MVoyNI0R9\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5REQ1HJ1KqjWsZ9tTDKM1fgI\n2020 : https://youtube.com/playlist?list=PLMf7VY8La5RGym7CKoCfDFz_qb_WxU8Ry\n\n➕ Never Stop! Online Compilation Concert\nSeason #2 : https://youtube.com/playlist?list=PLMf7VY8La5RHtUcGjsT8qmRhfJG1ICQDo\nSeason #1 : https://youtube.com/playlist?list=PLMf7VY8La5RFFgnKp0iiXwKX39EGzhsDF\n\n➕ Exclusive\nBTS Stage : https://youtube.com/playlist?list=PLMf7VY8La5RFAM6Sgg4M9SkyGIusuhnac\nEditor's Pick! : https://youtube.com/playlist?list=PLMf7VY8La5RG9xT3U4l0GAPuA4CdeIi3R\n➕ LEGEND Video : \nhttps://youtube.com/playlist?list=PLMf7VY8La5RFS0XWTWFycvquksqgPeQ80\n\n➕ Subscribe KBS WORLD TV Official Pages\nYoutube Subscribe：https://www.youtube.com/kbsworld\nHomepage : http://www.kbsworld.co.kr \nFacebook : http://www.facebook.com/kbsworld\nTwitter : http://twitter.com/kbsworldtv \nInstagram : https://www.instagram.com/kbsworldtv/\nLine : https://goo.gl/g5iRQV\nAndroid Download : https://bit.ly/3Io5sri\nIOS Download : https://apple.co/3yQ0n7Z",
         "tags": [
-          "kbs",
-          "kbsworld",
-          "kbs world",
-          "KBSWorld",
           "KBS",
-          "kbsworldTV",
-          "kbs월드",
-          "월드TV",
-          "kbs 월드",
-          "world tv",
           "KBS WORLD TV",
-          "뮤직뱅크",
-          "musicbank",
-          "MyDaytrip",
-          "fiftyfifty",
-          "피프티피프티",
-          "문샤넬",
-          "아테나",
-          "gravity",
-          "경주",
-          "Gyeongju",
-          "마이데이트립"
+          "My Daytrip",
+          "Chanelle Moon",
+          "Athena",
+          "Teaser"
         ],
         "categories": [
-          "Entertainment"
+          "Variety",
+          "Teaser"
         ],
         "live_status": "not_live",
         "was_live": false,
@@ -33668,8 +36146,13 @@
           "sddefault": "https://i.ytimg.com/vi/_MbIHnjOxF4/sddefault.jpg",
           "maxresdefault": "https://i.ytimg.com/vi/_MbIHnjOxF4/maxresdefault.jpg"
         },
-        "series": [],
-        "cast": [],
+        "series": [
+          "KBS My Daytrip"
+        ],
+        "cast": [
+          "Chanelle Moon",
+          "Athena"
+        ],
         "status": null,
         "era": "Love Tune"
       },
@@ -33735,22 +36218,19 @@
         "timestamp": 1727344474,
         "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\nM COUNTDOWN｜Ep.864\n피프티피프티 - 에스오에스 (FIFTY FIFTY - SOS)\n\nWorld No.1 K-POP Chart Show M COUNTDOWN\nEvery Thur 6PM(KST) Mnet Live on Air\n매주 목요일 저녁 6시 엠넷 생방송\n\n#티빙에서스트리밍",
         "tags": [
-          "FIFTYFIFTY",
-          "KPOP",
-          "MCD",
-          "MCOUNTDOWN",
-          "Mnet",
+          "MNET M Countdown",
           "SOS",
-          "에스오에스",
-          "엠넷",
-          "엠카",
-          "엠카운트다운",
-          "케이팝",
-          "티빙에서스트리밍",
-          "피프티피프티"
+          "Keena",
+          "Chanelle Moon",
+          "Hana",
+          "Yewon",
+          "Athena",
+          "Performance",
+          "Music Show"
         ],
         "categories": [
-          "Gaming"
+          "Music Show",
+          "Performance"
         ],
         "live_status": "not_live",
         "was_live": false,
@@ -33766,8 +36246,16 @@
           "sddefault": "https://i.ytimg.com/vi/MkoOmGRe0ug/sddefault.jpg",
           "maxresdefault": "https://i.ytimg.com/vi/MkoOmGRe0ug/maxresdefault.jpg"
         },
-        "series": [],
-        "cast": [],
+        "series": [
+          "MNET M Countdown"
+        ],
+        "cast": [
+          "Keena",
+          "Chanelle Moon",
+          "Hana",
+          "Yewon",
+          "Athena"
+        ],
         "status": null,
         "era": "Love Tune"
       },
@@ -34497,51 +36985,16 @@
         "timestamp": 1679909181,
         "description": "[Arirang Radio]\r\n\r\n[Monday] Music Lab with FIFTY FIFTY (피프티 피프티)\r\n\r\n🌟🕒 Radio’Clock!🌟\r\nDJ Ashley moves to a NEW studio, with NEW members for a NEW program! ʕ•̀ω•́ʔ🍀\r\n\r\n🔵 Playlist for the Series👉 https://www.youtube.com/playlist?list=PLlccVxYqfD_Qkizbr_1lGE1HU4lOtVpv7\r\n\r\n🔵 Twitter Page👉 https://twitter.com/Radio_Clock1516\r\n\r\n🔵 Instagram Page👉 https://www.instagram.com/arirang_radio_clock\r\n\r\n#피프티피프티 #FIFTYFIFTY #KPOP #fiftyfifty_Cupid #fiftyfiftycupid #fiftyfiftycupidlive #Cupidlive\n#피프티피프티_시오 #피프티피프티_아란 #피프티피프티_새나 #피프티피프티_키나 #Fiftyfifty_Saena #fiftyfifty_Sio #fiftyfifty_Aran #fiftyfifty_Keena",
         "tags": [
-          "Cupid",
-          "FIFTY FIFTY",
-          "Higher",
-          "arirang",
-          "arirangtv",
-          "culture",
-          "issue",
-          "korea",
-          "korean",
-          "kpop",
-          "news",
-          "song",
-          "tv",
-          "vod",
-          "youtube",
-          "새나",
-          "시오",
-          "아란",
-          "큐피드",
-          "키나",
-          "피프티피프티",
-          "im feeling lonely tiktok songs",
-          "tiktoksongs",
-          "틱톡노래모음",
-          "틱톡노래",
-          "틱톡 피프티피프티",
-          "틱톡 큐피드",
-          "a hopeless romantic all my life",
-          "im feeling lonely oh i wish",
-          "i'm feeling lonely",
-          "cupid fifty fifty reaction",
-          "cupid 라이브",
-          "cupid acoustic",
-          "a hopeless romantic all my life tiktok",
-          "cupid live",
-          "fiftyfifty live",
-          "vlvmxlvlvmxl fkdlqm",
-          "피프티피프티 라이브",
-          "큐피드 라이브",
-          "2milion views",
-          "큐피드 라이브 영상",
-          "barbie"
+          "Arirang Radio",
+          "Keena",
+          "Aran",
+          "Sio",
+          "Saena",
+          "Live Performance"
         ],
         "categories": [
-          "Entertainment"
+          "Radio",
+          "Live Performance"
         ],
         "live_status": "not_live",
         "was_live": false,
@@ -34557,8 +37010,15 @@
           "sddefault": "https://i.ytimg.com/vi/qSxkAXGzivU/sddefault.jpg",
           "maxresdefault": "https://i.ytimg.com/vi/qSxkAXGzivU/maxresdefault.jpg"
         },
-        "series": [],
-        "cast": [],
+        "series": [
+          "DJ Ashley's Radio' Clock"
+        ],
+        "cast": [
+          "Keena",
+          "Aran",
+          "Sio",
+          "Saena"
+        ],
         "status": null,
         "era": "The Beginning: Cupid"
       }
@@ -35362,6 +37822,48 @@
       ]
     },
     "weverse": [
+      {
+        "id": "3-237528183",
+        "platform": "Weverse",
+        "title": "뭐먹었엉?",
+        "uploader": "ATHENA",
+        "creators": [
+          "FIFTY FIFTY"
+        ],
+        "channel_id": "221",
+        "channel_url": "https://weverse.io/fiftyfifty",
+        "duration": 4042,
+        "duration_string": "1:07:22",
+        "upload_date": "20260730",
+        "timestamp": 1785381069,
+        "release_timestamp": 1785381069,
+        "description": "",
+        "tags": [
+          "Athena",
+          "Live Performance",
+          "Cover"
+        ],
+        "categories": [],
+        "live_status": "was_live",
+        "was_live": true,
+        "is_live": false,
+        "media_type": "video",
+        "webpage_url": "https://weverse.io/fiftyfifty/live/3-237528183",
+        "subtitles": [],
+        "thumbnail": "https://phinf.wevpstatic.net/MjAyNjA3MzBfMzAg/MDAxNzg1Mzg1MTE5ODg0.yF6dbS3E7yG-A1sXHyVMdSTP5buxpIqqMqp-F7yvFn0g.kTCE7xftDKdAaNgbEAYNFNNTIEUkafYXKGcTw07ityYg.JPEG/thumb.jpg",
+        "thumbnails": [
+          {
+            "url": "https://phinf.wevpstatic.net/MjAyNjA3MzBfMzAg/MDAxNzg1Mzg1MTE5ODg0.yF6dbS3E7yG-A1sXHyVMdSTP5buxpIqqMqp-F7yvFn0g.kTCE7xftDKdAaNgbEAYNFNNTIEUkafYXKGcTw07ityYg.JPEG/thumb.jpg",
+            "id": "0"
+          }
+        ],
+        "series": [],
+        "cast": [
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
       {
         "id": "0-177204462",
         "platform": "Weverse",
@@ -39985,6 +42487,295 @@
       }
     ],
     "youtube": [
+      {
+        "id": "BDLmBMq2KNg",
+        "platform": "youtube",
+        "title": "보지 마세요. 꼭 보세요. #FIFTYFIFTY #피프티피프티 #FIFTYFIFTY_StillLoBubble",
+        "uploader": "FIFTY FIFTY Official",
+        "creators": [],
+        "channel_id": "UCJEER74X9kBenMT_x9iK9Mw",
+        "channel_url": "https://www.youtube.com/channel/UCJEER74X9kBenMT_x9iK9Mw",
+        "duration": 11,
+        "duration_string": "11",
+        "upload_date": "20260730",
+        "timestamp": 1785416417,
+        "description": "",
+        "tags": [
+          "Asia Fancon Tour (Still LoBubble)",
+          "Festivals, Events, Concerts, Tours",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Clips"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=BDLmBMq2KNg",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/BDLmBMq2KNg/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/BDLmBMq2KNg/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/BDLmBMq2KNg/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/BDLmBMq2KNg/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/BDLmBMq2KNg/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/BDLmBMq2KNg/maxresdefault.jpg"
+        },
+        "series": [],
+        "cast": [
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "zPl9advK0sU",
+        "platform": "youtube",
+        "title": "FIFTY FIFTY (피프티피프티) 'Genie Magic' Performance Video @EVERLAND",
+        "uploader": "FIFTY FIFTY Official",
+        "creators": [],
+        "channel_id": "UCJEER74X9kBenMT_x9iK9Mw",
+        "channel_url": "https://www.youtube.com/channel/UCJEER74X9kBenMT_x9iK9Mw",
+        "duration": 189,
+        "duration_string": "3:09",
+        "upload_date": "20260730",
+        "timestamp": 1785402029,
+        "description": "ⓒ 2026 ATTRAKT. All Rights Reserved\n\n📌FIFTY FIFTY OFFICIAL SNS\nFIFTY FIFTY OFFICIAL Instagram : https://www.instagram.com/we_fiftyfifty/\nFIFTY FIFTY OFFICIAL X(Twitter) : https://twitter.com/we_fiftyfifty\nFIFTY FIFTY OFFICIAL TikTok : https://www.tiktok.com/@we_fiftyfifty\nFIFTY FIFTY OFFICIAL YouTube : www.youtube.com/@we_fiftyfifty\nFIFTY FIFTY OFFICIAL Fan Community : https://weverse.io/fiftyfifty\nFIFTY FIFTY OFFICIAL Facebook : https://www.facebook.com/we.fiftyfifty \nFIFTY FIFTY OFFICIAL STORE : https://fiftyfifty.rosecityworks.com/ \n\n\n#FIFTYFIFTY #피프티피프티\n#KEENA #키나\n#CHANELLEMOON #문샤넬\n#YEWON #예원\n#HANA #하나\n#ATHENA #아테나",
+        "tags": [
+          "Genie Magic",
+          "Performance Video",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena",
+          "Performance"
+        ],
+        "categories": [
+          "Performance"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "video",
+        "webpage_url": "https://www.youtube.com/watch?v=zPl9advK0sU",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi_webp/zPl9advK0sU/maxresdefault.webp",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/zPl9advK0sU/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/zPl9advK0sU/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/zPl9advK0sU/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/zPl9advK0sU/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/zPl9advK0sU/maxresdefault.jpg"
+        },
+        "series": [],
+        "cast": [
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "FSJ7qQqIgVA",
+        "platform": "youtube",
+        "title": "#tripleS #이지우 님의 달콤한 Genie Magic✨ #FIFTYFIFTY #피프티피프티 #Genie_Magic_challenge",
+        "uploader": "FIFTY FIFTY Official",
+        "creators": [],
+        "channel_id": "UCJEER74X9kBenMT_x9iK9Mw",
+        "channel_url": "https://www.youtube.com/channel/UCJEER74X9kBenMT_x9iK9Mw",
+        "duration": 36,
+        "duration_string": "36",
+        "upload_date": "20260729",
+        "timestamp": 1785326413,
+        "description": "",
+        "tags": [
+          "Jiwoo (TripleS)",
+          "Chanelle Moon",
+          "Yewon",
+          "Genie Magic"
+        ],
+        "categories": [
+          "Challenges"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=FSJ7qQqIgVA",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/FSJ7qQqIgVA/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/FSJ7qQqIgVA/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/FSJ7qQqIgVA/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/FSJ7qQqIgVA/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/FSJ7qQqIgVA/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/FSJ7qQqIgVA/maxresdefault.jpg"
+        },
+        "series": [
+          "Genie Magic Challenge"
+        ],
+        "cast": [
+          "Jiwoo (TripleS)",
+          "Chanelle Moon",
+          "Yewon"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "1EsLCRmEa7o",
+        "platform": "youtube",
+        "title": "#엄지훈 님은 Glowing…눈부셔…✨ #FIFTYFIFTY #피프티피프티#Genie_Magic_challenge #엄지윤",
+        "uploader": "FIFTY FIFTY Official",
+        "creators": [],
+        "channel_id": "UCJEER74X9kBenMT_x9iK9Mw",
+        "channel_url": "https://www.youtube.com/channel/UCJEER74X9kBenMT_x9iK9Mw",
+        "duration": 26,
+        "duration_string": "26",
+        "upload_date": "20260729",
+        "timestamp": 1785322802,
+        "description": "",
+        "tags": [
+          "Um Ji-hoon (Um Ji-yoon)",
+          "Um Ji-yoon",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena",
+          "Genie Magic"
+        ],
+        "categories": [
+          "Challenges"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=1EsLCRmEa7o",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/1EsLCRmEa7o/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/1EsLCRmEa7o/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/1EsLCRmEa7o/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/1EsLCRmEa7o/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/1EsLCRmEa7o/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/1EsLCRmEa7o/maxresdefault.jpg"
+        },
+        "series": [
+          "Genie Magic Challenge"
+        ],
+        "cast": [
+          "Um Ji-hoon (Um Ji-yoon)",
+          "Um Ji-yoon",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "9TlEguna6x4",
+        "platform": "youtube",
+        "title": "#WHIB #원준 님은 뭐든 make it happen👻💫 #FIFTYFIFTY #피프티피프티 #Genie_Magic_challenge",
+        "uploader": "FIFTY FIFTY Official",
+        "creators": [],
+        "channel_id": "UCJEER74X9kBenMT_x9iK9Mw",
+        "channel_url": "https://www.youtube.com/channel/UCJEER74X9kBenMT_x9iK9Mw",
+        "duration": 33,
+        "duration_string": "33",
+        "upload_date": "20260729",
+        "timestamp": 1785312022,
+        "description": "",
+        "tags": [
+          "Wonjun (WHIB)",
+          "Genie Magic"
+        ],
+        "categories": [
+          "Challenges"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=9TlEguna6x4",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/9TlEguna6x4/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/9TlEguna6x4/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/9TlEguna6x4/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/9TlEguna6x4/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/9TlEguna6x4/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/9TlEguna6x4/maxresdefault.jpg"
+        },
+        "series": [
+          "Genie Magic Challenge"
+        ],
+        "cast": [
+          "Wonjun (WHIB)"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
+      {
+        "id": "2bAA2DUnqSE",
+        "platform": "youtube",
+        "title": "저 햇살도 트웨니를 위한 것만 같이🧚🏻*:｡:*☆ #FIFTYFIFTY #피프티피프티 #Genie_Magic #Genie_Magic_challenge",
+        "uploader": "FIFTY FIFTY Official",
+        "creators": [],
+        "channel_id": "UCJEER74X9kBenMT_x9iK9Mw",
+        "channel_url": "https://www.youtube.com/channel/UCJEER74X9kBenMT_x9iK9Mw",
+        "duration": 24,
+        "duration_string": "24",
+        "upload_date": "20260729",
+        "timestamp": 1785304827,
+        "description": "",
+        "tags": [
+          "Genie Magic",
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "categories": [
+          "Challenges"
+        ],
+        "live_status": "not_live",
+        "was_live": false,
+        "is_live": false,
+        "media_type": "short",
+        "webpage_url": "https://www.youtube.com/watch?v=2bAA2DUnqSE",
+        "subtitles": [],
+        "thumbnail": "https://i.ytimg.com/vi/2bAA2DUnqSE/maxresdefault.jpg",
+        "thumbnails": {
+          "default": "https://i.ytimg.com/vi/2bAA2DUnqSE/default.jpg",
+          "mqdefault": "https://i.ytimg.com/vi/2bAA2DUnqSE/mqdefault.jpg",
+          "hqdefault": "https://i.ytimg.com/vi/2bAA2DUnqSE/hqdefault.jpg",
+          "sddefault": "https://i.ytimg.com/vi/2bAA2DUnqSE/sddefault.jpg",
+          "maxresdefault": "https://i.ytimg.com/vi/2bAA2DUnqSE/maxresdefault.jpg"
+        },
+        "series": [
+          "Genie Magic Challenge"
+        ],
+        "cast": [
+          "Keena",
+          "Chanelle Moon",
+          "Yewon",
+          "Athena"
+        ],
+        "status": null,
+        "era": "Imperfect-I'mperfect"
+      },
       {
         "id": "mHqaUPz2lWw",
         "platform": "youtube",
